@@ -1,0 +1,54 @@
+// MOBILE NAV
+
+.mobile_nav_wrapper {
+    position: relative;
+    transform: translateY(0);
+}
+
+// BILLBOARD
+
+.owl-carousel {
+    display: block;
+}
+.billboard_column {
+    display: none;
+}
+#carousel_fitness {
+    display: inline-block;
+}
+
+// GALLERY
+
+.tabs_navigation {
+    display: none;
+}
+.gallery_item_details_list {
+    display: block;
+    height: auto;
+}
+.gallery_item_details_list .gallery_item_details {
+    display: block;
+    padding-bottom: 5rem;
+}
+.gallery_item_details_list .gallery_item_details:last-child {
+    padding-bottom: 0;
+}
+.gallery_item_details_list .image_box .controls {
+    display: none;
+}
+
+.fitness_page .gallery {
+    display: none;
+}
+.gallery li {
+    float: left;
+}
+
+// MEDIA QUERIES
+
+@media only screen and (min-width: 64em) {
+    .billboard_column {
+        display: inline-block;
+        width: 33.333%;
+    }
+}

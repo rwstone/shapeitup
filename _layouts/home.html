@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include head.html has_carousel=true %}
+</head>
+<body>
+
+{% include header.html %}
+
+<div class="page-content home_page">
+
+    <div class="owl-carousel"><!--
+        --><div class="billboard_column" id="carousel_nutrition" style="background-image: url(/img/billboards/herbalife_staff.jpg);"><h1 class="title">Nutrition</h1></div><!--
+        --><div class="billboard_column" id="carousel_fitness" style="background-image: url(/img/billboards/fit_camp_outdoors.jpg)"><h1 class="title">Fitness</h1></div><!--
+        --><div class="billboard_column" id="carousel_fun" style="background-image: url(/img/billboards/fit_camp_group.jpg);"><h1 class="title">Fun</h1></div><!--
+    --></div>    
+
+    <ul class="home_box_container clearfix">
+        <li class="home_box first_color">
+            <h2>Upcoming Events</h2>
+            <ul class="items_list upcoming_events clearfix">
+                {% assign sorted_events = site.events | sort: "event_date" | where: "published",true %}
+                {% for event in sorted_events limit:4 %}
+                    {% assign odd_index = forloop.index | modulo:2 %}
+                    {% if odd_index == 1 %}
+                    <div class="home_box_column">
+                    {% endif %}
+                    <li{% if forloop.first == true %} class="first"{% endif %}>
+                        <a href="/events#{{ event.title | slugify }}">{{ event.title | escape }}</a>
+                        {% unless event.event_end_date and event.event_end_date != blank %}
+                            <div class="value">{{ event.event_date | date: "%b %-d" | escape }}</div>
+                        {% endunless %}
+                    </li>
+                    {% if odd_index == 0 %}
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <div class="action_area">
+                <a class="mb_button" href="/events">Details</a>
+            </div>
+        </li>
+        <li class="home_box second_color">
+            <h2>Nutrition Club</h2>
+            <div class="home_box_text">
+                {{ page.nutrition_description | escape | markdownify }}
+            </div>
+            <div class="action_area">
+                <a class="mb_button" href="/nutrition" title="More">More</a>
+            </div>
+        </li>
+        <li class="home_box third_color">
+            <h2>Group Fitness Rates</h2>
+            <ul class="items_list price_list clearfix">
+                {% for pass in page.passes limit:4 %}
+                    {% assign odd_index = forloop.index | modulo:2 %}
+                    {% if odd_index == 1 %}
+                    <div class="home_box_column">
+                    {% endif %}
+                    <li{% if forloop.first == true %} class="first"{% endif %}>
+                        {{ pass.name | escape }}{% if pass.is_sale == true %} <p class="sale">Sale!</p>{% endif %}
+                        <div class="value">{{ pass.price | escape }}</div>
+                    </li>
+                    {% if odd_index == 0 %}
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <div class="action_area">
+                <a href="https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=41&sTG=22" class="mb_button">Buy a Pass</a>
+            </div>
+        </li>
+    </ul>
+
+    <section class="main_content_container transition_section">
+        <div class="main_content">
+            <div class="divider"></div>
+            <h2>{{ site.data.company.name | escape }}</h2>
+            <div class="main_content_text">
+                {{ content }}
+            </div>
+        </div>
+    </section>
+
+</div>
+
+{% include footer.html %}
+<script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   crossorigin="anonymous"></script>
+<script src="/owl-carousel/owl.carousel.js"></script>
+<script src="/js/shapeitup.js"></script>
+
+</body>
+
+</html>

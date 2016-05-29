@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% if page.banner_image and page.banner_image != blank %}
+    <div class="billboard_banner" style="background-image:url('{{ page.banner_image | escape }}');"></div>
+{% endif %}
+
+<section class="main_content_container transition_section">
+    <div class="main_content">
+        <div class="divider"></div>
+        <h1>{{ page.title | escape }}</h1>
+        <div class="main_content_text">
+            {{ content }}
+        </div>
+    </div>
+</section>

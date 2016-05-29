@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Contact | Shape It Up Nutrition and Fitness</title>
+
+
+<link rel="canonical" href="http://shapeitupnutritionfitness.com.s3-website-us-east-1.amazonaws.com/contact/">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700|Raleway|Droid+Serif:400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="/css/reset.css">
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/jquery-ui-selectmenu.css">
+
+
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+
+
+
+<noscript>
+    <link rel="stylesheet" type="text/css" href="/css/no-js.css">
+</noscript>
+
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+
+
+</head>
+<body>
+
+
+
+<nav id="mobile_nav_container" class="mobile_nav_wrapper clearfix">
+    <ul class="mobile_nav clearfix"><!--
+        --><li>
+            <a href="/nutrition"><div class="tmp_li">Nutrition</div></a>
+        </li><!--
+        --><li>
+            <a href="/fitness">Fitness</a>
+        </li><!--
+        --><li>
+            <a href="/schedule">Schedule</a>
+        </li><!--
+        --><li>
+            <a href="/events">Events</a>
+        </li><!--
+        --><li>
+            <a href="/staff">Staff</a>
+        </li><!--
+        --><li class="selected">
+            <a href="/contact">Contact</a>
+        </li><!--
+    --></ul>
+
+    <div class="mobile_nav_bar clearfix">
+        <div class="header_left">
+            <a href="/">
+                <img src="/img/logos/shapeitup.svg" alt="logo" />
+            </a>
+        </div>
+
+        <button id="hamburger" class="hamburger">&nbsp;</button>
+    </div>
+</nav>
+
+
+
+<div class="header_container">
+    <div class="header clearfix">
+        <div class="header_left">
+            <a href="/">
+                <img src="/img/logos/shapeitup.svg" alt="logo" />
+            </a>
+        </div>
+        <ul class="sf-menu header_right">
+            <li>
+                <a href="/nutrition">Nutrition</a>
+            </li>
+            <li>
+                <a href="/fitness">Fitness</a>
+            </li>
+            <li>
+                <a href="/schedule">Schedule</a>
+            </li>
+            <li>
+                <a href="/events">Events</a>
+            </li>
+            <li>
+                <a href="/staff">Staff</a>
+            </li>
+            <li class="selected">
+                <a href="/contact">Contact</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+<div class="page-content contact_page">
+
+    <div class="page">
+    
+        <h1>Contact</h1>
+        
+        <div class="columns full_width page_margin_top clearfix">
+            
+            <div class="column_left clearfix">
+                <h3 class="box_header">Email us</h3>
+                <form class="contact_form" id="contact_form" method="post" action="https://formspree.io/info@rebeccawstone.com">
+                    <fieldset class="left">
+                        <div class="block">
+                            <input class="text_input" name="name" id="user_name" type="text" placeholder="Your Name *" required />
+                        </div>
+                        <div class="block">
+                            <input class="text_input" name="_replyto" type="email" placeholder="Your Email" />
+                        </div>
+                        <div class="block">
+                            <input class="text_input" name="phone" type="text" placeholder="or Your Phone" />
+                        </div>
+                        <div class="block">
+                            <select name="_subject" class="text_input" class="selectmenu" id="selectmenu">
+                                <option value="default" disabled selected hidden>Subject... *</option>
+                                <option value="Nutrition Club">Nutrition Club</option>
+                                <option value="Fitness Classes">Fitness Classes</option>
+                                <option value="Personal Training">Personal Training</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </div>
+                    </fieldset><!-- closes left fieldset -->
+                    <fieldset class="right">
+                        <div class="block">
+                            <textarea name="message" id="user_message" placeholder="Message *" required></textarea>
+                        </div>
+                        <input type="hidden" name="_next" value="http://shapeitupnutritionfitness.com.s3-website-us-east-1.amazonaws.com/thanks" />
+              <!--          <input type="hidden" name="_cc" value="another@email.com" /> -->
+                        <input type="text" id="fun_field" name="_gotcha"/>
+                        <input name="submit" type="submit" value="Send" />
+
+                    </fieldset><!-- closes right fieldset -->
+                </form>
+            </div><!-- closes left column -->
+            
+            <div class="column_right cleafix">
+                <h3 class="box_header">
+                    On The Map
+                </h3>
+                <div class="contact_details page_margin_top">
+                    <div class="contact_details_about">
+                        <span>Shape It Up</span>
+                        <p>
+                            611 Waterman Avenue<br />
+                            East Providence, RI 02914
+                        </p>
+                        <ul class="contact_data">
+                            <li>401-270-2929</li>
+                            <li><a href="mailto:shapeupeastprovidence@gmail.com">shapeupeastprovidence@gmail.com</a></li>
+                        </ul>
+                    </div>
+                    <div class="contact_details_map" id="map"></div>
+                </div><!-- closes contact_details -->
+            </div><!-- closes right column -->
+    
+        </div><!-- closes columns -->
+
+    </div><!-- closes page -->
+
+</div><!-- closes page-content -->
+
+<footer>
+    <ul class="footer_banner_box_container clearfix">
+        <li class="footer_banner_box first_color thumbsup">
+            <h2>Follow our latest!</h2>
+            <ul class="footer_social_icons"><!--
+                --><li><a class="social_icon facebook" href="https://www.facebook.com/Shapeup02914">&nbsp;</a></li><!--
+                --><li><a class="social_icon twitter" href="https://twitter.com/ShapeUpEastProv">&nbsp;</a></li><!--
+            --></ul>
+        </li>
+        <li class="footer_banner_box second_color barbell">
+            <a href="/fitness#gallery-details-personal-training">
+                <h2>Personal Training</h2>
+                <h3>Find your form.</h3>
+            </a>
+        </li>
+        <li class="footer_banner_box third_color sneaker">
+            <h2>Give us a try.</h2>
+            <h3>Your first class is free.</h3>
+        </li>
+    </ul>
+    <div class="footer_logo">
+        <img src="/img/logos/shapeitup_on_dark.svg">
+        <div class="footer_tagline">Come as strangers, leave as family.</div>
+    </div>
+    <div class="footer_contact_info clearfix">
+        <div class="footer_column">
+            <ul class="footer_contact_info_item">
+                <li class="footer_contact_info_line">
+                    611 Waterman Avenue
+                </li>
+                <li class="footer_contact_info_line">
+                    East Providence, RI 02914
+                </li>
+            </ul>
+        </div>
+        <div class="footer_column">
+            <ul class="footer_contact_info_item">
+                <li class="footer_contact_info_line">
+                    401-270-2929
+                </li>
+                <li class="footer_contact_info_line">
+                    <a href="mailto:shapeupeastprovidence@gmail.com">shapeupeastprovidence@gmail.com</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="footer_contact_info footer_disclaimers">
+        <div class="divider"></div>
+        <div class="clearfix">
+            <div class="footer_column">
+                <ul class="footer_contact_info_item">
+                    <li class="footer_contact_info_line">
+                        &copy; 2016 Shape It Up
+                    </li>
+                </ul>
+            </div>
+            <div class="footer_column">
+                <ul class="footer_contact_info_item">
+                    <li class="footer_contact_info_line">
+                        <a href="/privacy/">Privacy Policy</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   crossorigin="anonymous"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGvbe8Hmh69VYA9XG9oeZtpJLuabnDC28"></script>
+<script type="text/javascript" src="/js/jquery-ui-selectmenu.min.js"></script>
+<script type="text/javascript" src="/js/contact.js"></script>
+<script type="text/javascript" src="/js/shapeitup.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,286 @@
+.clearfix:after
+{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* --- columns --- */
+.column_left
+{
+	float: left;
+
+}
+.column_right
+{
+	float: right;
+}
+
+/* --- list --- */
+.list
+{
+	clear: both;
+	padding: 21px 0;
+}
+.list li
+{
+	background-position: left center;
+	padding-left: 18px;
+}
+
+.columns.full_width {
+    .column_left, .column_right {
+        width: 100%;
+        box-sizing: border-box;
+    }
+    .column_left {
+        margin-right: 0;
+    }
+}
+
+.columns .box_header {
+   margin-bottom: 25px;
+}
+.column_left {
+    margin-bottom: 3rem;
+}
+.columns p {
+	clear: both;
+    font-size: 0.9em; 
+    padding: 21px 0;    
+}
+
+
+
+//@media only screen and (min-width: 60em) {
+@media only screen and (min-width: 960px) {
+
+    .columns.full_width {
+        .column_left, .column_right {
+            width: 50%;
+            margin-bottom: 0;
+        }
+        .column_left {
+            padding-right: 30px;
+        }
+    }
+}
+
+//@media only screen and (min-width: 61.25em) {
+@media only screen and (min-width: 980px) {
+    .columns p, .list {
+        padding: 25px 0;    
+    }
+}
+
+
+/* --- page --- */
+
+.page
+{
+	padding-bottom: 30px;
+}
+
+.page_margin_top {
+    margin-top: 23px;
+}
+
+.page {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.schedule_page .page, .staff_page .page, .fitness_page .page, .contact_page .page {
+    margin-top: 40px;
+    padding-bottom: 4.5rem;
+}
+
+
+//@media only screen and (min-width: 56em) {
+@media only screen and (min-width: 896px) {
+    .page {
+        width: $content_width;
+        max-width: 96%;
+    }
+}
+
+@media only screen and (min-width: 980px) {
+    .page_margin_top {
+        margin-top: 30px;
+    }
+}
+
+
+// MAIN PAGE CONTENT
+
+.main_content_container {
+    background-color: $color_neutral;
+    padding-bottom: 6rem;
+    position: relative;
+    &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: 100px;
+        width: 100%;
+        background-color: $color_background;    
+    }
+}
+
+// This is the (light background) last section before the footer, so make the color transition to the footer.
+.main_content_container.transition_section::after {
+    content: '';
+    position: absolute;
+    bottom: -50px;
+    height: 52px;
+    width: 100%;
+    background-color: $color_neutral;
+}
+
+// Use an empty divider element and the decorated mixin to create the 3-color horizontal dividers.
+.divider {
+    position: absolute;
+    height: $height_colored_divider;
+    width: 50%;
+    background-color: $third_color;
+    top: 0;
+    right: 0;
+}
+
+@mixin decorated($height) {
+    &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        height: $height;
+        width: 50%;
+        background-color: $first_color;
+    }
+    &::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        height: $height;
+        width: 33.3333%;
+        left: 33.3333%;
+        background-color: $second_color;
+    }
+}
+
+.main_content {
+    @include decorated($height_colored_divider);
+    
+    position: relative;
+    width: $content_width;
+    box-sizing: border-box;
+    max-width: 90%;
+    background: #fff;
+    border-radius: 0 0 $section_border_radius $section_border_radius;
+    margin: 4rem auto 0;
+    padding: 4rem 1rem 6rem;
+    box-shadow: 0px 4px 3px 0 lighten($second_color,40%);
+
+    h1, h2 {
+        color: $color_black;
+        font-size: 1.75rem;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+}
+
+$height_event_divider: 6px;
+.upcoming_event {
+    @include decorated($height_event_divider);
+    
+    margin: 0 auto;
+    max-width: 40rem;
+    position: relative;
+    margin-bottom: 2rem;
+    h3, h4 {
+        color: $color_black;
+        text-align: center;
+    }
+    h3 {
+        padding: 2rem 0 1rem;
+        font-size: 1.5rem;
+    }
+    h4 {
+        padding-bottom: 1.5rem;
+        font-size: 1.3rem;    
+    }
+    .divider {
+        height: $height_event_divider;
+    }
+    .main_content_text {
+        margin-bottom: 1rem;
+    }
+    .mb_button {
+        color: $color_font;
+        &:hover {
+            color: #fff;
+        }
+    }
+}
+
+.main_content_text {
+    margin: 0 auto;
+    max-width: 40rem;
+    color: $color-black;
+    line-height: 1.7;
+    p, ul, ol {
+        margin-bottom: 1.7em;
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+    ul, ol {
+        list-style-position: outside;
+        margin-left: 2em;
+    }
+    ul {
+        list-style-type: disc;
+    }
+    ol {
+        list-style-type: decimal;
+    }
+}
+
+
+//@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 400px) {
+    .main_content {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+//@media only screen and (min-width: 56em) {
+@media only screen and (min-width: 896px) {
+    .main_content {
+        max-width: 96%;
+        padding-top: 6rem;
+        h1, h2 {
+            font-size: 2.25rem;
+            margin-bottom: 4rem;
+        }
+    }
+    .main_content_text {
+        line-height: 2;
+        font-size: 1.1rem;
+    }
+    .upcoming_event {
+        h3 {
+            font-size: 1.75rem;
+        }
+        .mb_button {
+            color: $color_font;
+            &:hover {
+                color: #fff;
+            }
+        }
+    }
+}        
+        
