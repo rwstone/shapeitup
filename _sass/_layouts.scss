@@ -51,8 +51,6 @@
 }
 
 
-
-//@media only screen and (min-width: 60em) {
 @media only screen and (min-width: 960px) {
 
     .columns.full_width {
@@ -66,7 +64,6 @@
     }
 }
 
-//@media only screen and (min-width: 61.25em) {
 @media only screen and (min-width: 980px) {
     .columns p, .list {
         padding: 25px 0;    
@@ -97,7 +94,6 @@
 }
 
 
-//@media only screen and (min-width: 56em) {
 @media only screen and (min-width: 896px) {
     .page {
         width: $content_width;
@@ -249,7 +245,6 @@ $height_event_divider: 6px;
 }
 
 
-//@media only screen and (min-width: 25em) {
 @media only screen and (min-width: 400px) {
     .main_content {
         padding-left: 2rem;
@@ -257,7 +252,6 @@ $height_event_divider: 6px;
     }
 }
 
-//@media only screen and (min-width: 56em) {
 @media only screen and (min-width: 896px) {
     .main_content {
         max-width: 96%;

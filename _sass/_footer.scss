@@ -129,7 +129,7 @@ footer {
     }
 }
 
-//@media only screen and (min-width: 37.5em) {
+
 @media only screen and (min-width: 600px) {
    .footer_banner_box_container {
         width: $content_width;
@@ -167,8 +167,6 @@ footer {
     }
 }
 
-
-
 @media only screen and (min-width: 768px) {
     .footer_column {
         padding: 1rem 2rem 1.5rem;
@@ -191,9 +189,6 @@ footer {
             }
         }
     }
-}
-
-@media only screen and (min-width: 768px) {
     .footer_banner_box_container {
         h2 {
             font-size: 20px;
@@ -211,8 +206,6 @@ footer {
     }
 }
 
-
-//@media only screen and (min-width: 56em) {
 @media only screen and (min-width: 896px) {
     .footer_banner_box_container {
         width: $content_width;
@@ -239,7 +232,6 @@ footer {
     }
 }
 
-//@media only screen and (min-width: 64em) {
 @media only screen and (min-width: 1024px) {
     .footer_banner_box_container {
         h2 {
