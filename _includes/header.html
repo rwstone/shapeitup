@@ -1,0 +1,68 @@
+{% if jekyll.environment == "production" %}
+    {% include analytics.html %}
+{% endif %}
+
+<nav id="mobile_nav_container" class="mobile_nav_wrapper clearfix">
+    <ul class="mobile_nav clearfix"><!--
+        --><li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
+            <a href="/nutrition"><div class="tmp_li">Nutrition</div></a>
+        </li><!--
+        --><li{% if page.url == "/fitness/" %} class="selected"{% endif %}>
+            <a href="/fitness">Fitness</a>
+        </li><!--
+        --><li{% if page.url == "/schedule/" %} class="selected"{% endif %}>
+            <a href="/schedule">Schedule</a>
+        </li><!--
+        --><li{% if page.url == "/events/" %} class="selected"{% endif %}>
+            <a href="/events">Events</a>
+        </li><!--
+        --><li{% if page.url == "/staff/" %} class="selected"{% endif %}>
+            <a href="/staff">Staff</a>
+        </li><!--
+        --><li{% if page.url == "/contact/" %} class="selected"{% endif %}>
+            <a href="/contact">Contact</a>
+        </li><!--
+    --></ul>
+
+    <div class="mobile_nav_bar clearfix">
+        <div class="header_left">
+            <a href="/">
+                <img src="/img/logos/shapeitup.svg" alt="logo" />
+            </a>
+        </div>
+
+        <button id="hamburger" class="hamburger">&nbsp;</button>
+    </div>
+</nav>
+
+
+
+<div class="header_container">
+    <div class="header clearfix">
+        <div class="header_left">
+            <a href="/">
+                <img src="/img/logos/shapeitup.svg" alt="logo" />
+            </a>
+        </div>
+        <ul class="sf-menu header_right">
+            <li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
+                <a href="/nutrition">Nutrition</a>
+            </li>
+            <li{% if page.url == "/fitness/" %} class="selected"{% endif %}>
+                <a href="/fitness">Fitness</a>
+            </li>
+            <li{% if page.url == "/schedule/" %} class="selected"{% endif %}>
+                <a href="/schedule">Schedule</a>
+            </li>
+            <li{% if page.url == "/events/" %} class="selected"{% endif %}>
+                <a href="/events">Events</a>
+            </li>
+            <li{% if page.url == "/staff/" %} class="selected"{% endif %}>
+                <a href="/staff">Staff</a>
+            </li>
+            <li{% if page.url == "/contact/" %} class="selected"{% endif %}>
+                <a href="/contact">Contact</a>
+            </li>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,72 @@
+// BILLBOARD
+
+
+
+.billboard_banner {
+    margin: 0 auto;
+    width: 1344px;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
+
+.billboard, .owl-carousel {
+    margin: 0 auto;
+    width: 448px;
+    max-width: 100%;
+}
+
+.billboard {
+    #billboard_slide1, #billboard_slide3 {
+        display: none;
+    }
+}
+
+.billboard_column {
+    box-sizing: border-box;
+    width: 448px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    
+    h1.title {
+        position: absolute;
+        left: 50%;
+        bottom: 15%;
+        text-shadow: 1px 1px 0px #000;
+        transform: translate(-50%,0);
+        border-top: 3px solid #fff;
+        border-bottom: 1px solid #fff;
+        padding-top: 11px;
+        padding-bottom: 14px;
+        text-transform: uppercase;
+        display: inline;
+        font-size: 48px;
+    }
+}
+
+.owl-theme .owl-controls .owl-page span {
+    background-color: $second_color;
+}
+
+
+@media only screen and (min-width: 1024px) {
+    .billboard {
+        width: 1344px;
+        max-width: 100%;
+        #billboard_slide1, #billboard_slide2, #billboard_slide3 {
+            width: 33.333%;
+            display: inline-block;
+        }
+    }
+
+    .owl-carousel {
+        width: 1344px;
+    }
+}

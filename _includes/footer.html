@@ -1,0 +1,67 @@
+<footer>
+    <ul class="footer_banner_box_container clearfix">
+        <li class="footer_banner_box first_color thumbsup">
+            <h2>Follow our latest!</h2>
+            <ul class="footer_social_icons"><!--
+                --><li><a class="social_icon facebook" href="{{ site.data.company.facebook | escape }}">&nbsp;</a></li><!--
+                --><li><a class="social_icon twitter" href="{{ site.data.company.twitter | escape }}">&nbsp;</a></li><!--
+            --></ul>
+        </li>
+        <li class="footer_banner_box second_color barbell">
+            <a href="/fitness#gallery-details-personal-training">
+                <h2>Personal Training</h2>
+                <h3>Find your form.</h3>
+            </a>
+        </li>
+        <li class="footer_banner_box third_color sneaker">
+            <h2>Give us a try.</h2>
+            <h3>Your first class is free.</h3>
+        </li>
+    </ul>
+    <div class="footer_logo">
+        <img src="/img/logos/shapeitup_on_dark.svg">
+        <div class="footer_tagline">Come as strangers, leave as family.</div>
+    </div>
+    <div class="footer_contact_info clearfix">
+        <div class="footer_column">
+            <ul class="footer_contact_info_item">
+                <li class="footer_contact_info_line">
+                    {{ site.data.company.address1 | escape }}
+                </li>
+                <li class="footer_contact_info_line">
+                    {{ site.data.company.address2 | escape }}
+                </li>
+            </ul>
+        </div>
+        <div class="footer_column">
+            <ul class="footer_contact_info_item">
+                <li class="footer_contact_info_line">
+                    {{ site.data.company.phone | escape }}
+                </li>
+                <li class="footer_contact_info_line">
+                    <a href="mailto:{{ site.data.company.email | escape }}">{{ site.data.company.email | escape }}</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="footer_contact_info footer_disclaimers">
+        <div class="divider"></div>
+        <div class="clearfix">
+            <div class="footer_column">
+                <ul class="footer_contact_info_item">
+                    <li class="footer_contact_info_line">
+                        &copy; 2016 {{ site.data.company.name | escape }}
+                    </li>
+                </ul>
+            </div>
+            <div class="footer_column">
+                <ul class="footer_contact_info_item">
+                    <li class="footer_contact_info_line">
+                        <a href="/privacy/">Privacy Policy</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>

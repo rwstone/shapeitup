@@ -1,0 +1,93 @@
+// SCHEDULE
+
+.timetable {
+	width: 100%;
+	font-size: 11px;
+	color: #C5C5C5;
+	margin-top: 23px;
+}
+
+.timetable tbody tr {
+	background: url('../img/utils/dotted_line.png') left top repeat-x;
+}
+
+.timetable th, .timetable td {
+	width: 12.5%; // 1 time column, 7 days of the week.
+	text-align: center;
+	padding: 7px;
+}
+
+.timetable .last {
+	padding-right: 0;
+}
+
+.timetable .row_gray {
+    background-color: lighten($color_accent_background,10%);
+}
+
+.timetable .event {
+	background-color: $color_timetable;
+	color: #FFF;
+	border-bottom: 1px solid #151515;
+	border-right: 1px solid #151515;
+}
+
+.timetable .event a {
+	display: block;
+	color: #FFF;
+	font-weight: 700;
+	margin-bottom: 2px;
+}
+
+.timetable.small {
+	font-size: 13px;
+    padding-top: 10px;
+}
+
+.day-entry {
+    .box_header {
+        margin-bottom: 6px;
+    }
+}
+
+table.timetable {
+	display: none;
+    background-color: $color_accent_background;
+    thead th {
+        text-transform: uppercase;
+    }
+}
+
+@media screen and (min-width:768px)
+{
+	/* --- timetable --- */
+	table.timetable
+	{
+		display: table;
+	}
+	.timetable.small
+	{
+		display: none;
+	}
+}
+
+@media screen and (min-width:980px)
+{
+	.timetable
+	{
+		margin-top: 30px;
+        font-size: 12px;
+	}
+	.timetable th, .timetable td
+	{
+		padding: 15px;
+	}
+}
+
+@media screen and (min-width:1200px)
+{
+	.timetable
+	{
+        font-size: 13px;
+	}
+}

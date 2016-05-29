@@ -1,0 +1,31 @@
+/* COLORS */
+
+// Define color values.
+
+// Colors from the Shape It Up logo.
+$color_pink: rgb(228,160,167); // rgba(191,29,45,0.42), #bf1d2d6b, $color_red at 0.42;
+$color_blue: #2f3592; // rgb(47,53,146)
+$color_yellow: #f1ef1e;
+$color_black: #211d1d;
+// $color_red: #bf1c2d;
+// $color_green: #80cc2a; //rgb(128,204,42)
+
+// Shape It Up colors adapted.
+$color_purple: rgb(92,94,125);
+$color_darkpink: darken($color_pink,20%);
+$color_darkblue: darken($color_blue,20%);
+
+// Set theme colors.
+$first_color: darken($color_pink,10%);
+$second_color: lighten($color_black,30%);
+$third_color: $color_purple;
+$color_background: $color_darkblue;
+$color_timetable: $color_darkpink;
+$color_accent_background: $color_purple;
+
+$color_link: $color_yellow; // buttons and forms, more than actual links.
+$color_text_link: $first_color; 
+$color_text_linkhover: $first_color; 
+$color_font: $color_black;
+$color_neutral: lighten($second_color,50%);
+$color_font_neutral: #bbb;

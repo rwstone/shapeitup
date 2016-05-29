@@ -1,0 +1,69 @@
+// SCHEDULE
+
+.page-content {
+    margin-top: 0;
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+.schedule_page .page {
+    margin-top: 0;
+    padding-bottom: 0;
+}
+
+.page {
+    max-width: 100%;
+}
+
+.mobile_nav_wrapper, .sf-menu, footer {
+    display: none;
+}
+
+.header_container {
+    display: block;
+    text-align: center;
+    box-shadow: none;
+    .header_left {
+        float: none;
+        display: inline-block;
+    }
+    .sf-menu {
+        display: none;
+        height: 0;
+    }
+}
+
+.timetable.small {
+   display: none;
+}
+
+table.timetable {
+    display: table;
+}
+
+table, th, td {
+   border: 1px solid #ddd;
+}
+
+tr {
+    page-break-inside: avoid;
+}
+
+.timetable th, .timetable td {
+    padding: 6px 10px;
+}
+
+.timetable .event {
+	background-color: #fff;
+	color: #000;
+    border: 1px solid #ddd;
+    a {
+        color: #000;
+        font-weight: normal;
+    }
+}
+
+@page {
+    size: landscape;
+}

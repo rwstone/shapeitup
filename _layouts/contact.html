@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {% include head.html uses_form=true %}
+</head>
+<body>
+
+{% include header.html %}
+
+<div class="page-content contact_page">
+
+    <div class="page">
+    
+        <h1>{{ page.title | escape }}</h1>
+        
+        <div class="columns full_width page_margin_top clearfix">
+            
+            <div class="column_left clearfix">
+                <h3 class="box_header">Email us</h3>
+                <form class="contact_form" id="contact_form" method="post" action="https://formspree.io/info@rebeccawstone.com">
+                    <fieldset class="left">
+                        <div class="block">
+                            <input class="text_input" name="name" id="user_name" type="text" placeholder="Your Name *" required />
+                        </div>
+                        <div class="block">
+                            <input class="text_input" name="_replyto" type="email" placeholder="Your Email" />
+                        </div>
+                        <div class="block">
+                            <input class="text_input" name="phone" type="text" placeholder="or Your Phone" />
+                        </div>
+                        <div class="block">
+                            <select name="_subject" class="text_input" class="selectmenu" id="selectmenu">
+                                <option value="default" disabled selected hidden>Subject... *</option>
+                                <option value="Nutrition Club">Nutrition Club</option>
+                                <option value="Fitness Classes">Fitness Classes</option>
+                                <option value="Personal Training">Personal Training</option>
+                                <option value="Other">Other</option>
+                            </select>
+                        </div>
+                    </fieldset><!-- closes left fieldset -->
+                    <fieldset class="right">
+                        <div class="block">
+                            <textarea name="message" id="user_message" placeholder="Message *" required></textarea>
+                        </div>
+                        <input type="hidden" name="_next" value="{{ site.url }}/thanks" />
+              <!--          <input type="hidden" name="_cc" value="another@email.com" /> -->
+                        <input type="text" id="fun_field" name="_gotcha"/>
+                        <input name="submit" type="submit" value="Send" />
+
+                    </fieldset><!-- closes right fieldset -->
+                </form>
+            </div><!-- closes left column -->
+            
+            <div class="column_right cleafix">
+                <h3 class="box_header">
+                    On The Map
+                </h3>
+                <div class="contact_details page_margin_top">
+                    <div class="contact_details_about">
+                        <span>{{ site.data.company.name | escape }}</span>
+                        <p>
+                            {{ site.data.company.address1 | escape }}<br />
+                            {{ site.data.company.address2 | escape }}
+                        </p>
+                        <ul class="contact_data">
+                            <li>{{ site.data.company.phone | escape }}</li>
+                            <li><a href="mailto:{{ site.data.company.email | escape_uri }}">{{ site.data.company.email | escape }}</a></li>
+                        </ul>
+                    </div>
+                    <div class="contact_details_map" id="map"></div>
+                </div><!-- closes contact_details -->
+            </div><!-- closes right column -->
+    
+        </div><!-- closes columns -->
+
+    </div><!-- closes page -->
+
+</div><!-- closes page-content -->
+
+{% include footer.html %}
+<script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   crossorigin="anonymous"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGvbe8Hmh69VYA9XG9oeZtpJLuabnDC28"></script>
+<script type="text/javascript" src="/js/jquery-ui-selectmenu.min.js"></script>
+<script type="text/javascript" src="/js/contact.js"></script>
+<script type="text/javascript" src="/js/shapeitup.js"></script>
+
+</body>
+
+</html>

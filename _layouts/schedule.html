@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<div class="page">
+
+    <h1>{{ page.title | escape }}</h1>
+    
+    <table class="timetable page_margin_top">
+        <thead>
+            <tr>
+                <th></th>
+                {% for day in page.days %}
+                    <th>{{ day | escape }}</th>
+                {% endfor %}
+            </tr>
+        </thead>
+        <tbody>
+            {% include schedule-table.html time_slots=page.time_slots_morning days=page.days sessions=page.sessions %}
+            {% include schedule-table.html time_slots=page.time_slots_evening days=page.days sessions=page.sessions %}
+        </tbody>
+    </table><!-- closes timetable table -->
+    
+    <div class="timetable small page_margin_top">
+        {% for day in page.days %}
+
+            <div class="day-entry clearfix">
+                <h3 class="box_header{% if forloop.first == false %} page_margin_top{% endif %}">{{ day | escape }}</h3>
+                <ul class="items_list dark opening_hours clearfix">
+            
+                    {% comment %} Use brute force to cycle through the class times in order. It would take a custom sort routine to order the classes correctly, since the start times are stored as strings not times. {% endcomment %} 
+                    
+                    {% for time in page.time_slots_morning %}
+                        {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time %}
+                    
+                        {% for session in filtered_sessions %}
+                            <li class="icon_clock clearfix">
+                                <a href="/fitness#gallery-details-{{ session.class | slugify }}">
+                                    {{ session.class | escape }} with {{ session.instructor | escape }}
+                                </a>
+                                <div class="value">
+                                    {{ session.start_time | escape }} - {{ session.end_time | escape }}
+                                </div>
+                            </li>
+                        {% endfor %}
+
+                    {% endfor %}
+                    
+                    {% for time in page.time_slots_evening %}
+                        {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time %}
+                    
+                        {% for session in filtered_sessions %}
+                            <li class="icon_clock clearfix">
+                                <a href="/fitness#gallery-details-{{ session.class | slugify }}">
+                                    {{ session.class | escape }} with {{ session.instructor | escape }}
+                                </a>
+                                <div class="value">
+                                    {{ session.start_time | escape }} - {{ session.end_time | escape }}
+                                </div>
+                            </li>
+                        {% endfor %}
+
+                    {% endfor %}
+
+                </ul>
+            </div>
+        {% endfor %}
+    </div><!-- closes timetable small -->
+
+</div><!-- closes page -->
