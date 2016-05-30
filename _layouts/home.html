@@ -18,27 +18,41 @@
     <ul class="home_box_container clearfix">
         <li class="home_box first_color">
             <h2>Upcoming Events</h2>
+            {% assign sorted_events = site.events | sort: "event_date" | where: "published",true %}
+            {% if sorted_events.size == 0 %}
+            <div class="home_box_text">
+                No events currently scheduled.
+            </div>
+            {% else %}
             <ul class="items_list upcoming_events clearfix">
-                {% assign sorted_events = site.events | sort: "event_date" | where: "published",true %}
                 {% for event in sorted_events limit:4 %}
                     {% assign odd_index = forloop.index | modulo:2 %}
                     {% if odd_index == 1 %}
-                    <div class="home_box_column">
+                    <li>
+                        <ul class="home_box_column{% if forloop.first == true %} first_column{% endif %}">
                     {% endif %}
-                    <li{% if forloop.first == true %} class="first"{% endif %}>
-                        <a href="/events#{{ event.title | slugify }}">{{ event.title | escape }}</a>
-                        {% unless event.event_end_date and event.event_end_date != blank %}
-                            <div class="value">{{ event.event_date | date: "%b %-d" | escape }}</div>
-                        {% endunless %}
-                    </li>
+                            <li class="items_list_item{% if forloop.first == true %} first{% endif %}">
+                            {% if event.event_end_date and event.event_end_date != blank %}
+                                <a href="/events#{{ event.title | slugify }}">{{ event.title | escape }}</a>
+                            {% else %}
+                                <a href="/events#{{ event.title | slugify }}" class="with_date">{{ event.title | escape }}</a>
+                                <div class="value">{{ event.event_date | date: "%b %-d" | escape }}</div>
+                            {% endif %}
+                            </li>
                     {% if odd_index == 0 %}
-                    </div>
+                        </ul>
+                    </li>
                     {% endif %}
                 {% endfor %}
+                {% if sorted_events.size == 1 or sorted_events.size == 3 %}
+                        </ul>
+                    </li>
+                {% endif %}
             </ul>
             <div class="action_area">
                 <a class="mb_button" href="/events">Details</a>
             </div>
+            {% endif %}
         </li>
         <li class="home_box second_color">
             <h2>Nutrition Club</h2>
@@ -55,16 +69,22 @@
                 {% for pass in page.passes limit:4 %}
                     {% assign odd_index = forloop.index | modulo:2 %}
                     {% if odd_index == 1 %}
-                    <div class="home_box_column">
+                    <li>
+                        <ul class="home_box_column{% if forloop.first == true %} first_column{% endif %}">
                     {% endif %}
-                    <li{% if forloop.first == true %} class="first"{% endif %}>
-                        {{ pass.name | escape }}{% if pass.is_sale == true %} <p class="sale">Sale!</p>{% endif %}
-                        <div class="value">{{ pass.price | escape }}</div>
-                    </li>
+                            <li class="items_list_item{% if forloop.first == true %} first{% endif %}">
+                                {{ pass.name | escape }}{% if pass.is_sale == true %} <p class="sale">Sale!</p>{% endif %}
+                                <div class="value">{{ pass.price | escape }}</div>
+                            </li>
                     {% if odd_index == 0 %}
-                    </div>
+                        </ul>
+                    </li>
                     {% endif %}
                 {% endfor %}
+                {% if page.passes.size == 1 or page.passes.size == 3 %}
+                        </ul>
+                    </li>
+                {% endif %}
             </ul>
             <div class="action_area">
                 <a href="https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=41&sTG=22" class="mb_button">Buy a Pass</a>

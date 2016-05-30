@@ -33,7 +33,7 @@ layout: default
                         {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time %}
                     
                         {% for session in filtered_sessions %}
-                            <li class="icon_clock clearfix">
+                            <li class="items_list_item icon_clock clearfix">
                                 <a href="/fitness#gallery-details-{{ session.class | slugify }}">
                                     {{ session.class | escape }} with {{ session.instructor | escape }}
                                 </a>
@@ -49,7 +49,7 @@ layout: default
                         {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time %}
                     
                         {% for session in filtered_sessions %}
-                            <li class="icon_clock clearfix">
+                            <li class="items_list_item icon_clock clearfix">
                                 <a href="/fitness#gallery-details-{{ session.class | slugify }}">
                                     {{ session.class | escape }} with {{ session.instructor | escape }}
                                 </a>

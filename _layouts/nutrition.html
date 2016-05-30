@@ -57,7 +57,7 @@ layout: default
                 <h2 class="home_box_title">Nutrition Club Hours</h2>
                 <ul class="items_list opening_hours clearfix">
                     {% for entry in page.schedule %}
-                        <li class="icon_clock clearfix">
+                        <li class="items_list_item icon_clock clearfix">
                             <span>{{ entry.days | escape }}</span>
                             <div class="value">{{ entry.hours | escape }}</div>
                         </li>

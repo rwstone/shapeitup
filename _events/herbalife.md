@@ -1,6 +1,7 @@
 ---
 title: Herbalife Trial Packs
 date: 2016-05-01 15:23:28.864000000 -04:00
+published: true
 has_time_and_date: false
 event_date: 2016-05-01 07:00:00.486000000 Z
 event_end_date: 2016-05-31 22:00:00.486000000 Z

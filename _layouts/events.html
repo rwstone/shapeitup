@@ -12,6 +12,11 @@ layout: default
         <div class="divider"></div>
         <h1>{{ page.title | escape }}</h1>
         {% assign sorted_events = site.events | sort: "event_date" | where: "published",true %}
+        {% if sorted_events.size == 0 %}
+            <div class="main_content_text">
+                No events currently scheduled.
+            </div>
+        {% endif %}
         {% for event in sorted_events %}
             <div class="upcoming_event" id="{{ event.title | slugify }}">
                 <div class="divider"></div>
