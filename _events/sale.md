@@ -1,7 +1,6 @@
 ---
 title: May Super Savings
 date: 2016-05-01 15:23:00 -04:00
-published: true
 has_time_and_date: true
 event_date: 2016-05-28 07:30:00.000000000 Z
 event_end_date: 
