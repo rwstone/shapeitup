@@ -4,6 +4,6 @@ layout: page
 banner_image: "/img/billboards/zumba_do_si_do.jpg"
 ---
 
-Thanks for your interest in Shape It Up. Your email is on its way.
+Thanks for your interest in Shape It Up. Your email is on its way to us.
 
 We'll get back to you...right after this routine...

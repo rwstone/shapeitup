@@ -22,6 +22,7 @@ defaults:
     path: ''
     type: classes
   values:
+    published: true
     sub_heading: group exercise class
     class_type: dance fitness
     class_image: 
@@ -43,6 +44,7 @@ defaults:
     path: ''
     type: instructors
   values:
+    published: true
     classes:
     - Zumba
     image: 

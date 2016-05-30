@@ -58,5 +58,24 @@ jQuery(document).ready(function($){
                 return true;
             }
         });
+    } else {
+        $('.contact_form').submit(function (e) {
+            if ($('#user_name').val().trim() == '') {
+                e.preventDefault();
+                $('#user_name').focus();
+                return false;
+            }
+            if ($('#user_message').val().trim() == '') {
+                e.preventDefault();
+                $('#user_message').focus();
+                return false;
+            }
+            if (($('#selectmenu').val() == null) || ($('#selectmenu').val() == "default")) {
+                e.preventDefault();
+                $('#selectmenu-button').focus();
+                return false;
+            }
+            return true;
+        });        
     }
 });

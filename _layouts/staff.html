@@ -12,7 +12,8 @@
     <div class="page">
         <h1>{{ page.title | escape }}</h1>
         <ul class="gallery clearfix">
-            {% for instructor in site.instructors %}            
+            {% for instructor in site.instructors %} 
+                {% unless instructor.published == false %}
                 <li id="gallery-item-{{ instructor.name | slugify }}">
                     <div class="gallery_box">
                         {% if instructor.image and instructor.image != blank %}
@@ -26,6 +27,7 @@
                         </div>
                     </div>
                 </li>
+                {% endunless %}
             {% endfor %}
         </ul>
     </div><!-- closes page -->

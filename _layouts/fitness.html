@@ -38,7 +38,7 @@
         </ul>
         
         <ul class="gallery_item_details_list clearfix page_margin_top">
-            {% assign sorted_classes = site.classes | sort: "title" %}
+            {% assign sorted_classes = site.classes | where: "published",true | sort: "title" %}
             {% for class in sorted_classes %}
             <li id="gallery-details-{{ class.title | slugify }}" class="gallery_item_details clearfix">
                 <div class="image_box">
