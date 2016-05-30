@@ -2,6 +2,8 @@
 
 .mobile_nav_wrapper {
     position: relative;
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
     transform: translateY(0);
 }
 

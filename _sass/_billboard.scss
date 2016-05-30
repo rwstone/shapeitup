@@ -1,7 +1,5 @@
 // BILLBOARD
 
-
-
 .billboard_banner {
     margin: 0 auto;
     width: 1344px;
@@ -40,6 +38,8 @@
         left: 50%;
         bottom: 15%;
         text-shadow: 1px 1px 0px #000;
+        -webkit-transform: translate(-50%,0);
+        -ms-transform: translate(-50%,0);
         transform: translate(-50%,0);
         border-top: 3px solid #fff;
         border-bottom: 1px solid #fff;
