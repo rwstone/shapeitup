@@ -1,9 +1,9 @@
 ---
 title: May Super Savings
 date: 2016-05-01 15:23:00 -04:00
-has_time_and_date: true
-event_date: 2016-05-28 07:30:00.000000000 Z
-event_end_date: 
+has_time_and_date: false
+event_date: 2016-05-01 07:30:00.000000000 Z
+event_end_date: 2016-05-31 07:30:00.000000000 Z
 class: 
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=41
 button_label: Buy a Pass

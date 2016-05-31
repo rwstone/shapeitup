@@ -3,7 +3,7 @@ title: Shape Up For Spring
 date: 2016-05-01 15:23:00 -04:00
 published: false
 has_time_and_date: true
-event_date: 2016-06-04 00:00:00.000000000 Z
+event_date: 2016-07-06 10:00:00.000000000 Z
 class: Weight-Loss Challenge
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sTG=27&sVT=20
 button_label: Register
