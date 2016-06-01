@@ -33,8 +33,12 @@ layout: default
                 </div>
                 {% if event.button_link %}
                     <div class="action_area">
-                        {% comment %}Add the date to the link, even though it's not always needed/appropriate. MindBody, at least, will ignore the date if it doesn't make sense.{% endcomment %}
+                        {% comment %}Add the date to the MindBody link, even though it's not always needed/appropriate. MindBody will ignore the date if it doesn't make sense.{% endcomment %}
+                        {% if event.button_link contains "mindbody" %}
                         <a href="{{ event.button_link | escape }}&date={{ event.event_date | date: "%m/%d/%y" | uri_escape }}" class="mb_button">{{ event.button_label | escape }}</a>
+                        {% else %}
+                        <a href="{{ event.button_link | escape }}" class="mb_button">{{ event.button_label | escape }}</a>
+                        {% endif %}
                     </div>
                 {% endif %}
             </div>

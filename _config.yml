@@ -48,5 +48,5 @@ defaults:
     classes:
     - Zumba
     image: 
-url: http://shapeitupnutritionfitness.com.s3-website-us-east-1.amazonaws.com
+url: https://shapeitupnutritionfitness.com
 google_tracking: UA-77109672-1

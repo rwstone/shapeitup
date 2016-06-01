@@ -12,55 +12,49 @@ sessions:
   instructor: Felix
   day: Monday
   start_time: 9:30a
-  end_time: 10:30a
+  end_time: 10:20a
   length: 2
 - class: Zumba
   instructor: Felix
   day: Monday
   start_time: 6:30p
-  end_time: 7:30p
+  end_time: 7:20p
   length: 2
 - class: CIZE
   instructor: Bianca
   day: Tuesday
   start_time: 5:30p
-  end_time: 6:30p
+  end_time: 6:20p
   length: 2
 - class: H.I.I.T.
   instructor: April
   day: Tuesday
   start_time: 6:30p
-  end_time: 7:30p
+  end_time: 7:15p
   length: 2
 - class: Zumba
   instructor: Sonia
   day: Tuesday
   start_time: 7:30p
-  end_time: 8:30p
+  end_time: 8:20p
   length: 2
 - class: Zumba Toning
   instructor: Christine
   day: Wednesday
   start_time: 9:30a
-  end_time: 10:30a
-  length: 2
-- class: Kids Fit Camp
-  instructor: Christina
-  day: Wednesday
-  start_time: 5:30p
-  end_time: 6:15p
+  end_time: 10:15a
   length: 2
 - class: Zumba
   instructor: Silvia
   day: Wednesday
   start_time: 6:30p
-  end_time: 7:30p
+  end_time: 7:20p
   length: 2
 - class: Zumba
   instructor: Felix
   day: Wednesday
   start_time: 7:30p
-  end_time: 8:30p
+  end_time: 8:20p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -72,19 +66,19 @@ sessions:
   instructor: Christine
   day: Thursday
   start_time: 6:30p
-  end_time: 7:30p
+  end_time: 7:15p
   length: 2
 - class: Zumba
   instructor: Sonia
   day: Thursday
   start_time: 7:30p
-  end_time: 8:30p
+  end_time: 8:20p
   length: 2
 - class: Zumba
-  instructor: Silvia
+  instructor: Irene
   day: Friday
   start_time: 9:30a
-  end_time: 10:30a
+  end_time: 10:20a
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -92,36 +86,18 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
-- class: Kids Fit Camp
-  instructor: Christina
-  day: Saturday
-  start_time: 9:30a
-  end_time: 10:15a
-  length: 2
 - class: Zumba
   instructor: Nellie
   day: Saturday
   start_time: 10:30a
-  end_time: 11:30a
+  end_time: 11:20a
   length: 2
 - class: Zumba
   instructor: Lorenzo
   day: Sunday
   start_time: 10:00a
-  end_time: 11:00a
+  end_time: 10:50a
   length: 2
-- class: 24 Fit Camp
-  instructor: Felix
-  day: Monday
-  start_time: 6:30a
-  end_time: 7:00a
-  length: 1
-- class: 24 Fit Camp
-  instructor: Felix
-  day: Wednesday
-  start_time: 6:30a
-  end_time: 7:00a
-  length: 1
 days:
 - Monday
 - Tuesday
