@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html prefix="og: http://ogp.me/ns#">
 <head>
     {% include head.html %}
+    {% if page.banner_image and page.banner_image != blank %}
+        <meta property="og:image" content="{{ page.banner_image | prepend: site.url | escape }}" />
+    {% endif %}
 </head>
 <body>
     {% include header.html %}

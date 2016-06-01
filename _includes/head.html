@@ -5,6 +5,24 @@
 {% if page.description_seo %}<meta name="description" content="{{ page.description_seo | escape }}">{% endif %}
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+<meta property="og:locale" content="en_US" />
+{% if page.url == "/" %}
+<meta property="og:type" content="website" />
+{% else %}
+<meta property="og:type" content="article" />
+{% endif %}
+<meta property="og:title" content="{% if page.title_seo %}{{ page.title_seo | escape }}{% else %}{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endif %}" />
+{% if page.description_seo %}<meta property="og:description" content="{{ page.description_seo | escape }}" />{% endif %}
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+<meta property="og:site_name" content="{{ site.data.company.name }}" />
+<meta property="og:image" content="https://shapeitupnutritionfitness.com/img/logos/shapeitup.svg" />
+<meta name="twitter:card" content="summary" />
+{% if page.description_seo %}<meta name="twitter:description" content="{{ page.description_seo | escape }}" />{% endif %}
+<meta name="twitter:title" content="{% if page.title_seo %}{{ page.title_seo | escape }}{% else %}{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}{% endif %}" />
+<meta name="twitter:site" content="{{ site.data.company.twitter }}" />
+<meta name="twitter:creator" content="{{ site.data.company.twitter }}" />
+
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700%7CRaleway%7CDroid+Serif:400italic' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="/css/reset.css">
 
