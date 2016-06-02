@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-<div class="billboard_banner" style="background-image:url('{{ page.banner_image | escape }}');"></div>
+{% if page.banner_image and page.banner_image != blank %}
+    <div class="billboard_banner" style="background-image:url('{{ page.banner_image | escape }}');"></div>
+{% endif %}
 
 <section class="main_content_container nutrition">
     <div class="main_content">

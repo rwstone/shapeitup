@@ -2,6 +2,13 @@
 <html prefix="og: http://ogp.me/ns#">
 <head>
     {% include head.html %}
+    {% for instructor in site.instructors %} 
+        {% unless instructor.published == false %}
+            {% if instructor.image and instructor.image != blank %}
+                <meta property="og:image" content="{{ instructor.image | prepend: site.url | escape }}" />
+            {% endif %}
+        {% endunless %}
+    {% endfor %}
 </head>
 <body>
 

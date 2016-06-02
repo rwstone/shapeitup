@@ -1,47 +1,66 @@
----
-layout: default
----
-<div class="billboard"><!--
-    --><div class="billboard_column" id="billboard_slide1" style="background-image: url(/img/billboards/zumba_pink_out.jpg);"></div><!--
-    --><div class="billboard_column" id="billboard_slide2" style="background-image: url(/img/billboards/zumba_mardi_gras_felix.jpg);"></div><!--
-    --><div class="billboard_column" id="billboard_slide3" style="background-image: url(/img/billboards/zumba_disco.jpg);"></div><!--
---></div> 
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+<head>
+    {% include head.html %}
+    <meta property="og:image" content="{{ '/img/billboards/zumba_pink_out.jpg' | prepend: site.url }}" />
+    <meta property="og:image" content="{{ '/img/billboards/zumba_mardi_gras_felix.jpg' | prepend: site.url }}" />
+    <meta property="og:image" content="{{ '/img/billboards/zumba_disco.jpg' | prepend: site.url }}" />
+</head>
+<body>
+    {% include header.html %}
 
-<section class="main_content_container transition_section">
-    <div class="main_content">
-        <div class="divider"></div>
-        <h1>{{ page.title | escape }}</h1>
-        {% assign sorted_events = site.events | sort: "event_date" | where: "published",true %}
-        {% if sorted_events.size == 0 %}
-            <div class="main_content_text">
-                No events currently scheduled.
-            </div>
-        {% endif %}
-        {% for event in sorted_events %}
-            <div class="upcoming_event" id="{{ event.title | slugify }}">
+    <div class="page-content {{ page.url | slugify }}_page">
+
+        <div class="billboard"><!--
+            --><div class="billboard_column" id="billboard_slide1" style="background-image: url(/img/billboards/zumba_pink_out.jpg);"></div><!--
+            --><div class="billboard_column" id="billboard_slide2" style="background-image: url(/img/billboards/zumba_mardi_gras_felix.jpg);"></div><!--
+            --><div class="billboard_column" id="billboard_slide3" style="background-image: url(/img/billboards/zumba_disco.jpg);"></div><!--
+        --></div> 
+
+        <section class="main_content_container transition_section">
+            <div class="main_content">
                 <div class="divider"></div>
-                <h3>{{ event.title | escape }}</h3>
-                {% if event.has_time_and_date %}
-                    <h4>{{ event.event_date | date: "%a, %b %-d, at %-I:%M%p" | escape }}</h4>
-                {% elsif event.event_end_date %}
-                    <h4>{{ event.event_date | date: "%b %-d" | escape }} - {{ event.event_end_date | date: "%b %-d" | escape }}</h4>
-                {% else %}
-                    <h4>{{ event.event_date | date: "%a, %b %-d" | escape }}</h4>
-                {% endif %}
-                <div class="main_content_text">
-                    {{ event.content }}
-                </div>
-                {% if event.button_link %}
-                    <div class="action_area">
-                        {% comment %}Add the date to the MindBody link, even though it's not always needed/appropriate. MindBody will ignore the date if it doesn't make sense.{% endcomment %}
-                        {% if event.button_link contains "mindbody" %}
-                        <a href="{{ event.button_link | escape }}&date={{ event.event_date | date: "%m/%d/%y" | uri_escape }}" class="mb_button">{{ event.button_label | escape }}</a>
-                        {% else %}
-                        <a href="{{ event.button_link | escape }}" class="mb_button">{{ event.button_label | escape }}</a>
-                        {% endif %}
+                <h1>{{ page.title | escape }}</h1>
+                {% assign sorted_events = site.events | sort: "event_date" | where: "published",true %}
+                {% if sorted_events.size == 0 %}
+                    <div class="main_content_text">
+                        No events currently scheduled.
                     </div>
                 {% endif %}
+                {% for event in sorted_events %}
+                    <div class="upcoming_event" id="{{ event.title | slugify }}">
+                        <div class="divider"></div>
+                        <h3>{{ event.title | escape }}</h3>
+                        {% if event.has_time_and_date %}
+                            <h4>{{ event.event_date | date: "%a, %b %-d, at %-I:%M%p" | escape }}</h4>
+                        {% elsif event.event_end_date %}
+                            <h4>{{ event.event_date | date: "%b %-d" | escape }} - {{ event.event_end_date | date: "%b %-d" | escape }}</h4>
+                        {% else %}
+                            <h4>{{ event.event_date | date: "%a, %b %-d" | escape }}</h4>
+                        {% endif %}
+                        <div class="main_content_text">
+                            {{ event.content }}
+                        </div>
+                        {% if event.button_link %}
+                            <div class="action_area">
+                                {% comment %}Add the date to the MindBody link, even though it's not always needed/appropriate. MindBody will ignore the date if it doesn't make sense.{% endcomment %}
+                                {% if event.button_link contains "mindbody" %}
+                                <a href="{{ event.button_link | escape }}&date={{ event.event_date | date: "%m/%d/%y" | uri_escape }}" class="mb_button">{{ event.button_label | escape }}</a>
+                                {% else %}
+                                <a href="{{ event.button_link | escape }}" class="mb_button">{{ event.button_label | escape }}</a>
+                                {% endif %}
+                            </div>
+                        {% endif %}
+                    </div>
+                {% endfor %}
             </div>
-        {% endfor %}
+        </section>
     </div>
-</section>
+
+    {% include footer.html %}
+    <script src="https://code.jquery.com/jquery-1.12.3.min.js" integrity="sha256-aaODHAgvwQW1bFOGXMeX+pC4PZIPsvn2h1sArYOhgXQ="   crossorigin="anonymous"></script>
+    <script src="/js/shapeitup.js"></script>
+
+</body>
+
+</html>
