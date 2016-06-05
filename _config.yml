@@ -1,5 +1,6 @@
 ---
 title: Shape It Up Nutrition and Fitness
+timezone: UTC
 collections:
   classes:
     title: Classes
