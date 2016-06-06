@@ -35,7 +35,10 @@
                         <ul class="home_box_column{% if forloop.first == true %} first_column{% endif %}">
                     {% endif %}
                             <li class="items_list_item{% if forloop.first == true %} first{% endif %}">
-                            {% if event.event_end_date and event.event_end_date != blank %}
+                            {% if event.has_time_and_date == true %}
+                                <a href="/events#{{ event.title | slugify }}" class="with_date">{{ event.title | escape }}</a>
+                                <div class="value">{{ event.event_date | date: "%b %-d" | escape }}</div>
+                            {% elsif event.event_end_date and event.event_end_date != blank %}
                                 <a href="/events#{{ event.title | slugify }}">{{ event.title | escape }}</a>
                             {% else %}
                                 <a href="/events#{{ event.title | slugify }}" class="with_date">{{ event.title | escape }}</a>
