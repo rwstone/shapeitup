@@ -1,9 +1,9 @@
 ---
 title: Zumba in da Club
-date: 2016-05-01 15:23:00 -04:00
+date: 2016-05-01 19:23:00 Z
 published: false
 has_time_and_date: true
-event_date: 2016-06-10 23:30:00.000000000 Z
+event_date: 2016-06-10 23:30:00 Z
 class: Zumba in da Club
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-7&sTG=26&sVT=18
 button_label: Register
