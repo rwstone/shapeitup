@@ -45,7 +45,7 @@ sessions:
   end_time: 10:15a
   length: 2
 - class: Zumba
-  instructor: Silvia
+  instructor: Bianca
   day: Wednesday
   start_time: 6:30p
   end_time: 7:20p
@@ -98,6 +98,18 @@ sessions:
   start_time: 10:00a
   end_time: 10:50a
   length: 2
+- class: 24 Fit Camp
+  instructor: Felix
+  day: Tuesday
+  start_time: 6:30a
+  end_time: 7:00a
+  length: 1
+- class: 24 Fit Camp
+  instructor: Felix
+  day: Thursday
+  start_time: 6:30a
+  end_time: 7:00a
+  length: 1
 days:
 - Monday
 - Tuesday
