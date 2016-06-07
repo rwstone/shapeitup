@@ -1,8 +1,9 @@
 ---
 title: 24 Fit Camp
 date: 2016-05-01 19:23:00 Z
+published: false
 has_time_and_date: true
-event_date: 2016-06-05 10:00:00.000000000 Z
+event_date: 2016-06-05 10:00:00 Z
 class: 24 Fit Camp
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sTG=28&sVT=21
 button_label: Sign Up
