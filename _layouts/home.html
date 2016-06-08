@@ -30,7 +30,7 @@
             <ul class="items_list upcoming_events clearfix">
                 {% for event in sorted_events limit:4 %}
                     {% assign odd_index = forloop.index | modulo:2 %}
-                    {% if odd_index == 1 %}
+                    {% if odd_index == 1 or sorted_events.size == 2 %}
                     <li>
                         <ul class="home_box_column{% if forloop.first == true %} first_column{% endif %}">
                     {% endif %}
@@ -45,7 +45,7 @@
                                 <div class="value">{{ event.event_date | date: "%b %-d" | escape }}</div>
                             {% endif %}
                             </li>
-                    {% if odd_index == 0 %}
+                    {% if odd_index == 0 or sorted_events.size == 2 %}
                         </ul>
                     </li>
                     {% endif %}

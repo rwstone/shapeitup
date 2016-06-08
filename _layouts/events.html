@@ -31,9 +31,9 @@
                     <div class="upcoming_event" id="{{ event.title | slugify }}">
                         <div class="divider"></div>
                         <h3>{{ event.title | escape }}</h3>
-                        {% if event.has_time_and_date %}
+                        {% if event.has_time_and_date == true %}
                             <h4>{{ event.event_date | date: "%a, %b %-d, at %-I:%M%p" | escape }}</h4>
-                        {% elsif event.event_end_date %}
+                        {% elsif event.event_end_date and event.event_end_date != blank %}
                             <h4>{{ event.event_date | date: "%b %-d" | escape }} - {{ event.event_end_date | date: "%b %-d" | escape }}</h4>
                         {% else %}
                             <h4>{{ event.event_date | date: "%a, %b %-d" | escape }}</h4>
