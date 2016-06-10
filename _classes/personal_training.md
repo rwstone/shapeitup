@@ -7,7 +7,7 @@ class_image: "/uploads/personal_training.jpg"
 additional_info:
 - 30min ($30) or 60min ($60) Sessions
 - 4, 8 and 12 Session Packages ($80 - $480)
-button_link: "/contact"
+button_link: "/contact/"
 button_label: Request an Eval
 ---
 

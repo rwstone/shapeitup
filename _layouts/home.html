@@ -36,12 +36,12 @@
                     {% endif %}
                             <li class="items_list_item{% if forloop.first == true %} first{% endif %}">
                             {% if event.has_time_and_date == true %}
-                                <a href="/events#{{ event.title | slugify }}" class="with_date">{{ event.title | escape }}</a>
+                                <a href="/events/#{{ event.title | slugify }}" class="with_date">{{ event.title | escape }}</a>
                                 <div class="value">{{ event.event_date | date: "%b %-d" | escape }}</div>
                             {% elsif event.event_end_date and event.event_end_date != blank %}
-                                <a href="/events#{{ event.title | slugify }}">{{ event.title | escape }}</a>
+                                <a href="/events/#{{ event.title | slugify }}">{{ event.title | escape }}</a>
                             {% else %}
-                                <a href="/events#{{ event.title | slugify }}" class="with_date">{{ event.title | escape }}</a>
+                                <a href="/events/#{{ event.title | slugify }}" class="with_date">{{ event.title | escape }}</a>
                                 <div class="value">{{ event.event_date | date: "%b %-d" | escape }}</div>
                             {% endif %}
                             </li>
@@ -56,7 +56,7 @@
                 {% endif %}
             </ul>
             <div class="action_area">
-                <a class="mb_button" href="/events">Details</a>
+                <a class="mb_button" href="/events/">Details</a>
             </div>
             {% endif %}
         </li>
@@ -66,7 +66,7 @@
                 {{ page.nutrition_description | escape | markdownify }}
             </div>
             <div class="action_area">
-                <a class="mb_button" href="/nutrition" title="More">More</a>
+                <a class="mb_button" href="/nutrition/" title="More">More</a>
             </div>
         </li>
         <li class="home_box third_color">

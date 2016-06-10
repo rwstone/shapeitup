@@ -5,7 +5,7 @@ has_time_and_date: false
 event_date: 2016-06-01 07:30:00.000000000 Z
 event_end_date: 2016-08-31 07:30:00.000000000 Z
 class: 
-button_link: "/contact"
+button_link: "/contact/"
 button_label: Request an Eval
 ---
 
