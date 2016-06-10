@@ -2,8 +2,8 @@
 title: Summer Training Special
 date: 2016-05-01 15:23:00 -04:00
 has_time_and_date: false
-event_date: 2016-06-01 07:30:00.000000000 Z
-event_end_date: 2016-08-31 07:30:00.000000000 Z
+event_date: 2016-06-01 03:30:00 -04:00
+event_end_date: 2016-08-31 03:30:00 -04:00
 class: 
 button_link: "/contact/"
 button_label: Request an Eval
