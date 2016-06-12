@@ -16,8 +16,8 @@ passes:
 - name: Monthly Unlimited
   price: "$55"
   is_sale: false
-title_seo: Shape It Up Nutrition and Fitness | East Providence, RI
-description_seo: Shape It Up Nutrition and Fitness is an exercise studio in East Providence,
+title_seo: Shape It Up Nutrition & Fitness | East Providence, RI
+description_seo: Shape It Up Nutrition & Fitness is an exercise studio in East Providence,
   RI, with a fun and approachable attitude. We offer a smoothie bar, personal training
   and group exercise classes, including Zumba, Fit Camp and Barre Fusion.
 layout: home
