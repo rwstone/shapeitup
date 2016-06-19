@@ -23,7 +23,7 @@ Need a little extra motivation? The 3 biggest losers win cash prizes!
 
 Pay $10 to join the Challenge; your fee goes directly into the cash prize pot. You must attend all 6 weekly weigh-ins to be eligible for a prize.
 
-Kick off the Challenge with your first weigh-in July 11.
+Kick off the Challenge with your first weigh-in July 11, 7am - 8pm.
 
 The Challenge is open to all clients who purchase an eligible Herbalife Program Product (Prolessa Duo, Cell-U-Loss, Total Control or Herbalife Beverage Mix and Active Fiber Complex).
 
