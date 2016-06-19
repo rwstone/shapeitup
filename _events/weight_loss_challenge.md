@@ -1,9 +1,8 @@
 ---
 title: Summer Blast Challenge
 date: 2016-05-01 15:23:00 -04:00
-published: true
 has_time_and_date: false
-event_date: 2016-07-11 10:00:00.000000000 Z
+event_date: 2016-07-11 06:00:00 -04:00
 class: Weight-Loss Challenge
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sTG=27&sVT=20
 button_label: Enroll
