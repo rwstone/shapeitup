@@ -1,6 +1,5 @@
 ---
 title: Nutrition Club
-layout: nutrition
 title_seo: Nutrition Club and Smoothie Bar | Shape It Up Nutrition & Fitness
 description_seo: Enjoy smoothies, teas and protein snacks at our Smoothie Bar. Talk
   with a wellness coach, join a weightloss program or take part in fit camp.
@@ -21,7 +20,7 @@ service_boxes:
   button_link: https://www.goherbalife.com/marysantana
   button_label: Shop
 - title: Weight-Loss Challenge
-  sub_heading: 12-Week Program
+  sub_heading: 6-Week Program
   description: Coaching, meal planning, nutrition, weekly weigh-ins and group support.
   image: "/img/icons/scale.svg"
 - title: 24 Fit Camp
@@ -35,6 +34,7 @@ schedule:
   hours: 4:30p - 8:00p
 - days: Sat
   hours: 8:00a - 1:00p
+layout: nutrition
 ---
 
 Make healthier choices. Have more energy. Zip those jeans.
