@@ -1,7 +1,6 @@
 ---
 title: CIZE
 date: 2016-04-21 17:55:00 -04:00
-published: false
 sub_heading: group exercise class
 class_type: dance fitness
 class_image: "/uploads/empty_studio_class.jpg"
