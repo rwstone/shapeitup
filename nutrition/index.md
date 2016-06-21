@@ -24,7 +24,7 @@ service_boxes:
   description: Coaching, meal planning, nutrition, weekly weigh-ins and group support.
   image: "/img/icons/scale.svg"
 - title: 24 Fit Camp
-  sub_heading: Free 4-Week Program
+  sub_heading: Free 6-Week Program
   description: Get on a path to good health. Coaching, nutrition and boot camp workouts.
   image: "/img/icons/situp.svg"
 schedule:
