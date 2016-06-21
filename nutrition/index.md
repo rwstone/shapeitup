@@ -30,14 +30,14 @@ service_boxes:
 schedule:
 - days: Mon, Wed, Thurs, Fri
   hours: 7:00a - 2:00p
-- days: Tues
+- days: Tues (summer hours)
   hours: 7:00a - 12:00p
 - days: Mon - Thurs
   hours: 4:30p - 8:00p
 - days: Sat
   hours: 8:00a - 1:00p
-- days: Sun.
-  hours: 8:00a - 12:00p
+- days: Sun. (summer hours)
+  hours: '8:00a - 12:00p '
 layout: nutrition
 ---
 
