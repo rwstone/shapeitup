@@ -1,9 +1,9 @@
 ---
 title: Closed for Training
-date: 2016-05-01 19:23:28.864000000 Z
+date: 2016-05-01 15:23:28.864000000 -04:00
 published: false
 has_time_and_date: false
-event_date: 2016-05-22 07:00:00.486000000 Z
+event_date: 2016-05-22 03:00:00.486000000 -04:00
 class: Schedule
 ---
 
