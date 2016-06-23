@@ -1,8 +1,5 @@
 ---
 title: Nutrition Club
-title_seo: Nutrition Club and Smoothie Bar | Shape It Up Nutrition & Fitness
-description_seo: Enjoy smoothies, teas and protein snacks at our Smoothie Bar. Talk
-  with a wellness coach, join a weightloss program or take part in fit camp.
 banner_image: "/img/billboards/smoothie_bar.jpg"
 service_boxes:
 - title: Smoothie Bar
@@ -36,8 +33,11 @@ schedule:
   hours: 4:30p - 8:00p
 - days: Sat
   hours: 8:00a - 1:00p
-- days: Sun. (summer hours)
-  hours: '8:00a - 12:00p '
+- days: Sun (summer hours)
+  hours: 8:00a - 12:00p
+title_seo: Nutrition Club and Smoothie Bar | Shape It Up Nutrition & Fitness
+description_seo: Enjoy smoothies, teas and protein snacks at our Smoothie Bar. Talk
+  with a wellness coach, join a weightloss program or take part in fit camp.
 layout: nutrition
 ---
 

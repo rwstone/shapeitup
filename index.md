@@ -1,5 +1,12 @@
 ---
 title: Home
+banner:
+- image: /img/billboards/herbalife_staff.jpg
+  title: Nutrition
+- image: /img/billboards/fit_camp_outdoors.jpg
+  title: Fitness
+- image: /img/billboards/fit_camp_group.jpg
+  title: Fun
 nutrition_description: Get on the path to healthy nutrition. Start with a free wellness
   evaluation. Or, jump right to the fun part with one of our tasty shakes. Learn more
   about our nutrition services.

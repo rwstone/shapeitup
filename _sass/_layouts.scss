@@ -93,6 +93,10 @@
     padding-bottom: 4.5rem;
 }
 
+.schedule_page .page {
+    padding-bottom: 0;
+}
+
 
 @media only screen and (min-width: 896px) {
     .page {
@@ -133,6 +137,13 @@
     height: 52px;
     width: 100%;
     background-color: $color_neutral;
+}
+
+.schedule_page .main_content_container {
+ //   background-color: $color_background;
+    .main_content {
+ //       box-shadow: 0px 4px 3px 0 darken($color_background,10%);
+    }
 }
 
 // Use an empty divider element and the decorated mixin to create the 3-color horizontal dividers.
@@ -244,6 +255,9 @@ $height_event_divider: 6px;
     }
 }
 
+.schedule_page .main_content_text {
+    margin-bottom: 2rem;
+}
 
 @media only screen and (min-width: 400px) {
     .main_content {

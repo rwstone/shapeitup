@@ -1,4 +1,8 @@
-// SCHEDULE
+// SCHEDULE print styles
+
+$font_primary: 'Open Sans', Arial, sans-serif;
+$color_font: #211d1d;
+$color_font_neutral: #bbb;
 
 .page-content {
     margin-top: 0;
@@ -7,13 +11,75 @@
     }
 }
 
-.schedule_page .page {
-    margin-top: 0;
-    padding-bottom: 0;
-}
-
 .page {
     max-width: 100%;
+}
+
+.schedule_page {
+    .page {
+        margin-top: -35px;
+        padding-bottom: 8px;
+        position: relative;
+    }
+    h1 {
+        display: inline;
+        color: $color_font_neutral;
+    }
+    h2 {
+        display: none;
+    }
+    a {
+        color: $color_font;
+    }
+    .main_content, .upcoming_event {
+        &::before, &::after, .divider {
+            display: none;
+        }
+    }
+    .main_content_container {
+        padding-bottom: 0;
+        &.transition_section::after {
+            height: 0;
+        }
+    }
+    .main_content, .main_content *, .main_content_text, .main_content_text * {
+        font-size: 11px;
+        max-width: 100%;
+    }
+    .main_content_container .main_content {
+        max-width: 100%;
+        box-shadow: none;
+        padding: 0;
+        margin: 0;
+        h3, h4 {
+            display: inline;
+            font-family: $font_primary;
+            padding: 0;
+            line-height: normal;
+        }
+        .upcoming_event {
+            margin-top: 4px;
+            margin-bottom: 0;
+        }
+        .upcoming_event_date {
+            &::before {
+                content: "(";
+            }
+            &::after {
+                content: "): ";
+            }
+        }
+    }
+    .main_content_text {
+        display: inline;
+        margin-bottom: 0;
+        line-height: normal;
+        p {
+            display: inline;
+            margin: 0;
+            line-height: normal;
+        }
+    }
 }
 
 .mobile_nav_wrapper, .sf-menu, footer {
@@ -21,6 +87,7 @@
 }
 
 .header_container {
+    z-index: auto;
     display: block;
     text-align: center;
     box-shadow: none;
@@ -40,6 +107,7 @@
 
 table.timetable {
     display: table;
+    margin-top: 16px;
 }
 
 table, th, td {
@@ -56,10 +124,10 @@ tr {
 
 .timetable .event {
 	background-color: #fff;
-	color: #000;
+	color: $color_font;
     border: 1px solid #ddd;
     a {
-        color: #000;
+        color: $color_font;
         font-weight: normal;
     }
 }

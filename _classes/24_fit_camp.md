@@ -1,7 +1,7 @@
 ---
 title: 24 Fit Camp
 date: 2016-04-22 17:55:43.486000000 -04:00
-sub_heading: 4-week program
+sub_heading: 6-week program
 class_type: gym fitness
 class_image: "/uploads/fit_camp.jpg"
 ---

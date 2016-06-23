@@ -2,9 +2,11 @@
 <html prefix="og: http://ogp.me/ns#">
 <head>
     {% include head.html has_carousel=true %}
-    <meta property="og:image" content="{{ '/img/billboards/herbalife_staff.jpg' | prepend: site.url }}" />
-    <meta property="og:image" content="{{ '/img/billboards/fit_camp_outdoors.jpg' | prepend: site.url }}" />
-    <meta property="og:image" content="{{ '/img/billboards/fit_camp_group.jpg' | prepend: site.url }}" />
+    {% for panel in page.banner %}
+        {% if panel.image and panel.image != blank %}
+            <meta property="og:image" content="{{ panel.image | prepend: site.url | escape }}" />
+        {% endif %}
+    {% endfor %}
 </head>
 <body>
 
@@ -13,11 +15,11 @@
 <div class="page-content home_page">
 
     <div class="owl-carousel"><!--
-        --><div class="billboard_column" id="carousel_nutrition" style="background-image: url(/img/billboards/herbalife_staff.jpg);"><h1 class="title">Nutrition</h1></div><!--
-        --><div class="billboard_column" id="carousel_fitness" style="background-image: url(/img/billboards/fit_camp_outdoors.jpg)"><h1 class="title">Fitness</h1></div><!--
-        --><div class="billboard_column" id="carousel_fun" style="background-image: url(/img/billboards/fit_camp_group.jpg);"><h1 class="title">Fun</h1></div><!--
+        --><div class="billboard_column" id="carousel_nutrition" style="background-image: url({{ page.banner[0].image | default: "/img/billboards/herbalife_staff.jpg" | escape }});"><h1 class="title">{{ page.banner[0].title | default: "Nutrition" | escape }}</h1></div><!--
+        --><div class="billboard_column" id="carousel_fitness" style="background-image: url({{ page.banner[1].image | default: "/img/billboards/fit_camp_outdoors.jpg" | escape }})"><h1 class="title">{{ page.banner[1].title | default: "Fitness" | escape }}</h1></div><!--
+        --><div class="billboard_column" id="carousel_fun" style="background-image: url({{ page.banner[2].image | default: "/img/billboards/fit_camp_group.jpg" | escape }});"><h1 class="title">{{ page.banner[2].title | default: "Fun" | escape }}</h1></div><!--
     --></div>    
-
+    
     <ul class="home_box_container clearfix">
         <li class="home_box first_color">
             <h2>Upcoming Events</h2>

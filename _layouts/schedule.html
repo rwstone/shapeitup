@@ -5,6 +5,7 @@ layout: default
 
     <h1>{{ page.title | escape }}</h1>
     
+    
     <table class="timetable page_margin_top">
         <thead>
             <tr>
@@ -67,3 +68,30 @@ layout: default
     </div><!-- closes timetable small -->
 
 </div><!-- closes page -->
+
+<section class="main_content_container transition_section">
+    <div class="main_content">
+        <div class="divider"></div>
+        <h2>Notes and Changes</h2>
+        <div class="main_content_text">
+            {{ content }}
+        </div>
+        {% assign next_events = site.events | where: "published",true | where: "class","Schedule" | sort: "event_date" %}
+        {% for event in next_events %}
+            <div class="upcoming_event">
+                <div class="divider"></div>
+                <h3>{{ event.title | escape }}</h3>
+                {% if event.has_time_and_date == true %}
+                    <h4 class="upcoming_event_date">{{ event.event_date | date: "%a, %b %-d, at %-I:%M%p" | escape }}</h4>
+                {% elsif event.event_end_date and event.event_end_date != blank %}
+                    <h4 class="upcoming_event_date">{{ event.event_date | date: "%b %-d" | escape }} - {{ event.event_end_date | date: "%b %-d" | escape }}</h4>
+                {% else %}
+                    <h4 class="upcoming_event_date">{{ event.event_date | date: "%a, %b %-d" | escape }}</h4>
+                {% endif %}
+                <div class="main_content_text">
+                    {{ event.content }}
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</section>

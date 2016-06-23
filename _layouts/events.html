@@ -2,9 +2,11 @@
 <html prefix="og: http://ogp.me/ns#">
 <head>
     {% include head.html %}
-    <meta property="og:image" content="{{ '/img/billboards/zumba_pink_out.jpg' | prepend: site.url }}" />
-    <meta property="og:image" content="{{ '/img/billboards/zumba_mardi_gras_felix.jpg' | prepend: site.url }}" />
-    <meta property="og:image" content="{{ '/img/billboards/zumba_disco.jpg' | prepend: site.url }}" />
+    {% for panel in page.banner %}
+        {% if panel.image and panel.image != blank %}
+            <meta property="og:image" content="{{ panel.image | prepend: site.url | escape }}" />
+        {% endif %}
+    {% endfor %}
 </head>
 <body>
     {% include header.html %}
@@ -12,11 +14,11 @@
     <div class="page-content {{ page.url | slugify }}_page">
 
         <div class="billboard"><!--
-            --><div class="billboard_column" id="billboard_slide1" style="background-image: url(/img/billboards/zumba_pink_out.jpg);"></div><!--
-            --><div class="billboard_column" id="billboard_slide2" style="background-image: url(/img/billboards/zumba_mardi_gras_felix.jpg);"></div><!--
-            --><div class="billboard_column" id="billboard_slide3" style="background-image: url(/img/billboards/zumba_disco.jpg);"></div><!--
-        --></div> 
-
+            --><div class="billboard_column" id="billboard_slide1" style="background-image: url({{ page.banner[0].image | default: "/img/billboards/zumba_pink_out.jpg" | escape }});"></div><!--
+            --><div class="billboard_column" id="billboard_slide2" style="background-image: url({{ page.banner[1].image | default: "/img/billboards/zumba_mardi_gras_felix.jpg" | escape }})"></div><!--
+            --><div class="billboard_column" id="billboard_slide3" style="background-image: url({{ page.banner[2].image | default: "/img/billboards/zumba_disco.jpg" | escape }});"></div><!--
+        --></div>    
+    
         <section class="main_content_container transition_section">
             <div class="main_content">
                 <div class="divider"></div>

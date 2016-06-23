@@ -1,6 +1,5 @@
 ---
 title: Group Fitness Schedule
-description_seo: View our regular calendar of group exercise classes.
 sessions:
 - class: Pilates/Yoga
   instructor: Debbie
@@ -142,6 +141,7 @@ time_slots_evening:
 - 8:00p
 - 8:30p
 - 9:00p
+description_seo: View our regular calendar of group exercise classes.
 layout: schedule
 ---
-
+This is our regular weekly schedule. We are closed on major holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeup02914) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719).
