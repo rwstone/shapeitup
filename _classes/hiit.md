@@ -1,6 +1,7 @@
 ---
 title: H.I.I.T.
 date: 2016-04-22 17:55:00 -04:00
+published: false
 sub_heading: group exercise class
 class_type: gym fitness
 class_image: "/uploads/hiit.jpg"
