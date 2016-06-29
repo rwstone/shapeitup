@@ -7,6 +7,6 @@ event_end_date: 2016-07-04 18:00:00 -04:00
 class: Schedule
 ---
 
-July 4th is a Monday this year. So enjoy 3 whole days of BBQs, parades, fireworks and family!
+July 4th is a Monday this year. So enjoy 2 whole days of BBQs, parades, fireworks and family!
 
-Shape It Up is closed July 2nd through the 4th, but we'll see you on the 5th.
+Shape It Up is closed July 3rd through the 4th, but we'll see you on the 5th.
