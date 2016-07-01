@@ -19,18 +19,12 @@ sessions:
   start_time: 6:30p
   end_time: 7:20p
   length: 2
-- class: CIZE
-  instructor: Bianca
+- class: 24 Fit Camp
+  instructor: Felix
   day: Tuesday
-  start_time: 5:30p
-  end_time: 6:20p
-  length: 2
-- class: H.I.I.T.
-  instructor: April
-  day: Tuesday
-  start_time: 6:30p
-  end_time: 7:15p
-  length: 2
+  start_time: 6:30a
+  end_time: 7:00a
+  length: 1
 - class: Zumba
   instructor: Sonia
   day: Tuesday
@@ -55,6 +49,12 @@ sessions:
   start_time: 7:30p
   end_time: 8:20p
   length: 2
+- class: 24 Fit Camp
+  instructor: Felix
+  day: Thursday
+  start_time: 6:30a
+  end_time: 7:00a
+  length: 1
 - class: Barre Fusion
   instructor: Debbie
   day: Thursday
@@ -97,18 +97,6 @@ sessions:
   start_time: 10:00a
   end_time: 10:50a
   length: 2
-- class: 24 Fit Camp
-  instructor: Felix
-  day: Tuesday
-  start_time: 6:30a
-  end_time: 7:00a
-  length: 1
-- class: 24 Fit Camp
-  instructor: Felix
-  day: Thursday
-  start_time: 6:30a
-  end_time: 7:00a
-  length: 1
 days:
 - Monday
 - Tuesday
