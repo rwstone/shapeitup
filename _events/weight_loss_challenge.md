@@ -1,6 +1,7 @@
 ---
 title: Summer Blast Challenge
 date: 2016-05-01 15:23:00 -04:00
+published: false
 has_time_and_date: false
 event_date: 2016-07-11 06:00:00 -04:00
 class: Weight-Loss Challenge
