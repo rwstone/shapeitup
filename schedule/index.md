@@ -74,7 +74,7 @@ sessions:
   end_time: 8:20p
   length: 2
 - class: Zumba
-  instructor: Irene
+  instructor: Silvia
   day: Friday
   start_time: 9:30a
   end_time: 10:20a
@@ -91,13 +91,6 @@ sessions:
   start_time: 10:30a
   end_time: 11:20a
   length: 2
-- class: 
-  instructor: 
-  day: Sunday
-  start_time: 10:00a
-  end_time: 10:50a
-  length: 2
-  Key: 
 days:
 - Monday
 - Tuesday
@@ -105,7 +98,6 @@ days:
 - Thursday
 - Friday
 - Saturday
-- Sunday
 time_slots_morning:
 - 6:00a
 - 6:30a
