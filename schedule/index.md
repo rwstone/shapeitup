@@ -38,7 +38,7 @@ sessions:
   end_time: 10:15a
   length: 2
 - class: Zumba
-  instructor: Bianca
+  instructor: Silvia
   day: Wednesday
   start_time: 6:30p
   end_time: 7:20p
@@ -91,12 +91,13 @@ sessions:
   start_time: 10:30a
   end_time: 11:20a
   length: 2
-- class: Zumba
-  instructor: Lorenzo
+- class: 
+  instructor: 
   day: Sunday
   start_time: 10:00a
   end_time: 10:50a
   length: 2
+  Key: 
 days:
 - Monday
 - Tuesday
