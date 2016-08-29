@@ -17,7 +17,7 @@ service_boxes:
   button_link: https://www.goherbalife.com/marysantana
   button_label: Shop
 - title: Weight-Loss Challenge
-  sub_heading: 6-Week Program
+  sub_heading: 12-Week Program
   description: Coaching, meal planning, nutrition, weekly weigh-ins and group support.
   image: "/img/icons/scale.svg"
 - title: 24 Fit Camp
