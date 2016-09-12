@@ -26,15 +26,15 @@ service_boxes:
   image: "/img/icons/situp.svg"
 schedule:
 - days: Mon, Wed, Thurs, Fri
-  hours: 7:00a - 2:00p
-- days: Tues (summer hours)
-  hours: 7:00a - 12:00p
+  hours: 7:00a - 2:00pm
+- days: Tuesday
+  hours: 4:30pm -8:00pm
 - days: Mon - Thurs
-  hours: 4:30p - 8:00p
+  hours: 4:30p - 8:00pm
 - days: Sat
-  hours: 8:00a - 1:00p
-- days: Sun (summer hours)
-  hours: 8:00a - 12:00p
+  hours: 8:00a - 1:00pm
+- days: closed
+  hours: 
 title_seo: Nutrition Club and Smoothie Bar | Shape It Up Nutrition & Fitness
 description_seo: Enjoy smoothies, teas and protein snacks at our Smoothie Bar. Talk
   with a wellness coach, join a weightloss program or take part in fit camp.
