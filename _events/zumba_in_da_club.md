@@ -1,14 +1,15 @@
 ---
 title: Zumba in da Club
-date: 2016-05-01 19:23:00 Z
+date: 2016-05-01 15:23:00 -04:00
 published: false
 has_time_and_date: true
-event_date: 2016-06-10 23:30:00 Z
+event_date: 2016-10-21 19:30:00 -04:00
+event_end_date: 2016-10-21 21:00:00 -04:00
 class: Zumba in da Club
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-7&sTG=26&sVT=18
 button_label: Register
 ---
 
-Join Christine for Zumba in da Club on Friday, April 29, 2016, from 7:30pm-9:00pm. Doors open at 7pm.
+Join us for Halloween Party, Zumba in da Club style on Friday, Oct. 21st, 2016, from 7:30pm-9:00pm. Doors open at 7pm.
 
-This month's theme: Mardi Gras. Bring your beads and shake your booty!
+This month's theme: Halloween, costume is optional. 
