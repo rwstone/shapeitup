@@ -1,7 +1,6 @@
 ---
 title: Zumba in da Club
 date: 2016-05-01 15:23:00 -04:00
-published: false
 has_time_and_date: true
 event_date: 2016-10-21 19:30:00 -04:00
 event_end_date: 2016-10-21 21:00:00 -04:00
