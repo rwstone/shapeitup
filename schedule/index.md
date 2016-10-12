@@ -1,60 +1,45 @@
 ---
 title: Group Fitness Schedule
 sessions:
-- class: Pilates/Yoga
-  instructor: Debbie
-  day: Monday
-  start_time: 8:00a
-  end_time: 9:00a
-  length: 2
+- 
 - class: Zumba
   instructor: Felix
   day: Monday
   start_time: 9:30a
-  end_time: 10:20a
+  end_time: 10:25a
   length: 2
 - class: Zumba
   instructor: Felix
   day: Monday
   start_time: 6:30p
-  end_time: 7:20p
+  end_time: 7:30p
   length: 2
-- class: 24 Fit Camp
-  instructor: Felix
-  day: Tuesday
-  start_time: 6:30a
-  end_time: 7:00a
-  length: 1
+- 
 - class: Zumba
   instructor: Sonia
   day: Tuesday
   start_time: 7:30p
-  end_time: 8:20p
+  end_time: 8:30p
   length: 2
-- class: Zumba Toning
+- class: Zumba
   instructor: Christine
   day: Wednesday
   start_time: 9:30a
-  end_time: 10:15a
+  end_time: 10:25a
   length: 2
 - class: Zumba
   instructor: Silvia
   day: Wednesday
   start_time: 6:30p
-  end_time: 7:20p
+  end_time: 7:25p
   length: 2
 - class: Zumba
   instructor: Felix
   day: Wednesday
   start_time: 7:30p
-  end_time: 8:20p
+  end_time: 8:30p
   length: 2
-- class: 24 Fit Camp
-  instructor: Felix
-  day: Thursday
-  start_time: 6:30a
-  end_time: 7:00a
-  length: 1
+- 
 - class: Barre Fusion
   instructor: Debbie
   day: Thursday
@@ -65,19 +50,19 @@ sessions:
   instructor: Christine
   day: Thursday
   start_time: 6:30p
-  end_time: 7:15p
+  end_time: 7:25p
   length: 2
 - class: Zumba
   instructor: Sonia
   day: Thursday
   start_time: 7:30p
-  end_time: 8:20p
+  end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Silvia
+  instructor: Felix
   day: Friday
   start_time: 9:30a
-  end_time: 10:20a
+  end_time: 10:25a
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -89,7 +74,13 @@ sessions:
   instructor: Nellie
   day: Saturday
   start_time: 10:30a
-  end_time: 11:20a
+  end_time: 11:30a
+  length: 2
+- class: Zumba
+  instructor: Felix
+  day: Sunday
+  start_time: 10:00a
+  end_time: 10:55a
   length: 2
 days:
 - Monday
@@ -98,6 +89,7 @@ days:
 - Thursday
 - Friday
 - Saturday
+- Sunday
 time_slots_morning:
 - 6:00a
 - 6:30a
