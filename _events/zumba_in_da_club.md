@@ -9,6 +9,8 @@ button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype
 button_label: Register
 ---
 
-Join us for Halloween Party, Zumba in da Club style on Friday, Oct. 21st, 2016, from 7:30pm-9:00pm. Doors open at 7pm.
+Join us for Halloween Party, Zumba in da Club style on Friday, Oct. 21st, 2016, from 7:30pm-9:30pm. Doors open at 7pm.
+
+All our instructors are joining us for this Zumba in da Club.
 
 This month's theme: Halloween, costume is optional. 
