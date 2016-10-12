@@ -1,6 +1,7 @@
 ---
 title: Error
 permalink: "/404.html"
+published: false
 banner_image: "/img/billboards/plank_christina.jpg"
 layout: page
 ---
