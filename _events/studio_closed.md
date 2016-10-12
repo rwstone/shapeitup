@@ -1,12 +1,10 @@
 ---
-title: Closed for Training
-date: 2016-05-01 15:23:28.864000000 -04:00
-published: false
+title: Thanksgiving Eve
+date: 2016-05-01 15:23:00 -04:00
 has_time_and_date: false
-event_date: 2016-05-22 03:00:00.486000000 -04:00
+event_date: 2016-05-22 03:00:00 -04:00
 class: Schedule
 ---
 
-We are always learning new things to help you get and stay healthy.
-
-Shape It Up will be closed May 22 for staff training.
+On Wednesday November 23rd their will be NO EVENING CLASSES
+ 630PM, OR 730PM. BUT, we will have class on Thanksgiving Day at 930am with Felix. 
