@@ -7,6 +7,6 @@ event_end_date: 2016-11-24 10:30:00 -05:00
 class: Schedule
 ---
 
-We are offering a Zumba class on Thanksgiving morning at 930am with Felix. So, put your bird in the oven and come burn some serious calories before you feast! 
+We are offering a Zumba class on Thanksgiving morning at 9:30am with Felix. So, put your bird in the oven and come burn some serious calories before you feast! 
 
  
