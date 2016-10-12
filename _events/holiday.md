@@ -2,8 +2,8 @@
 title: Thanksgiving Zumba
 date: 2016-06-16 15:23:00 -04:00
 has_time_and_date: false
-event_date: 2016-10-08 03:00:00 -04:00
-event_end_date: 2016-10-10 21:00:00 -04:00
+event_date: 2016-11-24 09:30:00 -05:00
+event_end_date: 2016-11-24 10:30:00 -05:00
 class: Schedule
 ---
 
