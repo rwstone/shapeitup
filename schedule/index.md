@@ -1,7 +1,6 @@
 ---
 title: Group Fitness Schedule
 sessions:
-- 
 - class: Zumba
   instructor: Felix
   day: Monday
@@ -39,7 +38,6 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
-- 
 - class: Barre Fusion
   instructor: Debbie
   day: Thursday
