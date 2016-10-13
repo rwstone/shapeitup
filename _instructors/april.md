@@ -1,9 +1,10 @@
 ---
 title: April
 date: 2016-04-22 17:55:00 -04:00
-name: April Simard
+published: false
 classes:
 - H.I.I.T.
 image: "/uploads/april.jpg"
+name: April Simard
 ---
 
