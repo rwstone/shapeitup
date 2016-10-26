@@ -1,6 +1,18 @@
 ---
 title: Thanksgiving Zumba
-date: 2016-06-16 15:23:00 -04:00
+date: 2016-10-26 15:23:00 -04:00
+categories:
+- group fitness
+- zumba
+- workouts
+- getting fit
+tags:
+- zumba
+- personal trainer
+- green smoothie
+- whey
+- Christmas
+- protein
 has_time_and_date: false
 event_date: 2016-11-24 09:30:00 -05:00
 event_end_date: 2016-11-24 10:30:00 -05:00
