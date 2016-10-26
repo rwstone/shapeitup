@@ -1,6 +1,22 @@
 ---
 title: Class Pass Sale
-date: 2016-05-01 15:23:00 -04:00
+date: 2016-10-26 15:23:00 -04:00
+categories:
+- fitness
+- exercise
+- workouts
+- nutrition
+- lose weight
+- getting healthy
+- muscle
+tags:
+- zumba
+- barra fusion
+- personal trainer
+- smoothie
+- protein
+- whey
+- green smoothie
 has_time_and_date: false
 event_date: 2016-10-12 03:30:00 -04:00
 event_end_date: 2016-11-02 03:30:00 -04:00
