@@ -13,6 +13,12 @@ sessions:
   start_time: 6:30p
   end_time: 7:30p
   length: 2
+- class: Zumba Gold
+  instructor: Sue
+  day: Tuesday
+  start_time: 6:30p
+  end_time: 7:20p
+  length: 2
 - class: Zumba
   instructor: Sonia
   day: Tuesday
@@ -55,8 +61,8 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
-- class: Zumba
-  instructor: Felix
+- class: Zumba Gold
+  instructor: Sue
   day: Friday
   start_time: 9:30a
   end_time: 10:25a
