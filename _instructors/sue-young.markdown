@@ -1,5 +1,5 @@
 ---
-title: Sue Young
+title: Sue
 date: 2016-11-09 20:48:00 -05:00
 categories:
 - fitness
@@ -12,8 +12,8 @@ tags:
 - dance
 - healthy
 classes:
+- Zumba Gold
 - 
-- 
-Field name: 
+name: Sue Young
 ---
 
