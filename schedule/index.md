@@ -115,4 +115,4 @@ description_seo: View our regular calendar of group exercise classes.
 layout: schedule
 ---
 
-This is our regular weekly schedule. We are closed on major holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeup02914) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719).
+This is our regular weekly schedule. We are closed on most major holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeup02914) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719).
