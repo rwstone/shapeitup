@@ -20,7 +20,7 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Christine
+  instructor: Felix
   day: Wednesday
   start_time: 9:30a
   end_time: 10:25a
