@@ -13,7 +13,6 @@ tags:
 - healthy
 classes:
 - Zumba Gold
-- 
 name: Sue Young
 ---
 
