@@ -1,7 +1,6 @@
 ---
 title: Beginners Boot Camp
 date: 2016-11-29 15:23:00 -05:00
-published: false
 categories:
 - getting healthy
 - fitness
