@@ -1,5 +1,5 @@
 ---
-title: Thanksgiving Zumba
+title: Christmas Day
 date: 2016-10-26 15:23:00 -04:00
 categories:
 - group fitness
@@ -14,11 +14,11 @@ tags:
 - Christmas
 - protein
 has_time_and_date: false
-event_date: 2016-11-24 09:30:00 -05:00
-event_end_date: 2016-11-24 10:30:00 -05:00
+event_date: 2016-12-25 06:00:00 -05:00
+event_end_date: 2016-11-25 22:30:00 -05:00
 class: Schedule
 ---
 
-We are offering a Zumba class on Thanksgiving morning at 9:30am with Felix. So, put your bird in the oven and come burn some serious calories before you feast! 
+We are CLOSED CHRISTMAS DAY, and return back to normal Business Hours Monday, Dec. 26th at 7am-2pm and reopen at 430-8pm. 
 
  
