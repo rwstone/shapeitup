@@ -9,7 +9,8 @@ jQuery(document).ready(function($){
 
 	if($("#map").length) {
 		//google map
-		var coordinate = new google.maps.LatLng(41.816338, -71.3597077);
+		//var coordinate = new google.maps.LatLng(41.816338, -71.3597077);
+		var coordinate = new google.maps.LatLng(41.816301, -71.35752);
 		var mapOptions = {
 			zoom: 14,
 			center: coordinate,
@@ -20,7 +21,8 @@ jQuery(document).ready(function($){
 
 		map = new google.maps.Map(document.getElementById("map"),mapOptions);
 		new google.maps.Marker({
-			position: new google.maps.LatLng(41.816338, -71.3597077),
+			//position: new google.maps.LatLng(41.816338, -71.3597077),
+			position: new google.maps.LatLng(41.816301, -71.35752),
 			map: map,
 			icon: new google.maps.MarkerImage("/img/utils/map_pointer.png", new google.maps.Size(29, 38), null, new google.maps.Point(14, 37))
 		}); // RWS changes; they changed Size(38,45), Point(18,44), whole thing in try block
