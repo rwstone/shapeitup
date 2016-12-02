@@ -3,8 +3,8 @@ title: Shape It Up Nutrition
 banner_image: "/img/billboards/smoothie_bar.jpg"
 service_boxes:
 - title: Smoothie Bar
-  description: Grab a healthy snack on the go or after a workout. Shakes, teas, protein
-    snacks, pudding pies, aloe shots and more.
+  description: Grab a healthy snack on the go or after a workout. Shakes, teas, aloe
+    shots and more.
   image: "/img/icons/apple.svg"
 - title: Wellness Coaching
   description: "Let's find the weight loss solution that works best for you.  \n  \nStart
