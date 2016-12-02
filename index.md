@@ -15,11 +15,11 @@ passes:
   price: "$7"
   is_sale: false
 - name: 5 Class Pass
-  price: "$20"
-  is_sale: true
+  price: "$25"
+  is_sale: false
 - name: 10 Class Pass
-  price: "$30"
-  is_sale: true
+  price: "$40"
+  is_sale: false
 - name: Monthly Unlimited
   price: "$55"
   is_sale: false
