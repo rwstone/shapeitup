@@ -1,5 +1,7 @@
 ---
-title: Nutrition Club
+title: |-
+  Shape It Up Nutrition
+  611 Waterman Ave
 banner_image: "/img/billboards/smoothie_bar.jpg"
 service_boxes:
 - title: Smoothie Bar
@@ -43,4 +45,4 @@ layout: nutrition
 
 Make healthier choices. Have more energy. Zip those jeans.
 
-Our Nutrition Club is all about sustainable lifestyle changes -- being healthy, not skinny. From meal replacements to boot camps to support, we can help you find a healthy way forward. The results will be amazing!
+Shape It Up Nutrition is all about sustainable lifestyle changes -- being healthy, not skinny. From meal replacements to boot camps to support, we can help you find a healthy way forward. The results will be amazing!
