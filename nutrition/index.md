@@ -1,7 +1,5 @@
 ---
-title: |-
-  Shape It Up Nutrition
-  611 Waterman Ave
+title: Shape It Up Nutrition
 banner_image: "/img/billboards/smoothie_bar.jpg"
 service_boxes:
 - title: Smoothie Bar
