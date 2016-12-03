@@ -11,8 +11,8 @@ service_boxes:
     with a free Wellness Evaluation.\n"
   image: "/img/icons/whistle.svg"
 - title: Herbalife
-  description: Shape It Up is a proud Herbalife reseller. Shop our weight loss, energy
-    and skin products.
+  description: Shape It Up Nutrition is a proud Herbalife reseller. Shop our weight
+    loss, energy and skin products.
   image: "/img/icons/herbalife.svg"
   button_link: https://www.goherbalife.com/marysantana
   button_label: Shop
