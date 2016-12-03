@@ -11,6 +11,7 @@
 <body>
 
 {% include header.html %}
+{% assign company = site.data.company %}
 
 <div class="page-content home_page">
 
@@ -63,7 +64,7 @@
             {% endif %}
         </li>
         <li class="home_box second_color">
-            <h2>Nutrition Club</h2>
+            <h2>{{ page.nutrition_title | escape }}</h2>
             <div class="home_box_text">
                 {{ page.nutrition_description | escape | markdownify }}
             </div>
@@ -103,7 +104,8 @@
     <section class="main_content_container transition_section">
         <div class="main_content">
             <div class="divider"></div>
-            <h2>{{ site.data.company.name | escape }}</h2>
+            <h2 class="company_headline">{{ company.name | escape }}</h2>
+            <h3 class="company_headline">{{ company.address1 | escape }}</h3>
             <div class="main_content_text">
                 {{ content }}
             </div>

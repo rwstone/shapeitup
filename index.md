@@ -1,15 +1,15 @@
 ---
 title: Home
 banner:
-- image: "/img/billboards/herbalife_staff.jpg"
-  title: Nutrition
-- image: "/img/billboards/fit_camp_outdoors.jpg"
+- image: "/img/billboards/bicep_curls.jpg"
+  title: Form
+- image: "/img/billboards/boot_camp_outdoors.jpg"
   title: Fitness
-- image: "/img/billboards/fit_camp_group.jpg"
+- image: "/img/billboards/boot_camp_group.jpg"
   title: Fun
-nutrition_description: Get on the path to Healthy Nutrition. Start with a FREE Wellness
-  Evaluation. Or, jump right to the fun part with one of our tasty shakes. Learn more
-  about our Nutrition Services.
+nutrition_title: Nutrition
+nutrition_description: "Get on the path to Healthy Nutrition.\n\n Visit Shape It Up Nutrition, our sister shop 
+  -- right next door at 611 Waterman Ave."
 passes:
 - name: Drop In
   price: "$7"
@@ -23,15 +23,15 @@ passes:
 - name: Monthly Unlimited
   price: "$55"
   is_sale: false
-title_seo: Shape It Up Nutrition & Fitness | East Providence, RI
-description_seo: Shape It Up Nutrition & Fitness is an exercise studio in East Providence,
-  RI, with a fun and approachable attitude. We offer a smoothie bar, personal training
+title_seo: Shape It Up Fitness | East Providence, RI
+description_seo: Shape It Up Fitness is an exercise studio in East Providence,
+  RI, with a fun and approachable attitude. We offer personal training
   and group exercise classes, including Zumba, Boot Camp, Yoga, and Barre Fusion.
 layout: home
 ---
 
 Looking to get healthy in a fun and friendly atmosphere?
 
-Make Shape It Up your home for Nutrition and Fitness. We are a family-run studio fostering a positive environment at a good value. We offer group exercise classes, personal training, a smoothie bar and weight loss programs.
+Make Shape It Up your home for Fitness. We are a family-run studio fostering a positive environment at a good value. We offer group exercise classes and personal training programs.
 
-Reach your health, fitness or weight loss goals with us!
+Reach your health and fitness goals with us!

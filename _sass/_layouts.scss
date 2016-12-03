@@ -196,6 +196,16 @@
         text-align: center;
         margin-bottom: 2rem;
     }
+    h1.company_headline, h2.company_headline {
+        margin-bottom: 1rem;
+    }
+
+    h3.company_headline {
+        color: $color_black;
+        font-size: 1.5rem;
+        text-align: center;
+        margin: 0 0 2rem;
+    }
 }
 
 $height_event_divider: 6px;
@@ -274,6 +284,10 @@ $height_event_divider: 6px;
             font-size: 2.25rem;
             margin-bottom: 4rem;
         }
+        h3.company_headline {
+            font-size: 1.75rem;
+            margin-bottom: 4rem;
+        }        
     }
     .main_content_text {
         line-height: 2;

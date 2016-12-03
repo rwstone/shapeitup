@@ -1,6 +1,10 @@
 {% if jekyll.environment == "production" %}
     {% include analytics.html %}
 {% endif %}
+{% assign company = site.data.company %}
+{% if layout.company and layout.company == "nutrition" %}
+    {% assign company = site.data.company_nutrition %}
+{% endif %}
 
 <nav id="mobile_nav_container" class="mobile_nav_wrapper clearfix">
     <ul class="mobile_nav clearfix"><!--
@@ -27,7 +31,7 @@
     <div class="mobile_nav_bar clearfix">
         <div class="header_left">
             <a href="/">
-                <img src="/img/logos/shapeitup.svg" alt="logo" />
+                <img src="{{ company.logo | escape }}" alt="{{ company.name | escape }} logo" />
             </a>
         </div>
 
@@ -41,7 +45,7 @@
     <div class="header clearfix">
         <div class="header_left">
             <a href="/">
-                <img src="/img/logos/shapeitup.svg" alt="logo" />
+                <img src="{{ company.logo | escape }}" alt="{{ company.name | escape }} logo" />
             </a>
         </div>
         <ul class="sf-menu header_right">

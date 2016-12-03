@@ -1,10 +1,16 @@
+{% assign company = site.data.company %}
+{% if layout.company and layout.company == "nutrition" %}
+    {% assign company = site.data.company_nutrition %}
+{% endif %}
 <footer>
+    {% if layout.company == "nutrition" %}
+    {% else %}
     <ul class="footer_banner_box_container clearfix">
         <li class="footer_banner_box first_color thumbsup">
             <h2>Follow our latest!</h2>
             <ul class="footer_social_icons"><!--
-                --><li><a class="social_icon facebook" href="{{ site.data.company.facebook | escape }}">&nbsp;</a></li><!--
-                --><li><a class="social_icon twitter" href="{{ site.data.company.twitter | escape }}">&nbsp;</a></li><!--
+                --><li><a class="social_icon facebook" href="{{ company.facebook | escape }}">&nbsp;</a></li><!--
+                --><li><a class="social_icon twitter" href="{{ company.twitter | escape }}">&nbsp;</a></li><!--
             --></ul>
         </li>
         <li class="footer_banner_box second_color barbell">
@@ -18,28 +24,29 @@
             <h3>Your first class is free.</h3>
         </li>
     </ul>
+    {% endif %}
     <div class="footer_logo">
-        <img src="/img/logos/shapeitup_on_dark.svg" alt="{{ site.data.company.name | escape }} logo">
+        <img src="{{ company.logo_dark | escape }}" alt="{{ company.name | escape }} logo">
         <div class="footer_tagline">Come as strangers, leave as family.</div>
     </div>
     <div class="footer_contact_info clearfix">
         <div class="footer_column">
             <ul class="footer_contact_info_item">
                 <li class="footer_contact_info_line">
-                    {{ site.data.company.address1 | escape }}
+                    {{ company.address1 | escape }}
                 </li>
                 <li class="footer_contact_info_line">
-                    {{ site.data.company.address2 | escape }}
+                    {{ company.address2 | escape }}
                 </li>
             </ul>
         </div>
         <div class="footer_column">
             <ul class="footer_contact_info_item">
                 <li class="footer_contact_info_line">
-                    {{ site.data.company.phone | escape }}
+                    {{ company.phone | escape }}
                 </li>
                 <li class="footer_contact_info_line">
-                    <a href="mailto:{{ site.data.company.email | escape }}">{{ site.data.company.email | escape }}</a>
+                    <a href="mailto:{{ company.email | escape }}">{{ company.email | escape }}</a>
                 </li>
             </ul>
         </div>
@@ -51,7 +58,7 @@
             <div class="footer_column">
                 <ul class="footer_contact_info_item">
                     <li class="footer_contact_info_line">
-                        &copy; {{ 'now' | date: "%Y" }} {{ site.data.company.name | escape }}
+                        &copy; {{ 'now' | date: "%Y" }} {{ company.name | escape }}
                     </li>
                 </ul>
             </div>

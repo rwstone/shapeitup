@@ -5,7 +5,7 @@ name: Felix Santana
 classes:
 - Zumba
 - Personal Training
-- 24 Fit Camp
+- Boot Camp
 image: "/uploads/felix.jpg"
 ordering: 1
 ---
