@@ -1,7 +1,7 @@
 ---
 title: Home
 banner:
-- image: "/img/billboards/bicep_curls.jpg"
+- image: "/img/billboards/group_training.jpg"
   title: Form
 - image: "/img/billboards/boot_camp_outdoors.jpg"
   title: Fitness
