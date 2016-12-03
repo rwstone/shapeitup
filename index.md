@@ -8,8 +8,10 @@ banner:
 - image: "/img/billboards/boot_camp_group.jpg"
   title: Fun
 nutrition_title: Nutrition
-nutrition_description: "Get on the path to Healthy Nutrition.\n\n Visit Shape It Up Nutrition, our sister shop 
-  -- right next door at 611 Waterman Ave."
+nutrition_description: |-
+  Get on the path to Healthy Nutrition.
+
+   Visit Shape It Up Nutrition, our sister shop -- right next door at 611 Waterman Ave.
 passes:
 - name: Drop In
   price: "$7"
@@ -24,9 +26,9 @@ passes:
   price: "$55"
   is_sale: false
 title_seo: Shape It Up Fitness | East Providence, RI
-description_seo: Shape It Up Fitness is an exercise studio in East Providence,
-  RI, with a fun and approachable attitude. We offer personal training
-  and group exercise classes, including Zumba, Boot Camp, Yoga, and Barre Fusion.
+description_seo: Shape It Up Fitness is an exercise studio in East Providence, RI,
+  with a fun and approachable attitude. We offer personal training and group exercise
+  classes, including Zumba, Boot Camp, Yoga, and Barre Fusion.
 layout: home
 ---
 

@@ -34,8 +34,8 @@ schedule:
 - days: Sat
   hours: 8:00a - 1:00pm
 title_seo: Nutrition and Smoothie Bar | Shape It Up Nutrition & Fitness
-description_seo: Enjoy smoothies, teas and more at our Smoothie Bar. Talk
-  with a wellness coach, join a weightloss program or take part in fit camp.
+description_seo: Enjoy smoothies, teas and more at our Smoothie Bar. Talk with a wellness
+  coach, join a weightloss program or take part in fit camp.
 layout: nutrition
 ---
 

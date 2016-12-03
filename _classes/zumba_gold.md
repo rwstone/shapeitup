@@ -1,6 +1,6 @@
 ---
 title: Zumba Gold
-date: 2016-12-02 17:55:43.486000000 -04:00
+date: 2016-12-02 16:55:43.486000000 -05:00
 sub_heading: group exercise class
 class_type: dance fitness
 class_image: "/uploads/zumba.jpg"
