@@ -19,6 +19,6 @@ event_end_date: 2016-11-25 22:30:00 -05:00
 class: Schedule
 ---
 
-We are CLOSED CHRISTMAS DAY, and return back to normal Business Hours Monday, Dec. 26th at 7am-2pm and reopen at 430-8pm. 
+We are CLOSED New Years DAY, and return back on Monday, Jan. 2nd at 430-8pm. 
 
  
