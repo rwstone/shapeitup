@@ -1,5 +1,5 @@
 ---
-title: New Years Eve Classe
+title: New Years Eve Classes
 date: 2016-05-01 15:23:00 -04:00
 has_time_and_date: false
 event_date: 2016-12-31 03:00:00 -05:00
