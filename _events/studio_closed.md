@@ -1,6 +1,23 @@
 ---
 title: New Years Eve Classes
 date: 2016-05-01 15:23:00 -04:00
+categories:
+- gyn
+- workout
+- barre fusion
+- yoga
+- fitness
+- zumba
+- boot camp
+- kids fit camp
+tags:
+- fitness
+- gym
+- healthy
+- herbalife
+- green smoothie
+- zumba
+- personal trainer
 has_time_and_date: false
 event_date: 2016-12-31 03:00:00 -05:00
 event_end_date: 2017-01-01 23:59:00 -05:00
