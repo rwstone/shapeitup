@@ -13,4 +13,4 @@ class_type: gym fitness
 class_image: "/uploads/kids_fit_camp.jpg"
 ---
 
-Total body workout for kids aged 5-12.
+Total body workout for kids aged 6-12.
