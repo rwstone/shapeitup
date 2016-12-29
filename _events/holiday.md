@@ -14,7 +14,7 @@ tags:
 - Christmas
 - protein
 has_time_and_date: false
-event_date: 2017-01-02 06:00:00 -05:00
+event_date: 2017-01-01 06:00:00 -05:00
 event_end_date: 2017-01-02 22:30:00 -05:00
 class: Schedule
 ---
