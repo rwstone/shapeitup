@@ -1,7 +1,6 @@
 ---
 title: Group Fitness Schedule
 date: 2017-01-02 13:01:00 -05:00
-published: false
 sessions:
 - class: Zumba
   instructor: Felix
