@@ -1,7 +1,21 @@
 ---
 title: OPEN HOUSE
 date: 2016-12-29 12:39:00 -05:00
-event_date: 2017-01-01 00:00:00 -05:00
+categories:
+- fitness
+- group fitness
+- zumba
+- boot camp
+- kids fit camp
+tags:
+- zumba
+- boot camp
+- fitness
+- group fitness
+- yoga
+- healthy
+- smoothie
+event_date: 2017-01-07 08:00:00 -05:00
 event_end_date: 2017-01-07 00:00:00 -05:00
 ---
 
