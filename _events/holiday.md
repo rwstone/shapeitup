@@ -19,6 +19,6 @@ event_end_date: 2017-01-02 22:30:00 -05:00
 class: Schedule
 ---
 
-We are CLOSED New Years DAY, and return back on Monday, Jan. 2nd at 430-8pm. 
+We are CLOSED New Years DAY, and return back on Monday, Jan. 2nd at 6pm-8pm. 
 
  
