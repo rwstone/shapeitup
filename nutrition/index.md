@@ -11,8 +11,8 @@ service_boxes:
     with a free Wellness Evaluation.\n"
   image: "/img/icons/whistle.svg"
 - title: Herbalife
-  description: Shape It Up Nutrition is a proud Herbalife reseller. Shop our weight
-    loss, energy and skin products.
+  description: Shape It Up Nutrition is a proud Herbalife Distributor that helps with
+    weight loss, energy, skin products, and much more.
   image: "/img/icons/herbalife.svg"
   button_link: https://www.goherbalife.com/marysantana
   button_label: Shop
@@ -21,8 +21,8 @@ service_boxes:
   description: Coaching, meal planning, nutrition, weekly weigh-ins and group support.
   image: "/img/icons/scale.svg"
 - title: 24 Fit Camp
-  sub_heading: Free 6-Week Program
-  description: Get on a path to good health. Coaching, nutrition and boot camp workouts.
+  sub_heading: 6-Week Program
+  description: Get on a path to good health. Coaching, nutrition and workouts.
   image: "/img/icons/situp.svg"
 schedule:
 - days: Mon, Wed, Thurs, Fri
