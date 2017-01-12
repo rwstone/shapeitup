@@ -11,9 +11,9 @@ sessions:
   Class: Beginner Boot Camp
   Instructor: Mary
   Day: Monday
-  Start time: 6:00 p
-  End time: 6:30 p
-  Length: 1
+  Start time: 6:00p
+  End time: 6:30p
+  Length: 2
 - class: Zumba
   instructor: Felix
   day: Monday
