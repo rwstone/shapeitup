@@ -11,9 +11,9 @@ sessions:
   Class: Beginner Boot Camp
   Instructor: Mary
   Day: Monday
-  Start time: 6:00 pm
-  End time: 6:30 pm
-  Length: 2
+  Start time: 6:00 p
+  End time: 6:30 p
+  Length: 1
 - class: Zumba
   instructor: Felix
   day: Monday
@@ -92,6 +92,30 @@ sessions:
   start_time: 10:00a
   end_time: 10:55a
   length: 2
+- instructor: Mary
+  day: Wednesday
+  start_time: 6:00p
+  end_time: 6:30p
+  length: 1
+  class: Beginner Boot Camp
+- instructor: Christine
+  day: Saturday
+  start_time: 9:15a
+  end_time: 10:15a
+  length: 2
+  class: Strong by Zumba
+- instructor: Christina
+  day: Saturday
+  start_time: 10:00a
+  end_time: 10:30a
+  length: 1
+  class: Kids Fit Camp
+- instructor: 
+  day: 
+  start_time: 
+  end_time: 
+  length: 
+  class: 
 days:
 - Monday
 - Tuesday
@@ -128,4 +152,4 @@ description_seo: View our regular calendar of group exercise classes.
 layout: schedule
 ---
 
-This is our regular weekly schedule. We are closed on most major holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719).
+This is our regular weekly schedule. We are closed on most Major Holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719).
