@@ -110,12 +110,18 @@ sessions:
   end_time: 10:30a
   length: 1
   class: Kids Fit Camp
-- instructor: 
-  day: 
-  start_time: 
-  end_time: 
-  length: 
-  class: 
+- instructor: Irene
+  day: Tuesday
+  start_time: 3:30p
+  end_time: 4:30p
+  length: 2
+  class: Teen Zumba (13yrs & up)
+- instructor: Irene
+  day: Thursday
+  start_time: 3:30p
+  end_time: 4:30p
+  length: 2
+  class: Teen Zumba (13yrs & up)
 days:
 - Monday
 - Tuesday
