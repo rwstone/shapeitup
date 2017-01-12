@@ -20,6 +20,12 @@ sessions:
   start_time: 6:30p
   end_time: 7:30p
   length: 2
+- instructor: Irene
+  day: Tuesday
+  start_time: 3:30p
+  end_time: 4:30p
+  length: 2
+  class: Teen Zumba (13yrs & up)
 - class: Zumba Gold
   instructor: Sue
   day: Tuesday
@@ -38,6 +44,12 @@ sessions:
   start_time: 9:30a
   end_time: 10:25a
   length: 2
+- instructor: Mary
+  day: Wednesday
+  start_time: 6:00p
+  end_time: 6:30p
+  length: 1
+  class: Beginner Boot Camp
 - class: Zumba
   instructor: Silvia
   day: Wednesday
@@ -56,6 +68,12 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 2
+- instructor: Irene
+  day: Thursday
+  start_time: 3:30p
+  end_time: 4:30p
+  length: 2
+  class: Teen Zumba (13yrs & up)
 - class: Zumba Toning
   instructor: Christine
   day: Thursday
@@ -80,24 +98,6 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
-- class: Zumba
-  instructor: Nellie
-  day: Saturday
-  start_time: 10:30a
-  end_time: 11:30a
-  length: 2
-- class: Zumba
-  instructor: Felix
-  day: Sunday
-  start_time: 10:00a
-  end_time: 10:55a
-  length: 2
-- instructor: Mary
-  day: Wednesday
-  start_time: 6:00p
-  end_time: 6:30p
-  length: 1
-  class: Beginner Boot Camp
 - instructor: Christine
   day: Saturday
   start_time: 9:15a
@@ -110,18 +110,12 @@ sessions:
   end_time: 10:30a
   length: 1
   class: Kids Fit Camp
-- instructor: Irene
-  day: Tuesday
-  start_time: 3:30p
-  end_time: 4:30p
+- class: Zumba
+  instructor: Nellie
+  day: Saturday
+  start_time: 10:30a
+  end_time: 11:30a
   length: 2
-  class: Teen Zumba (13yrs & up)
-- instructor: Irene
-  day: Thursday
-  start_time: 3:30p
-  end_time: 4:30p
-  length: 2
-  class: Teen Zumba (13yrs & up)
 days:
 - Monday
 - Tuesday
