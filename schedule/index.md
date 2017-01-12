@@ -8,12 +8,12 @@ sessions:
   start_time: 9:30a
   end_time: 10:25a
   length: 2
-  Class: Beginner Boot Camp
-  Instructor: Mary
-  Day: Monday
-  Start time: 6:00p
-  End time: 6:30p
-  Length: 2
+- class: Beginner Boot Camp
+  instructor: Mary
+  day: Monday
+  start_time: 6:00p
+  end_time: 6:30p
+  length: 1
 - class: Zumba
   instructor: Felix
   day: Monday
@@ -44,12 +44,12 @@ sessions:
   start_time: 9:30a
   end_time: 10:25a
   length: 2
-- instructor: Mary
+- class: Beginner Boot Camp
+  instructor: Mary
   day: Wednesday
   start_time: 6:00p
   end_time: 6:30p
   length: 1
-  class: Beginner Boot Camp
 - class: Zumba
   instructor: Silvia
   day: Wednesday
@@ -68,12 +68,12 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 2
-- instructor: Irene
+- class: Teen Zumba (13yrs & up)
+  instructor: Irene
   day: Thursday
   start_time: 3:30p
   end_time: 4:30p
   length: 2
-  class: Teen Zumba (13yrs & up)
 - class: Zumba Toning
   instructor: Christine
   day: Thursday
@@ -98,18 +98,18 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
-- instructor: Christine
+- class: Strong by Zumba
+  instructor: Christine
   day: Saturday
   start_time: 9:15a
   end_time: 10:15a
   length: 2
-  class: Strong by Zumba
-- instructor: Christina
+- class: Kids Fit Camp
+  instructor: Christina
   day: Saturday
   start_time: 10:00a
   end_time: 10:30a
   length: 1
-  class: Kids Fit Camp
 - class: Zumba
   instructor: Nellie
   day: Saturday
@@ -139,6 +139,10 @@ time_slots_morning:
 - 11:30a
 - 12:00p
 time_slots_evening:
+- 3:00p
+- 3:30p
+- 4:00p
+- 4:30p
 - 5:00p
 - 5:30p
 - 6:00p
