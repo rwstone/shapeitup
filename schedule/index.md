@@ -67,7 +67,7 @@ sessions:
   day: Thursday
   start_time: 9:00a
   end_time: 10:00a
-  length: 2
+  length: 3
 - class: Teen Zumba (13yrs & up)
   instructor: Irene
   day: Thursday
@@ -132,6 +132,7 @@ time_slots_morning:
 - 8:00a
 - 8:30a
 - 9:00a
+- 9:15a
 - 9:30a
 - 10:00a
 - 10:30a
