@@ -1,5 +1,5 @@
 ---
-title: Class Pass
+title: FREE KIDS FIT CAMP
 date: 2016-10-26 15:23:00 -04:00
 categories:
 - fitness
@@ -18,15 +18,10 @@ tags:
 - whey
 - green smoothie
 has_time_and_date: false
-event_date: 2017-01-18 03:30:00 -05:00
-event_end_date: 2016-11-02 03:30:00 -04:00
+event_date: 2017-01-21 10:00:00 -05:00
+event_end_date: 2016-11-11 10:00:00 -05:00
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=41&sTG=22
 button_label: Buy a Pass
 ---
 
-Stop by the studio or visit our Mind Body online store to get a  prepaid class cards.
-
-5 Class Pass: $25  
-10 Class Pass: $40  
-
-*ALL Class passes expire 90 days from first class.
+We are hosting a Free 4 week Kids Fit Camp ages from 6-12yrs old. Its a 30 mintue total body workout to get these kids moving, and having fun!
