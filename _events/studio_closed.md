@@ -1,6 +1,7 @@
 ---
 title: New Years Eve Classes
 date: 2016-05-01 15:23:00 -04:00
+published: false
 categories:
 - gyn
 - workout
