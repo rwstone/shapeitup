@@ -39,6 +39,13 @@ description_seo: Enjoy smoothies, teas and more at our Smoothie Bar. Talk with a
 layout: nutrition
 ---
 
-Make healthier choices. Have more energy. Zip those jeans.
+Stop in and visit Shape It Up Nutrition and grab a healthy meal replacement shake, hot/ice teas, energy drinks, or any of there pre/post workout shakes, before or after classes. 
 
-Shape It Up Nutrition is all about sustainable lifestyle changes -- being healthy, not skinny. From meal replacements to boot camps to support, we can help you find a healthy way forward. The results will be amazing!
+They are OPEN:
+Mon, Wed, Thurs. 7am - 2pm
+Friday's & Saturday's 8am - 1pm
+
+*EVENING HOURS*:
+Mondays - Thursdays
+4:30pm - 8:00pm
+
