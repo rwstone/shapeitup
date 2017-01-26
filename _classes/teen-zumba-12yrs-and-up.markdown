@@ -1,6 +1,7 @@
 ---
 title: Teen Zumba (13yrs & up)
 date: 2017-01-12 11:48:00 -05:00
+published: false
 categories:
 - ZUMBA
 - zumba kids
