@@ -1,6 +1,7 @@
 ---
 title: FREE KIDS FIT CAMP
 date: 2017-02-05 15:50:00 -05:00
+has_time_and_date: false
 event_date: 2017-01-21 00:00:00 -05:00
 event_end_date: 2017-11-11 23:59:00 -05:00
 class: Kids Fit Camp
