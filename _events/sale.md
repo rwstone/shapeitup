@@ -26,4 +26,4 @@ button_label: Buy a Pass
 
 Beat the winter blues at Shape It Up Fitness!
 
-Now through March 6, save $5 on a 10 Class Pass or save $10 on a month of unlimited classes.
+Through March 6, save $5 on a 10 Class Pass or save $10 on a month of unlimited classes.
