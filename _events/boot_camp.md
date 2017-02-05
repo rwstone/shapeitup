@@ -19,7 +19,6 @@ has_time_and_date: true
 event_date: 2017-01-18 18:00:00 -05:00
 event_end_date: 2017-03-31 18:00:00 -04:00
 class: Boot Camp
-button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sTG=28&sVT=21
 ---
 
 
