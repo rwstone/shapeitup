@@ -18,9 +18,8 @@ tags:
 has_time_and_date: true
 event_date: 2017-01-18 18:00:00 -05:00
 event_end_date: 2017-03-31 18:00:00 -04:00
-class: Boot Camp
 ---
 
 
 
-Challenge your fitness with our circuit-style BOOT CAMP,  2 days a week Monday's at 6pm & Wednesday's 6pm. Its a great 30 minute total body workout with will help build endurance and strength. 
+Challenge your fitness with our circuit-style BOOT CAMP,  2 days a week Monday's at 6pm & Wednesday's 6pm. Its a great 30 minute total body workout which will help build endurance and strength. 
