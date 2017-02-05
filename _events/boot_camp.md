@@ -15,7 +15,7 @@ tags:
 - new year
 - healthy
 - '2017'
-has_time_and_date: true
+has_time_and_date: false
 event_date: 2017-01-18 18:00:00 -05:00
 event_end_date: 2017-03-31 18:00:00 -04:00
 ---
