@@ -20,13 +20,7 @@ sessions:
   start_time: 6:30p
   end_time: 7:30p
   length: 2
-- instructor: Irene
-  day: Tuesday
-  start_time: 3:30p
-  end_time: 4:30p
-  length: 2
-  class: Teen Zumba (13yrs & up)
-- class: Zumba Gold
+- class: Zumba
   instructor: Sue
   day: Tuesday
   start_time: 6:30p
@@ -68,12 +62,6 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 3
-- class: Teen Zumba (13yrs & up)
-  instructor: Irene
-  day: Thursday
-  start_time: 3:30p
-  end_time: 4:30p
-  length: 2
 - class: Zumba Toning
   instructor: Christine
   day: Thursday
@@ -86,7 +74,7 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
-- class: Zumba Gold
+- class: Basic Zumba
   instructor: Sue
   day: Friday
   start_time: 9:30a
