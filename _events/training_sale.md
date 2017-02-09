@@ -1,6 +1,7 @@
 ---
 title: Personal Trainer
 date: 2017-02-13 15:23:00 -05:00
+published: false
 categories:
 - group fitness
 - one on one fitness
