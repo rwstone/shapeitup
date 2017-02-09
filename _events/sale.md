@@ -1,6 +1,7 @@
 ---
 title: Winter Sale!
 date: 2016-10-26 15:23:00 -04:00
+published: false
 categories:
 - fitness
 - exercise
