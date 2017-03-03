@@ -1,6 +1,7 @@
 ---
 title: Closed due to Potential Snow
 date: 2017-02-08 19:37:00 -05:00
+published: false
 categories:
 - snow
 - snow day
