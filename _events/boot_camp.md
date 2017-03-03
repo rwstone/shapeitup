@@ -1,5 +1,5 @@
 ---
-title: CIRCUT TRAINING
+title: New Class
 date: 2017-03-06 18:00:00 -05:00
 categories:
 - getting healthy
@@ -31,4 +31,4 @@ class: Beginner Boot Camp
 
 
 
-Challenge your fitness with our circuit-style BOOT CAMP,  3 days a week Monday's at 10:00am, and 6pm & Wednesday's 6pm. Its a great 30 minute total body workout which will help build endurance and strength. 
+Challenge your fitness with our Circuit-Style BOOT CAMP,  3 days a week Monday's at 10:00am, and 6pm & Wednesday's 6pm. Its a great 30 minute total body workout which will help build endurance and strength. 
