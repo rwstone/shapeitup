@@ -1,14 +1,14 @@
 ---
 title: Group Fitness Schedule
-date: 2017-01-02 13:01:00 -05:00
+date: 2017-03-03 13:01:00 -05:00
 sessions:
-- class: Zumba
-  instructor: Felix
+- class: Circut Training
+  instructor: Mary
   day: Monday
-  start_time: 9:30a
-  end_time: 10:25a
-  length: 2
-- class: Beginner Boot Camp
+  start_time: 10:00a
+  end_time: 10:30a
+  length: 1
+- class: Circut Training
   instructor: Mary
   day: Monday
   start_time: 6:00p
@@ -33,12 +33,12 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Felix
+  instructor: Irene
   day: Wednesday
   start_time: 9:30a
   end_time: 10:25a
   length: 2
-- class: Beginner Boot Camp
+- class: Circut Training
   instructor: Mary
   day: Wednesday
   start_time: 6:00p
