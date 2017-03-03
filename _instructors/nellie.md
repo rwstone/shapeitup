@@ -1,9 +1,31 @@
 ---
 title: Nellie
-date: 2016-04-22 17:55:00 -04:00
-name: Nellie Guerriero
+date: 2017-03-03 17:55:00 -05:00
+categories:
+- circut training
+- getting healthy
+- spring
+- summer
+- zumba
+- zumba teens
+- zumba kids
+- zumba toning
+- kids fitness
+- fitness
+- healthy
+tags:
+- strong by zumba
+- zumba
+- kids fitness
+- circut training
+- spring
+- summer
+- getting healthy
+- zumba toning
 classes:
 - Zumba
+- Zumba Toning
 image: "/uploads/nellie.jpg"
+name: Nellie Guerriero
 ---
 
