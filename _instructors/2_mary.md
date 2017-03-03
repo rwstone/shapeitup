@@ -26,7 +26,7 @@ classes:
 - Certified Sports Nutrition
 - Boot Camp
 - Circut Training
-image: "/uploads/marysphoto.jpg"
+image: "/uploads/mary.jpg"
 name: Mary Santana
 ordering: 2
 ---
