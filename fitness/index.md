@@ -1,7 +1,7 @@
 ---
 title: Fitness Services
-description_seo: Join us for personal training and group fitness classes, including
-  Zumba, Zumba Gold, Barre Fusion, High Intensity and Pilates/Yoga.
+description_seo: Join us for Group Fitness Classes, including Zumba, Zumba Toning,
+  Strong, Circuit Training, Kids Fit Camp, and Barre Fusion
 layout: fitness
 ---
 
