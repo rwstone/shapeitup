@@ -27,6 +27,6 @@ additional_info:
 - 
 ---
 
-Zumba in da Club brings Zumba dance moves to a club-style setting. Add to the fun with glow sticks and theme nights. This event is with Felix on April 14th, at 7:30pm - 9pm. This event is $10 in advance and $15 at the door. Prepaid classes, or unlimited monthly do not apply to this event.
+Zumba in da Club brings Zumba dance moves to a club-style setting. Add to the fun with glow sticks and theme nights. This event is with Silvia and Special Guest's on April 14th, at 7:30pm - 9pm. This event is $10 in advance and $15 at the door. Prepaid classes, or unlimited monthly do not apply to this event.
 
 Doors open at 7:00pm.
