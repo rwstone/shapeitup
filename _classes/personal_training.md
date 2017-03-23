@@ -1,6 +1,7 @@
 ---
 title: Personal Training
-date: 2016-04-22 17:55:43.486000000 -04:00
+date: 2016-04-22 17:55:00 -04:00
+published: false
 sub_heading: services by appointment
 class_type: gym fitness
 class_image: "/uploads/personal_training.jpg"
