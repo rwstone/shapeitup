@@ -51,7 +51,7 @@ sessions:
   end_time: 7:25p
   length: 2
 - class: Zumba
-  instructor: Sue
+  instructor: Susan
   day: Wednesday
   start_time: 7:30p
   end_time: 8:30p
