@@ -25,14 +25,14 @@ service_boxes:
   description: Get on a path to good health. Coaching, nutrition and workouts.
   image: "/img/icons/situp.svg"
 schedule:
-- days: Mon, Wed, Thurs, Fri
-  hours: 7:00a - 2:00pm
+- days: 'Mon, Wed, Thurs, '
+  hours: 7:30a - 2:00pm
 - days: Tuesday
   hours: 4:30pm -8:00pm
 - days: Mon - Thurs
   hours: 4:30p - 8:00pm
-- days: Sat
-  hours: 8:00a - 1:00pm
+- days: Fri - Sat
+  hours: 7:30a - 1:00pm
 title_seo: Nutrition and Smoothie Bar | Shape It Up Nutrition & Fitness
 description_seo: Enjoy smoothies, teas and more at our Smoothie Bar. Talk with a wellness
   coach, join a weightloss program or take part in fit camp.
