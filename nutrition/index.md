@@ -28,9 +28,9 @@ schedule:
 - days: 'Mon, Wed, Thurs, '
   hours: 7:30a - 2:00pm
 - days: Tuesday
-  hours: 4:30pm -8:00pm
+  hours: 5:00pm -7:30pm
 - days: Mon - Thurs
-  hours: 4:30p - 8:00pm
+  hours: 5:00p - 7:30pm
 - days: Fri - Sat
   hours: 7:30a - 1:00pm
 title_seo: Nutrition and Smoothie Bar | Shape It Up Nutrition & Fitness
