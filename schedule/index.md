@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2017-03-03 13:01:00 -05:00
+date: 2017-04-19 13:01:00 -04:00
 sessions:
 - class: Circut Training
   instructor: Mary
