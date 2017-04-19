@@ -1,6 +1,6 @@
 ---
 title: Zumba in da Club
-date: 2017-03-10 15:23:00 -05:00
+date: 2017-04-19 15:23:00 -04:00
 categories:
 - zumba
 - group fitness
@@ -21,14 +21,14 @@ tags:
 - nightout
 - group fitness
 has_time_and_date: true
-event_date: 2017-04-14 19:00:00 -04:00
-event_end_date: 2017-04-14 21:30:00 -04:00
+event_date: 2017-05-12 19:00:00 -04:00
+event_end_date: 2017-05-12 21:30:00 -04:00
 class: Zumba in da Club
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sTG=28&sVT=21
 button_label: Sign Up
 ---
 
-Zumba in da Club with Silvia & Special Guest's on Friday, April 14, 2017 at 7:30pm.
+Zumba in da Club with Nellie on Friday, May 12, 2017 at 7:30pm.
 
 Doors will open at 7:00pm, 
 
