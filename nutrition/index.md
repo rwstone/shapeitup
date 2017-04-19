@@ -42,10 +42,10 @@ layout: nutrition
 Stop in and visit Shape It Up Nutrition and grab a healthy meal replacement shake, hot/ice teas, energy drinks, or any of there pre/post workout shakes, before or after classes. 
 
 They are OPEN:
-Mon, Wed, Thurs. 7am - 2pm
-Friday's & Saturday's 8am - 1pm
+Mon, Wed, Thurs. 7:30am - 2:00pm
+Friday's & Saturday's 8:00am - 1:00pm
 
 *EVENING HOURS*:
 Mondays - Thursdays
-4:30pm - 8:00pm
+5:30pm - 7:30pm
 
