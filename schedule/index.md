@@ -15,7 +15,7 @@ sessions:
   end_time: 6:30p
   length: 1
 - class: Zumba
-  instructor: Felix
+  instructor: Irene
   day: Monday
   start_time: 6:30p
   end_time: 7:30p
@@ -51,7 +51,7 @@ sessions:
   end_time: 7:25p
   length: 2
 - class: Zumba
-  instructor: Felix
+  instructor: Sue
   day: Wednesday
   start_time: 7:30p
   end_time: 8:30p
@@ -95,8 +95,8 @@ sessions:
 - class: Kids Fit Camp
   instructor: Christina
   day: Saturday
-  start_time: 10:00a
-  end_time: 10:30a
+  start_time: 9:45a
+  end_time: 10:15a
   length: 1
 - class: Zumba
   instructor: Nellie
