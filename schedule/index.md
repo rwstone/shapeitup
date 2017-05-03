@@ -8,7 +8,7 @@ sessions:
   start_time: 10:00a
   end_time: 10:30a
   length: 1
-- class: Circut Training
+- class: Fit /Boot Camp
   instructor: Mary
   day: Monday
   start_time: 6:00p
@@ -38,7 +38,7 @@ sessions:
   start_time: 9:30a
   end_time: 10:25a
   length: 2
-- class: Circut Training
+- class: Fit /Boot Camp
   instructor: Mary
   day: Wednesday
   start_time: 6:00p
@@ -111,7 +111,7 @@ sessions:
   length: 1
 - class: Fit /Boot Camp
   instructor: Bianca
-  day: wednesday
+  day: Wednesday
   start_time: 6:30a
   end_time: 7:15a
   length: 1
