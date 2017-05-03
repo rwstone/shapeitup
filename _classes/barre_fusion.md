@@ -1,6 +1,22 @@
 ---
 title: Barre Fusion
-date: 2016-04-22 17:55:43.486000000 -04:00
+date: 2016-04-22 17:55:00 -04:00
+categories:
+- circuit training
+- yoga
+- barre fusion
+- zumba
+- STRONG BY ZUMBA
+- FITNESS
+- lose weight
+- weight lose
+tags:
+- yoga
+- barre fusion
+- fitness group fit
+- ZUMBA
+- ZUMBA TONING
+- toning
 sub_heading: group exercise class
 class_type: mindful fitness
 class_image: "/uploads/barre_fusion.jpg"
