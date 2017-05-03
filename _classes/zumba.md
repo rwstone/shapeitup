@@ -1,6 +1,24 @@
 ---
 title: Zumba
-date: 2016-04-22 17:55:43.486000000 -04:00
+date: 2016-04-22 17:55:00 -04:00
+categories:
+- ZUMBA
+- STRONG BY ZUMBA
+- yoga
+- weight lose
+- lose weight
+- barre fusion
+- group fitness
+- circuit training
+tags:
+- ZUMBA
+- ZUMBA TONING
+- STRONG BY ZUMBA
+- circuit training
+- dancing
+- cross fit
+- lose weight
+- summer
 sub_heading: group exercise class
 class_type: dance fitness
 class_image: "/uploads/zumba.jpg"
