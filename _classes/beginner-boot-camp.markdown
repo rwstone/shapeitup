@@ -1,5 +1,5 @@
 ---
-title: Beginner Boot Camp
+title: Fit /Boot Camp
 date: 2016-12-28 13:32:00 -05:00
 class_image: "/uploads/fit_camp.jpg"
 ---
