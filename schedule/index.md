@@ -74,7 +74,7 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
-- class: Basic Zumba
+- class: Zumba
   instructor: Sue
   day: Friday
   start_time: 9:30a
