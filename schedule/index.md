@@ -92,8 +92,7 @@ sessions:
   start_time: 9:15a
   end_time: 10:15a
   length: 2
-- class: Kids Fit Camp
-  instructor: Christina
+- instructor: Christina
   day: Saturday
   start_time: 9:45a
   end_time: 10:15a
@@ -111,7 +110,7 @@ sessions:
   end_time: 7:15a
   length: 1
 - class: Fit /Boot Camp
-  instructor: Mary
+  instructor: Bianca
   day: wednesday
   start_time: 6:30a
   end_time: 7:15a
