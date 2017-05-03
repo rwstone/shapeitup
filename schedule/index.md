@@ -104,6 +104,18 @@ sessions:
   start_time: 10:30a
   end_time: 11:30a
   length: 2
+- class: Fit /Boot Camp
+  instructor: Christina
+  day: Monday
+  start_time: 6:30a
+  end_time: 7:15a
+  length: 1
+- class: Fit /Boot Camp
+  instructor: Mary
+  day: wednesday
+  start_time: 6:30a
+  end_time: 7:15a
+  length: 1
 days:
 - Monday
 - Tuesday
