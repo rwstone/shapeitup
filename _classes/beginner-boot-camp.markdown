@@ -20,4 +20,4 @@ tags:
 class_image: "/uploads/fit_camp.jpg"
 ---
 
-This group class is open to all, whetheryou are new to fitness, trying to get back into it or you just love working out. Exercises from using very little weights, to using your own body weight, buddy workouts, and circuit training. Please bring your own yoga mat. Also, on nice days we may go outside
+This group class is open to all, whether you are new to fitness, trying to get back into it or you just love working out. Exercises from using very little weights, to using your own body weight, buddy workouts, and circuit training. Please bring your own yoga mat. Also, on nice days we may go outside
