@@ -1,6 +1,26 @@
 ---
 title: Zumba Toning
-date: 2016-04-22 17:55:43.486000000 -04:00
+date: 2016-04-22 17:55:00 -04:00
+categories:
+- dancing
+- lose weight
+- weight lose
+- circuit training
+- STRONG BY ZUMBA
+- ZUMBA
+- Zumba Toning
+tags:
+- ZUMBA
+- ZUMBA TONING
+- STRONG BY ZUMBA
+- circuit training
+- cross fit
+- dancing
+- lose weight
+- toning
+- gym
+- summer
+- workouts
 sub_heading: group exercise class
 class_type: dance fitness
 class_image: "/uploads/zumba_toning.jpg"
