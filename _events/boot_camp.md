@@ -1,5 +1,5 @@
 ---
-title: New Class
+title: New Yoga Class
 date: 2017-04-17 18:00:00 -04:00
 categories:
 - getting healthy
@@ -24,11 +24,10 @@ tags:
 - swim wear
 - group fitness
 has_time_and_date: false
-event_date: 2017-04-17 18:00:00 -04:00
-event_end_date: 2017-05-31 18:00:00 -04:00
+event_date: 2017-06-12 18:00:00 -04:00
+event_end_date: 2017-09-04 18:00:00 -04:00
 class: Beginner Boot Camp
 ---
 
-
-
-Challenge your fitness with our Circuit-Style BOOT CAMP,  3 days a week Monday's at 10:00am, and 6pm & Wednesday's 6pm. Its a great 30 minute total body workout which will help build endurance and strength. 
+We are happy to announce that Yoga will be back on our schedule in June! Yoga will start Monday, June 12, 2017 at 8am-9am with 
+Debbie West.
