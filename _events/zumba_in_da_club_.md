@@ -1,6 +1,7 @@
 ---
 title: Zumba in da Club
 date: 2017-04-19 15:23:00 -04:00
+published: false
 categories:
 - zumba
 - group fitness
