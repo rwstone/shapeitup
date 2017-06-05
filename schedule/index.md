@@ -2,6 +2,12 @@
 title: Group Fitness Schedule
 date: 2017-04-19 13:01:00 -04:00
 sessions:
+- class: Yoga
+  instructor: Debbie
+  day: Monday
+  start_time: 8:00a
+  end_time: 9:00a
+  length: 2
 - class: Fit /Boot Camp
   instructor: Christina
   day: Monday
@@ -110,18 +116,6 @@ sessions:
   start_time: 10:30a
   end_time: 11:30a
   length: 2
-- class: 
-  instructor: 
-  day: 
-  start_time: 
-  end_time: 
-  length: 
-- class: Yoga
-  instructor: Debbie
-  day: Monday
-  start_time: 8:00a
-  end_time: 9:00a
-  length: 1
 days:
 - 
 - Tuesday
