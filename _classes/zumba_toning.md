@@ -1,6 +1,6 @@
 ---
 title: Zumba Toning
-date: 2016-04-22 17:55:00 -04:00
+date: 2017-06-08 18:30:00 -04:00
 categories:
 - dancing
 - lose weight
