@@ -32,6 +32,12 @@ sessions:
   start_time: 6:30p
   end_time: 7:30p
   length: 2
+- class: Zumba Toning
+  instructor: Christine
+  day: Tuesday
+  start_time: 5:45p
+  end_time: 6:30p
+  length: 2
 - class: Zumba
   instructor: Sue
   day: Tuesday
@@ -146,6 +152,7 @@ time_slots_evening:
 - 4:30p
 - 5:00p
 - 5:30p
+- 5:45p
 - 6:00p
 - 6:30p
 - 7:00p
