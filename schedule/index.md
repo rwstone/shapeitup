@@ -117,7 +117,7 @@ sessions:
   end_time: 11:30a
   length: 2
 days:
-- 
+- Monday
 - Tuesday
 - Wednesday
 - Thursday
