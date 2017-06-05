@@ -1,5 +1,6 @@
 ---
 title: Home
+date: 2017-06-04 22:36:00 -04:00
 banner:
 - image: "/img/billboards/group_training.jpg"
   title: Form
@@ -11,18 +12,15 @@ nutrition_title: Nutrition
 nutrition_description: |-
   Get on the path to Healthy Nutrition.
 
-   Visit Shape It Up Nutrition, our sister shop -- right next door at 611 Waterman Ave.
+   Visit Shape It Up Nutrition, our sister Club-- right next door at 611 Waterman Ave.
 passes:
 - name: Drop In
-  price: "$7"
-  is_sale: false
-- name: 5 Class Pass
-  price: "$25"
+  price: "$10"
   is_sale: false
 - name: 10 Class Pass
   price: "$40"
 - name: Monthly Unlimited
-  price: "$50"
+  price: "$55"
   is_sale: true
 title_seo: Shape It Up Fitness | East Providence, RI
 description_seo: Shape It Up Fitness is an exercise studio in East Providence, RI,
