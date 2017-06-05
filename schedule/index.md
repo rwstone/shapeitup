@@ -2,6 +2,12 @@
 title: Group Fitness Schedule
 date: 2017-04-19 13:01:00 -04:00
 sessions:
+- class: Fit /Boot Camp
+  instructor: Christina
+  day: Monday
+  start_time: 6:30a
+  end_time: 7:15a
+  length: 1
 - class: Circut Training
   instructor: Mary
   day: Monday
@@ -32,6 +38,12 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
+- class: Fit /Boot Camp
+  instructor: Bianca
+  day: Wednesday
+  start_time: 6:30a
+  end_time: 7:15a
+  length: 1
 - class: Zumba
   instructor: Irene
   day: Wednesday
@@ -92,31 +104,26 @@ sessions:
   start_time: 9:15a
   end_time: 10:15a
   length: 2
-- instructor: Christina
-  day: Saturday
-  start_time: 9:45a
-  end_time: 10:15a
-  length: 1
 - class: Zumba
   instructor: Nellie
   day: Saturday
   start_time: 10:30a
   end_time: 11:30a
   length: 2
-- class: Fit /Boot Camp
-  instructor: Christina
+- class: 
+  instructor: 
+  day: 
+  start_time: 
+  end_time: 
+  length: 
+- class: Yoga
+  instructor: Debbie
   day: Monday
-  start_time: 6:30a
-  end_time: 7:15a
-  length: 1
-- class: Fit /Boot Camp
-  instructor: Bianca
-  day: Wednesday
-  start_time: 6:30a
-  end_time: 7:15a
+  start_time: 8:00a
+  end_time: 9:00a
   length: 1
 days:
-- Monday
+- 
 - Tuesday
 - Wednesday
 - Thursday
