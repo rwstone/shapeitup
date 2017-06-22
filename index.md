@@ -29,8 +29,7 @@ description_seo: Shape It Up Fitness is an exercise studio in East Providence, R
 layout: home
 ---
 
-Looking to get healthy in a fun and friendly atmosphere?
 
-Make Shape It Up your home for Fitness. We are a family-run studio fostering a positive environment at a good value. We offer Group Exercise Classes, and Weight Loss Programs with our Certified Sports Nutritionist. 
+There’s a class for everyone, come find yours. Inspire your mind and transform your body with moving classes and workouts taught by instructors devoted to making it the very best hour of your day.
 
-Let us help you reach your Health and Fitness goals!
+Led by amazing instructors, our group fitness classes offer community, energy and motivation to create a trans-formative experience and deliver fitness results. Enjoy your favorite workouts, from cardio and dance (like Zumba!) to strength-training, conditioning, barre fusion and yoga, all conveniently located at your local club and expertly designed to keep you moving toward your best self. 
