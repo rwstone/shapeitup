@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2017-06-04 22:36:00 -04:00
+date: 2017-06-22 22:36:00 -04:00
 banner:
 - image: "/img/billboards/group_training.jpg"
   title: Form
