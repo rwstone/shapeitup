@@ -1,5 +1,5 @@
 ---
-title: Memorial Day
+title: July 4th & 5th Closed
 date: 2017-02-08 19:37:00 -05:00
 published: false
 categories:
@@ -21,11 +21,12 @@ tags:
 - summer
 - beach
 - beachbody
-event_date: 2017-05-29 07:00:00 -04:00
-event_end_date: 2017-05-29 23:00:00 -04:00
+event_date: 2017-07-04 07:00:00 -04:00
+event_end_date: 2017-07-05 23:00:00 -04:00
 ---
 
-  CLOSED ON Monday, May 29, 2017! We are OPEN on Tuesday, May 30th from 5pm-8:30pm. Tuesdays class line-up
-630pm Zumba with Sue, and 730pm with Sonia.
+  CLOSED ON Tuesday & Wednesday, July 4 & 5th, 2017! We are OPEN on Thursday July 6th. Thursday, classes for are 9am Barre Fusion with Debbie Young, 630pm Zumba Toning with Christine , and 
+730pm Zumba with Sonia.
 
-Enjoy your Holiday weekend! 
+Please have a safe 4th of July! We will see you Thursday, 
+July 6th!
