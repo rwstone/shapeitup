@@ -10,15 +10,15 @@ banner:
   title: Fun
 nutrition_title: Nutrition
 nutrition_description: "Get on the path to Healthy Nutrition.\n\n Visit Shape It Up
-  Nutrition, our sister Club-- right next door at 611 Waterman Ave. If you or someone
+  Nutrition, our sister Club--right next door at 611 Waterman Ave. If you or someone
   you may know are looking to Lose weight, gain muscle, or just need more energy.
-  Stop in and get your FREE Wellness Evaluation, and FREE Body Analysis. "
+  Stop in and get your FREE Body Analysis. "
 passes:
 - name: Drop In
   price: "$10"
   is_sale: false
 - name: 10 Class Pass
-  price: "$50"
+  price: "$40"
 - name: Monthly Unlimited
   price: "$45"
   is_sale: true
