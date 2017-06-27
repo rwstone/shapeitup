@@ -1,5 +1,5 @@
 ---
-title: Boot Camp
+title: Body Conditioning
 date: 2016-07-12 06:30:00 -04:00
 categories:
 - fitness
@@ -27,7 +27,8 @@ tags:
 - herbalife
 - muscle
 - getting healthy
+- conditioning
 class_image: "/uploads/boot%20camp-378245.jpg"
 ---
 
-This group class is 45mins and open to all, whether you are new to fitness, trying to get back into it or you just love working out. In this Boot Camp class you will be using lite weights, to using your own body weight, and a few exercises with a buddy workout. Please bring your own yoga mat. 
+Body conditioning classes are designed to provide total fitness and overall toning through working every major muscle group in one workout. Exercisers wanting to attend a body conditioning class should wear comfortable workout gear and footwear, we recommend You bring your own mat, and towel.
