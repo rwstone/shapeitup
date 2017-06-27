@@ -8,19 +8,13 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
-- class: Fit /Boot Camp
-  instructor: Christina
-  day: Monday
-  start_time: 6:30a
-  end_time: 7:15a
-  length: 1
-- class: Circut Training
+- class: Body Conditioning
   instructor: Mary
   day: Monday
   start_time: 10:00a
   end_time: 10:30a
   length: 1
-- class: Fit /Boot Camp
+- class: Body Conditioning
   instructor: Mary
   day: Monday
   start_time: 6:00p
@@ -38,6 +32,12 @@ sessions:
   start_time: 5:45p
   end_time: 6:30p
   length: 2
+- class: Body Conditioning
+  instructor: Christina
+  day: Tuesday
+  start_time: 6:30a
+  end_time: 7:15a
+  length: 2
 - class: Zumba
   instructor: Sue
   day: Tuesday
@@ -50,19 +50,13 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
-- class: Fit /Boot Camp
-  instructor: Bianca
-  day: Wednesday
-  start_time: 6:30a
-  end_time: 7:15a
-  length: 1
 - class: Zumba
   instructor: Irene
   day: Wednesday
   start_time: 9:30a
   end_time: 10:25a
   length: 2
-- class: Fit /Boot Camp
+- class: Body Conditioning
   instructor: Mary
   day: Wednesday
   start_time: 6:00p
@@ -74,11 +68,11 @@ sessions:
   start_time: 6:30p
   end_time: 7:25p
   length: 2
-- class: Zumba
-  instructor: Susan
-  day: Wednesday
-  start_time: 7:30p
-  end_time: 8:30p
+- class: Body Conditioning
+  instructor: Christina
+  day: Thursday
+  start_time: 6:30a
+  end_time: 7:15a
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -122,6 +116,12 @@ sessions:
   start_time: 10:30a
   end_time: 11:30a
   length: 2
+- class: 
+  instructor: 
+  day: 
+  start_time: 
+  end_time: 
+  length: 
 days:
 - Monday
 - Tuesday
