@@ -6,6 +6,14 @@ categories:
 - ZUMBA
 - H.I.I.T CLASS
 - FITNESS
+- circuit training
+- shakeogly
+- beachbody
+- yoga
+- summer
+- lose weight
+- weight lose
+- beach
 tags:
 - gym
 - HEALTHY
@@ -19,6 +27,8 @@ tags:
 - circuit training
 - cross fit
 - shakeolgy
+- yoga
+- lose weight
 class_type: H.I.I.T CLASS
 class_image: "/uploads/strongzumba.jpg"
 ---
