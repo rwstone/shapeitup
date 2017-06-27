@@ -40,3 +40,5 @@ class: Body Conditioning
 ---
 
 Body conditioning classes are designed to provide total fitness and overall Strengthening, and toning through working every major muscle group in one workout. Exercisers wanting to attend a body conditioning class should wear comfortable workout gear and footwear, we recommend You bring your own mat, and towel.
+
+Starts in July, check our schedule!!
