@@ -13,6 +13,7 @@ categories:
 - herbalife
 - muscles
 - getting healthy
+- yoga
 tags:
 - fitness
 - cross fit
@@ -28,7 +29,9 @@ tags:
 - muscle
 - getting healthy
 - conditioning
+- workouts
+- yoga
 class_image: "/uploads/boot%20camp-378245.jpg"
 ---
 
-Body conditioning classes are designed to provide total fitness and overall toning through working every major muscle group in one workout. Exercisers wanting to attend a body conditioning class should wear comfortable workout gear and footwear, we recommend You bring your own mat, and towel.
+Body conditioning classes are designed to provide total fitness and overall toning through working every major muscle group in a conditioning-style workout. You use your own body weight as resistance to achieve muscle definition. Exercisers wanting to attend a body conditioning class should wear comfortable workout gear and footwear, we recommend You bring your own mat, and towel.
