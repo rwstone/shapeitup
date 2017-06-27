@@ -1,6 +1,7 @@
 ---
 title: Kids Fit Camp
 date: 2017-01-07 10:00:00 -05:00
+published: false
 categories:
 - healthy kids
 - kids fitness
