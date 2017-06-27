@@ -9,6 +9,10 @@ categories:
 - lose weight
 - getting healthy
 - muscle
+- group fitness
+- beachbody
+- beaches
+- swimming
 tags:
 - zumba
 - barra fusion
@@ -19,6 +23,11 @@ tags:
 - green smoothie
 - group fitness
 - yoga
+- fitness
+- summer
+- beachbody
+- nightout
+- swim wear
 has_time_and_date: false
 event_date: 2017-06-27 18:00:00 -04:00
 event_end_date: 2017-08-27 23:59:00 -04:00
