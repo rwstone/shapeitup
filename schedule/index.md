@@ -32,12 +32,6 @@ sessions:
   start_time: 5:45p
   end_time: 6:30p
   length: 2
-- class: Body Conditioning
-  instructor: Christina
-  day: Tuesday
-  start_time: 6:30a
-  end_time: 7:15a
-  length: 2
 - class: Zumba
   instructor: Sue
   day: Tuesday
@@ -56,23 +50,11 @@ sessions:
   start_time: 9:30a
   end_time: 10:25a
   length: 2
-- class: Body Conditioning
-  instructor: Mary
-  day: Wednesday
-  start_time: 6:00p
-  end_time: 6:30p
-  length: 1
 - class: Zumba
   instructor: Silvia
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
-  length: 2
-- class: Body Conditioning
-  instructor: Christina
-  day: Thursday
-  start_time: 6:30a
-  end_time: 7:15a
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -164,4 +146,6 @@ description_seo: View our regular calendar of group exercise classes.
 layout: schedule
 ---
 
-This is our regular weekly schedule. We are closed on most Major Holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719).
+This is our regular weekly schedule. We are closed on most Major Holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719)
+**CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
+**PRE-PAID CLASSES EXPIRE 90 DAYS FROM PURCHASE**
