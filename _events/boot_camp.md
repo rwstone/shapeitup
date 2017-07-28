@@ -1,6 +1,7 @@
 ---
 title: New Yoga Class
 date: 2017-04-17 18:00:00 -04:00
+published: false
 categories:
 - getting healthy
 - fitness
