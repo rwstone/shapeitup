@@ -1,7 +1,6 @@
 ---
-title: Total Body Conditioning
+title: Changes to schedule
 date: 2017-02-05 15:50:00 -05:00
-published: false
 categories:
 - yoga
 - gym
@@ -39,6 +38,8 @@ event_end_date: 2017-08-31 23:59:00 -04:00
 class: Body Conditioning
 ---
 
-Body conditioning classes are designed to provide total fitness and overall Strengthening, and toning through working every major muscle group in one workout. Exercisers wanting to attend a body conditioning class should wear comfortable workout gear and footwear, we recommend You bring your own mat, and towel.
+Due to low particpantion in classes this Summer we have made a FEW changes to our August schedule. There are no longer any
+630am Class on Tues. & Thursdays, 10am Class on Mondays,
+6pm Mondays & Wednesdays, and NO Friday 9am class. Schedules are avaliable on this site under schedule, as well as a printed copy at Shape It Up.
 
-Starts in July, check our schedule!!
+We will be adding classes back into our FALL SCHEDULE
