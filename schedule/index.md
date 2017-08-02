@@ -8,18 +8,6 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
-- class: Body Conditioning
-  instructor: Mary
-  day: Monday
-  start_time: 10:00a
-  end_time: 10:30a
-  length: 1
-- class: Body Conditioning
-  instructor: Mary
-  day: Monday
-  start_time: 6:00p
-  end_time: 6:30p
-  length: 1
 - class: Zumba
   instructor: Irene
   day: Monday
