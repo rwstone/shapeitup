@@ -1,6 +1,6 @@
 ---
 title: Changes to schedule
-date: 2017-02-05 15:50:00 -05:00
+date: 2017-08-01 15:50:00 -04:00
 categories:
 - yoga
 - gym
@@ -33,7 +33,7 @@ tags:
 - smoothie
 - boot camp
 has_time_and_date: true
-event_date: 2017-07-11 00:00:00 -04:00
+event_date: 2017-08-01 00:00:00 -04:00
 event_end_date: 2017-08-31 23:59:00 -04:00
 class: Body Conditioning
 ---
