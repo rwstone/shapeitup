@@ -1,5 +1,5 @@
 ---
-title: Changes to schedule
+title: New Class Alert
 date: 2017-08-01 15:50:00 -04:00
 categories:
 - yoga
@@ -32,14 +32,16 @@ tags:
 - dancing
 - smoothie
 - boot camp
+- "#Fall"
+- "#backtoschool"
 has_time_and_date: true
-event_date: 2017-08-01 00:00:00 -04:00
+event_date: 2017-08-30 23:59:00 -04:00
 event_end_date: 2017-08-31 23:59:00 -04:00
-class: Body Conditioning
+class: 'POUND: Rockout. Workout'
 ---
 
-Due to low particpantion in classes this Summer we have made a FEW changes to our August schedule. There are no longer any
-630am Class on Tues. & Thursdays, 10am Class on Mondays,
-6pm Mondays & Wednesdays, and NO Friday 9am class. Schedules are avaliable on this site under schedule, as well as a printed copy at Shape It Up.
+We have added a NEW CLASS ****Starting Wednesday, August 30th at **5:45pm POUND: Rockout. Workout**
 
-We will be adding classes back into our FALL SCHEDULE
+**ONLY 23 STICKS AVALIABLE FOR THIS CLASS YOU MUST RESERVE YOUR SPOT IN ORDER TO TAKE THIS CLASS** Please call 401.270.2929 or reserve on Mindbody account.
+
+ This class is a combination cardio and strength class with “constant simulated drumming.” Yes, as in with drum sticks. Where: A ...
