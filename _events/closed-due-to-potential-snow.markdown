@@ -1,6 +1,7 @@
 ---
 title: August 14, 2017 Closed
 date: 2017-08-01 19:37:00 -04:00
+published: false
 categories:
 - zumba
 - zumba fitness
