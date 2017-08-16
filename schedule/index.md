@@ -38,6 +38,12 @@ sessions:
   start_time: 9:30a
   end_time: 10:25a
   length: 2
+- class: 'POUND: Rockout. Workout'
+  instructor: Kristie Wintle
+  day: Wednesday
+  start_time: 5:45p
+  end_time: 6:20p
+  length: 2
 - class: Zumba
   instructor: Silvia
   day: Wednesday
@@ -85,12 +91,6 @@ sessions:
   day: Saturday
   start_time: 10:30a
   end_time: 11:30a
-  length: 2
-- class: 'POUND: Rockout. Workout'
-  instructor: Kristie Wintle
-  day: Wednesday
-  start_time: 5:45p
-  end_time: 6:30p
   length: 2
 - class: 
   instructor: 
