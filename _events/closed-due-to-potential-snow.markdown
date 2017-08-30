@@ -28,7 +28,6 @@ tags:
 - '2017'
 - nightout
 - "#backtoschool"
-- "#dunkindonuts"
 - "#DDontherun"
 - "#Fall"
 - "#holidays"
