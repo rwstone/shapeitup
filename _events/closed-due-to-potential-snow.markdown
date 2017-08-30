@@ -25,6 +25,10 @@ tags:
 - summer
 - beach
 - beachbody
+- "#Fall #pumpkin #Dunkindonuts #DDontherun"
+- '2017'
+- nightout
+- "#backtoschool"
 event_date: 2017-08-30 07:00:00 -04:00
 event_end_date: 2017-09-04 23:55:00 -04:00
 ---
