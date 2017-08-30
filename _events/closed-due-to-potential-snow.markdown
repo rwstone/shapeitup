@@ -23,6 +23,7 @@ tags:
 - nightout
 - "#Fall"
 - "#holidays"
+has_time_and_date: true
 event_date: 2017-08-30 07:00:00 -04:00
 event_end_date: 2017-09-04 23:55:00 -04:00
 ---
