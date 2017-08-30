@@ -9,7 +9,6 @@ categories:
 - getting healthy
 - healthy
 - summer
-- beaches
 - beachbody
 - getting fit
 tags:
