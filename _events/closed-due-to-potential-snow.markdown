@@ -1,6 +1,6 @@
 ---
 title: Sept. 4, 2017 Closed
-date: 2017-08-01 19:37:00 -04:00
+date: 2017-09-04 00:00:00 -04:00
 categories:
 - zumba
 - zumba fitness
