@@ -12,10 +12,6 @@ categories:
 - beaches
 - beachbody
 - getting fit
-- workouts
-- lose weight
-- personal training
-- wedding
 tags:
 - zumba
 - group fitness
