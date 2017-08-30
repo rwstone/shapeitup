@@ -1,7 +1,6 @@
 ---
-title: August 14, 2017 Closed
+title: Sept. 4, 2017 Closed
 date: 2017-08-01 19:37:00 -04:00
-published: false
 categories:
 - zumba
 - zumba fitness
@@ -12,6 +11,11 @@ categories:
 - summer
 - beaches
 - beachbody
+- getting fit
+- workouts
+- lose weight
+- personal training
+- wedding
 tags:
 - zumba
 - group fitness
@@ -21,11 +25,11 @@ tags:
 - summer
 - beach
 - beachbody
-event_date: 2017-08-14 07:00:00 -04:00
-event_end_date: 2017-08-14 23:55:00 -04:00
+event_date: 2017-08-30 07:00:00 -04:00
+event_end_date: 2017-09-04 23:55:00 -04:00
 ---
 
-We are CLOSED Monday, August 14, 2017 to observe V.J. Holiday.
+We are CLOSED Monday, September 4, 2017 to observe Labor Day Holiday.
 
 
 We will resume our normal schedule Tuesday at 5pm.
