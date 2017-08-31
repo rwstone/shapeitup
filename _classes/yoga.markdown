@@ -21,7 +21,7 @@ tags:
 - beach
 - summer
 - lose weight
-class_type: Yoga
+class_type: mindful fitness
 class_image: "/uploads/yoga-04f481.jpg"
 additional_info: Yoga is an ancient art based on a harmonizing system of development
   for the body, mind, and spirit. The continued practice of yoga will lead you to
