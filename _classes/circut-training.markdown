@@ -30,7 +30,7 @@ tags:
 - beachbody
 - shakeolgy
 - boot camp
-class_type: Circuit-Style  Conditioning Class
+class_type: gym fitness
 class_image: "/uploads/weightloss.jpg"
 ---
 
