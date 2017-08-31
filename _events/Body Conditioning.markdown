@@ -34,9 +34,8 @@ tags:
 - boot camp
 - "#Fall"
 - "#backtoschool"
-has_time_and_date: true
+has_time_and_date: false
 event_date: 2017-08-30 23:59:00 -04:00
-event_end_date: 2017-08-31 23:59:00 -04:00
 class: 'POUND: Rockout. Workout'
 ---
 
