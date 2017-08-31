@@ -1,5 +1,5 @@
 ---
-title: Kristie Wintle
+title: Kristie
 date: 2017-08-16 14:24:00 -04:00
 categories:
 - "#pound"
@@ -17,5 +17,6 @@ tags:
 classes:
 - 'POUND: Rockout. Workout'
 image: "/uploads/pound.jpg"
+name: Kristie Wintle
 ---
 
