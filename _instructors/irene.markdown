@@ -15,7 +15,7 @@ tags:
 - healthy
 classes:
 - Zumba
-- 
 image: "/uploads/irene.jpg"
+name: Irene
 ---
 
