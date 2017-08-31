@@ -29,7 +29,7 @@ tags:
 - shakeolgy
 - yoga
 - lose weight
-class_type: H.I.I.T CLASS
+class_type: gym fitness
 class_image: "/uploads/strongzumba.jpg"
 ---
 
