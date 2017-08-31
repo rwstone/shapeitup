@@ -27,7 +27,10 @@ Classes can span multiple time blocks within the calendar. For example, a 1-hour
                 {% else %}
                     {% assign current_session = filtered_sessions | first %}
                     {% assign tmp_blocked_after = current_session.length | default: 2 | minus: 1 %}
-                    <td rowspan="{{ current_session.length | default: 2 | escape }}" class="event">
+					{% comment %}
+					Added downcase filter to force string conversion on Windows, jekyll 3.5.2, 8/16/2017
+					{% endcomment %}
+                    <td rowspan="{{ current_session.length | default: 2 | downcase | escape }}" class="event">
                             <a href="/fitness#gallery-details-{{ current_session.class | slugify }}">{{ current_session.class | escape }}</a>
                             <div>{{ current_session.instructor | escape }}</div>
                             <div>{{ current_session.start_time | escape }} - {{ current_session.end_time | escape }}</div>
