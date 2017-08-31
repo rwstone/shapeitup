@@ -31,6 +31,7 @@ tags:
 - conditioning
 - workouts
 - yoga
+class_type: gym fitness
 class_image: "/uploads/boot%20camp-378245.jpg"
 ---
 
