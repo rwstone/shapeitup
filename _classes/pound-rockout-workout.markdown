@@ -20,8 +20,8 @@ tags:
 - "#fall"
 - "#backtoschool"
 - "#workout"
-class_type: 'a combination cardio and strength class with “constant simulated drumming.”
-  Yes, as in with drum sticks. '
+class_type: gym fitness
 class_image: "/uploads/pound.jpg"
 ---
 
+A combination cardio and strength class with “constant simulated drumming.” Yes, as in with drum sticks. 
