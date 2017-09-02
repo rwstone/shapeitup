@@ -1,5 +1,5 @@
 ---
-title: New Class Alert
+title: New Classes
 date: 2017-08-01 15:50:00 -04:00
 categories:
 - yoga
@@ -34,13 +34,22 @@ tags:
 - boot camp
 - "#Fall"
 - "#backtoschool"
-has_time_and_date: false
-event_date: 2017-08-30 23:59:00 -04:00
+has_time_and_date: true
+event_date: 2017-09-06 23:59:00 -04:00
+event_end_date: 2018-09-26 00:00:00 -04:00
 class: 'POUND: Rockout. Workout'
 ---
 
-We have added a NEW CLASS ****Starting Wednesday, August 30th at **5:45pm POUND: Rockout. Workout**
+We have added a NEW CLASSES **Starting September 6, 2017
 
-**ONLY 23 STICKS AVALIABLE FOR THIS CLASS YOU MUST RESERVE YOUR SPOT IN ORDER TO TAKE THIS CLASS** Please call 401.270.2929 or reserve on Mindbody account.
+**Monday's**
+6:00pm Circuit Training
 
- This class is a combination cardio and strength class with “constant simulated drumming.” Yes, as in with drum sticks. Where: A ...
+**Wednesday's**
+**5:45pm POUND: Rockout. Workout**
+only 23 sticks available so you must RSVP for class 401.270.2929
+
+**Thursday's**
+6:00pm Circuit Training
+
+
