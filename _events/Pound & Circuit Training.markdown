@@ -40,16 +40,16 @@ event_end_date: 2018-09-26 00:00:00 -04:00
 class: 'POUND: Rockout. Workout'
 ---
 
-We have added a NEW CLASSES **Starting September 6, 2017
+**We have added a NEW CLASSES **Starting September 6, 2017**
 
 **Monday's**
-6:00pm Circuit Training
+**6:00pm Circuit Training**
 
 **Wednesday's**
-**5:45pm POUND: Rockout. Workout**
-only 23 sticks available so you must RSVP for class 401.270.2929
+****5:45pm POUND: Rockout. Workout****
+**only 23 sticks available so you must RSVP for class 401.270.2929**
 
-**Thursday's**
-6:00pm Circuit Training
+****Thursday's**
+6:00pm Circuit Training**
 
 
