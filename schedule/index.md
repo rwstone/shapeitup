@@ -33,12 +33,6 @@ sessions:
   end_time: 7:20p
   length: 2
 - class: Zumba
-  instructor: Sonia
-  day: Tuesday
-  start_time: 7:30p
-  end_time: 8:30p
-  length: 2
-- class: Zumba
   instructor: Irene
   day: Wednesday
   start_time: 9:30a
