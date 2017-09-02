@@ -40,7 +40,7 @@ class: 'POUND: Rockout. Workout'
 
 **We have added a NEW CLASSES **Starting September 6, 2017**
 
-**Monday's**
+****Monday's**
 **6:00pm Circuit Training**
 
 **Wednesday's**
@@ -49,5 +49,5 @@ class: 'POUND: Rockout. Workout'
 
 ****Thursday's**
 6:00pm Circuit Training**
-
+**
 
