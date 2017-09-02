@@ -8,6 +8,12 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
+- class: Circuit Conditioning
+  instructor: Mary
+  day: Monday
+  start_time: 6:00p
+  end_time: 6:30p
+  length: 1
 - class: Zumba
   instructor: Irene
   day: Monday
@@ -56,6 +62,12 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 3
+- class: Circuit Conditioning
+  instructor: Mary
+  day: Thursday
+  start_time: 6:00p
+  end_time: 6:30pm
+  length: 1
 - class: Zumba Toning
   instructor: Christine
   day: Thursday
@@ -63,7 +75,7 @@ sessions:
   end_time: 7:25p
   length: 2
 - class: Zumba
-  instructor: Sonia
+  instructor: Nellie
   day: Thursday
   start_time: 7:30p
   end_time: 8:30p
@@ -92,12 +104,6 @@ sessions:
   start_time: 10:30a
   end_time: 11:30a
   length: 2
-- class: 
-  instructor: 
-  day: 
-  start_time: 
-  end_time: 
-  length: 
 days:
 - Monday
 - Tuesday
