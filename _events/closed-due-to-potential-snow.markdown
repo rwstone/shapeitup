@@ -27,7 +27,7 @@ has_time_and_date: false
 event_date: 2017-09-04 07:00:00 -04:00
 ---
 
-We are CLOSED Monday, September 4, 2017 to observe Labor Day Holiday.
+We are CLOSED Monday, to observe Labor Day Holiday.
 
 
 We will resume our normal schedule Tuesday at 5pm.
