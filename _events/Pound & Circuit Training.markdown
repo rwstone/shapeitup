@@ -35,8 +35,6 @@ tags:
 - "#Fall"
 - "#backtoschool"
 has_time_and_date: false
-event_date: 2017-09-06 23:59:00 -04:00
-event_end_date: 2018-09-26 00:00:00 -04:00
 class: 'POUND: Rockout. Workout'
 ---
 
