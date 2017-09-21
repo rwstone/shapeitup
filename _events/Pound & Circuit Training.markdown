@@ -42,7 +42,7 @@ has_time_and_date: false
 class: 'POUND: Rockout. Workout'
 ---
 
-**We have added a NEW CLASSES **Starting September 6, 2017**
+**We have added a NEW CLASSES **
 
 ****Monday's**
 **6:00pm 30min Circuit Class**
