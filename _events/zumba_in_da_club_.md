@@ -33,16 +33,9 @@ button_label: Sign Up
 ---
 
 **Salsa Night Friday, September 22nd**
-
 **7:00pm - Sign-in
   7:30pm - Salasa lesson
   8:15-9pm Guided pratice bachata, merengue, and Salsa** 
-
 **Singles & Couples WELCOMED**
-
 $20 PER PERSON
 REFRESHMENTS AND SNACKS PROVIDED 
-
-
-
-Prepaid Class cards or monthly pass cannot be used for this event.
