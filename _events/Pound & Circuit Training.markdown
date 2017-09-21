@@ -1,6 +1,6 @@
 ---
 title: New Classes
-date: 2017-08-01 15:50:00 -04:00
+date: 2017-09-21 15:50:00 -04:00
 categories:
 - yoga
 - gym
@@ -13,6 +13,8 @@ categories:
 - wedding
 - strength training
 - boot camp
+- "#pound"
+- "#Halloween"
 tags:
 - beachbody
 - shakealogy
@@ -34,6 +36,8 @@ tags:
 - boot camp
 - "#Fall"
 - "#backtoschool"
+- "#pound"
+- "#Halloween"
 has_time_and_date: false
 class: 'POUND: Rockout. Workout'
 ---
@@ -48,6 +52,6 @@ class: 'POUND: Rockout. Workout'
 **only 23 sticks available so you must RSVP for class 401.270.2929**
 
 ****Thursday's**
-6:00pm Circuit Training**
+6:00pm 30min Circuit Training**
 **
 
