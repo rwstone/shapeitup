@@ -8,6 +8,14 @@ categories:
 - "#Fall"
 - "#ZUMBA"
 - "#FRIDAYNIGHT"
+tags:
+- "#backtoschool"
+- "#fall"
+- "#pound"
+- ZUMBA
+- STRONG BY ZUMBA
+- "#SALSA"
+- FRIDAYNIGHT
 class_image: "/uploads/salsa-party-cm-.jpg"
 ---
 
