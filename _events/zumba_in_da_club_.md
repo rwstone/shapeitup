@@ -21,10 +21,13 @@ tags:
 - dancing
 - nightout
 - group fitness
+- "#fridaynightlife"
+- "#salsa"
+- "#nightclub"
 has_time_and_date: true
 event_date: 2017-09-22 19:00:00 -04:00
 event_end_date: 2017-09-22 21:00:00 -04:00
-class: Zumba in da Club
+class: SALSA NIGHT
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sTG=28&sVT=21
 button_label: Sign Up
 ---
