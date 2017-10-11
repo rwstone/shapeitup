@@ -1,5 +1,5 @@
 ---
-title: Oct. 31st
+title: Closed
 date: 2017-10-11 00:00:00 -04:00
 categories:
 - zumba
