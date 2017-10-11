@@ -1,6 +1,6 @@
 ---
-title: Columbus Day
-date: 2017-10-09 00:00:00 -04:00
+title: Oct. 31st
+date: 2017-10-11 00:00:00 -04:00
 categories:
 - zumba
 - zumba fitness
@@ -25,13 +25,14 @@ tags:
 - "#Fall"
 - "#holidays"
 - "#pound"
-has_time_and_date: false
-event_date: 2017-10-09 07:00:00 -04:00
+has_time_and_date: true
+event_date: 2017-10-31 07:00:00 -04:00
+event_end_date: 2017-10-31 23:59:00 -04:00
 ---
 
-****We are CLOSED Monday, Oct. 9th, to observe Columbus Day.
+****We are CLOSED on Halloween, Oct. 31st from 730am-2pm ONLY
 **
 
-**We are CLOSED Tues. Oct 31st for Halloween**
+**We will resume our Normal Business hours on Wednesday, Nov 1st at 730am**
 
 
