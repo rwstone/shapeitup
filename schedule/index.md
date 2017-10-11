@@ -12,7 +12,7 @@ sessions:
   instructor: Mandy Brooks
   day: Monday
   start_time: 5:15p
-  end_time: 6:00p
+  end_time: 5:55p
   length: 1
 - class: Circuit Conditioning
   instructor: Mary
