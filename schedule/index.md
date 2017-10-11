@@ -8,6 +8,12 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
+- class: Buti Yoga
+  instructor: Mandy Brooks
+  day: Monday
+  start_time: 5:15p
+  end_time: 6:00p
+  length: 1
 - class: Circuit Conditioning
   instructor: Mary
   day: Monday
