@@ -13,7 +13,7 @@ sessions:
   day: Monday
   start_time: 5:15p
   end_time: 5:55p
-  length: 1
+  length: 2
 - class: Circuit Conditioning
   instructor: Mary
   day: Monday
