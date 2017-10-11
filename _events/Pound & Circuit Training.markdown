@@ -1,6 +1,6 @@
 ---
-title: New Classes
-date: 2017-09-21 15:50:00 -04:00
+title: Add New Classes
+date: 2017-10-11 15:50:00 -04:00
 categories:
 - yoga
 - gym
@@ -15,6 +15,7 @@ categories:
 - boot camp
 - "#pound"
 - "#Halloween"
+- "#butiyoga"
 tags:
 - beachbody
 - shakealogy
@@ -38,20 +39,25 @@ tags:
 - "#backtoschool"
 - "#pound"
 - "#Halloween"
-has_time_and_date: false
+- "#butiyoga"
+has_time_and_date: true
+event_date: 2017-10-12 10:00:00 -04:00
+event_end_date: 2017-11-30 23:59:00 -05:00
 class: 'POUND: Rockout. Workout'
 ---
 
 **We have added a NEW CLASSES **
 
 ****Monday's**
-**6:00pm 30min Circuit Class**
+
+**8:00am Yoga with Debbie West**
+**5:15 Buti Yoga with Mandy Brooks**
+**This is just for the ladies, sorry gentlemen**
 
 **Wednesday's**
-****5:45pm POUND: Rockout. Workout****
+****5:45pm POUND with Kristie****
 **only 23 sticks available so you must RSVP for class 401.270.2929**
 
 ****Thursday's**
-6:00pm 30min Circuit Class**
-**
+**10:00am Pound with Kristie**
 
