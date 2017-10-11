@@ -21,7 +21,7 @@ tags:
 - "#workouts"
 - "#beachbody"
 - "#loseweight"
-class_type: mindful
+class_type: mindful Fitness
 class_image: "/uploads/butiyoga.jpg"
 additional_info: bring yoga mat
 ---
