@@ -6,6 +6,7 @@ categories:
 - zumba
 - workouts
 - getting fit
+- "#fridaynightlife"
 tags:
 - zumba
 - personal trainer
@@ -15,8 +16,11 @@ tags:
 - protein
 - "#halloween"
 - "#holidays"
+- "#fridaynight"
+- "#providence"
+- "#thingstodo"
 has_time_and_date: true
-event_date: 2017-10-13 06:00:00 -04:00
+event_date: 2017-10-13 19:30:00 -04:00
 event_end_date: 2017-10-13 22:30:00 -04:00
 class: Schedule
 ---
