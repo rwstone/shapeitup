@@ -1,5 +1,5 @@
 ---
-title: Add New Classes
+title: Added New Classes
 date: 2017-10-11 15:50:00 -04:00
 categories:
 - yoga
