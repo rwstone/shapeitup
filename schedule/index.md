@@ -56,6 +56,12 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 3
+- class: 'POUND: Rockout. Workout'
+  instructor: Kristie
+  day: Thursday
+  start_time: 10:00a
+  end_time: 10:45a
+  length: 2
 - class: Circuit Conditioning
   instructor: Mary
   day: Thursday
