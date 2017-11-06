@@ -1,6 +1,7 @@
 ---
 title: Circuit Conditioning
 date: 2017-03-06 12:16:00 -05:00
+published: false
 categories:
 - ZUMBA
 - STRONG BY ZUMBA
