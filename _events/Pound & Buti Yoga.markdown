@@ -53,6 +53,6 @@ class: Personal Training
 
 ****Monday's & Wednesday's**
 
-6pm small GROUP FITNESS CLASS 
+6pm  GROUP FITNESS CLASS  ( 6 people only )
 
-5 week program designed to challenge & provide more personalized instruction with a max of 6 participants. You must register and commit to these 5 weeks.
+5 week program designed to challenge & provide more personalized instruction with a max of 6 participants. You must register and commit to these 5 weeks. You must register for class
