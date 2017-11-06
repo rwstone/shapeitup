@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2017-10-11 13:01:00 -04:00
+date: 2017-11-06 13:01:00 -05:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -11,15 +11,9 @@ sessions:
 - class: Buti Yoga
   instructor: Mandy Brooks
   day: Monday
-  start_time: 5:15p
-  end_time: 5:55p
-  length: 2
-- class: Circuit Conditioning
-  instructor: Mary
-  day: Monday
-  start_time: 6:00p
+  start_time: '5:30'
   end_time: 6:30p
-  length: 1
+  length: 2
 - class: Zumba
   instructor: Irene
   day: Monday
@@ -37,6 +31,12 @@ sessions:
   day: Tuesday
   start_time: 6:30p
   end_time: 7:20p
+  length: 2
+- class: Zumba
+  instructor: Sonia
+  day: Tuesday
+  start_time: 7:30p
+  end_time: 8:30p
   length: 2
 - class: Zumba
   instructor: Irene
@@ -68,12 +68,6 @@ sessions:
   start_time: 10:00a
   end_time: 10:45a
   length: 2
-- class: Circuit Conditioning
-  instructor: Mary
-  day: Thursday
-  start_time: 6:00p
-  end_time: 6:30pm
-  length: 1
 - class: Zumba Toning
   instructor: Christine
   day: Thursday
@@ -81,7 +75,7 @@ sessions:
   end_time: 7:25p
   length: 2
 - class: Zumba
-  instructor: Nellie
+  instructor: Sonia
   day: Thursday
   start_time: 7:30p
   end_time: 8:30p
@@ -118,6 +112,7 @@ days:
 - Friday
 - Saturday
 - Sunday
+- 
 time_slots_morning:
 - 6:00a
 - 6:30a
