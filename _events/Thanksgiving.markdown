@@ -27,6 +27,10 @@ tags:
 - "#pound"
 - "*THANKSGIVING"
 - "*HOLIDAYS"
+- "#2018"
+- "#Newyear"
+- "#butiyoga"
+- "#yoga"
 has_time_and_date: true
 event_date: 2017-11-22 07:00:00 -05:00
 event_end_date: 2017-11-24 23:59:00 -05:00
