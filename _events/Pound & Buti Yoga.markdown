@@ -40,24 +40,19 @@ tags:
 - "#pound"
 - "#Halloween"
 - "#butiyoga"
+- "#2018"
+- "#Newyear"
+- "#holidays"
 has_time_and_date: true
-event_date: 2017-11-20 10:00:00 -05:00
-event_end_date: 2017-11-30 23:59:00 -05:00
-class: 'POUND: Rockout. Workout'
+event_date: 2017-11-20 18:00:00 -05:00
+event_end_date: 2017-12-20 18:30:00 -05:00
+class: Personal Training
 ---
 
 **We have added a NEW CLASSES **
 
-****Monday's**
+****Monday's & Wednesday's**
 
-**8:00am Yoga with Debbie West**
-**5:30 Buti Yoga with Mandy Brooks**
-**This is just for the ladies, sorry gentlemen**
+6pm small GROUP FITNESS CLASS 
 
-**Wednesday's**
-****5:45pm POUND with Kristie****
-**only 23 sticks available so you must RSVP for class 401.270.2929**
-
-****Thursday's**
-**10:00am Pound with Kristie**
-
+5 week program designed to challenge & provide more personalized instruction with a max of 6 participants. You must register and commit to these 5 weeks.
