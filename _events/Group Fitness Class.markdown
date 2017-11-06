@@ -1,5 +1,5 @@
 ---
-title: Added New Classes
+title: Group Fitness Class
 date: 2017-10-11 15:50:00 -04:00
 categories:
 - yoga
