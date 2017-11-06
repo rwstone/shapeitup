@@ -41,7 +41,7 @@ tags:
 - "#Halloween"
 - "#butiyoga"
 has_time_and_date: true
-event_date: 2017-10-12 10:00:00 -04:00
+event_date: 2017-11-20 10:00:00 -05:00
 event_end_date: 2017-11-30 23:59:00 -05:00
 class: 'POUND: Rockout. Workout'
 ---
@@ -51,7 +51,7 @@ class: 'POUND: Rockout. Workout'
 ****Monday's**
 
 **8:00am Yoga with Debbie West**
-**5:15 Buti Yoga with Mandy Brooks**
+**5:30 Buti Yoga with Mandy Brooks**
 **This is just for the ladies, sorry gentlemen**
 
 **Wednesday's**
