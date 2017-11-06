@@ -1,5 +1,5 @@
 ---
-title: Group Fitness Class
+title: Small Group Fitness Class
 date: 2017-10-11 15:50:00 -04:00
 categories:
 - yoga
@@ -55,4 +55,4 @@ class: Personal Training
 
 6pm  GROUP FITNESS CLASS  ( 6 people only )
 
-5 week program designed to challenge & provide more personalized instruction with a max of 6 participants. You must register and commit to these 5 weeks. You must register for class
+5 week program designed to challenge & provide more personalized instruction with a max of 6 participants. You must register and commit to these 5 weeks. 
