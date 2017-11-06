@@ -49,7 +49,7 @@ event_end_date: 2017-12-20 18:30:00 -05:00
 class: Personal Training
 ---
 
-**We have added a NEW CLASSES **
+**We have added a NEW CLASS **
 
 ****Monday's & Wednesday's**
 
