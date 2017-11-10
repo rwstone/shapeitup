@@ -1,5 +1,5 @@
 ---
-title: Buti Yoga & Pound
+title: Buti Yoga & Pound Classes
 date: 2017-11-06 18:00:00 -05:00
 categories:
 - getting healthy
