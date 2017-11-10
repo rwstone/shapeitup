@@ -40,7 +40,7 @@ button_label: Request an Eval
 
 ****This is a 4 weeks program for 30mins on Monday's & Wednesday's at 6pm. 
 
-*This class only will only have the capacity of 6 people*.
+*This class only will have the capacity of 6 people*.
 
 You must register for this 4 week Group Personal Training Class, cost for this 4 week program is $55****
 
