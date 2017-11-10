@@ -28,9 +28,7 @@ button_label: Buy tickets
 Launch your weekend with some "hot & steamy" salsa. Salsa is a popular form of social dance that originated in the Caribbean. The movements of salsa have origins in Cuban Son, cha-cha-cha, mambo and Puerto Rican bomba and plena and other dance forms. The dance, along with the salsa music, originated in the mid-1970s in New York.
 
 7p.m. Sign In
-
 7:30 p.m. Salsa lesson
-
 8:15 - 9 p.m. Guided practice bachata, merengue & salsa.
 
 Couples & singles welcome. No prior dance experience required. Dress casual & comfortable.
