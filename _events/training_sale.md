@@ -30,7 +30,7 @@ tags:
 - "#herbalife"
 - "#holidays"
 - "#310shakes"
-has_time_and_date: false
+has_time_and_date: true
 event_date: 2017-11-20 03:30:00 -05:00
 event_end_date: 2017-12-13 18:00:00 -05:00
 class: Group Personal Training
