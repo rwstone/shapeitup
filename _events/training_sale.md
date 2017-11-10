@@ -1,12 +1,18 @@
 ---
-title: Personal Trainer
-date: 2017-02-13 15:23:00 -05:00
-published: false
+title: Group Personal Training
+date: 2017-11-20 10:07:00 -05:00
 categories:
 - group fitness
 - one on one fitness
 - personal training
 - getting fit
+- workout
+- boot camp
+- fitness
+- lose weight
+- getting healthy
+- "#holidays"
+- "#2018"
 tags:
 - fitness
 - personal trainer
@@ -18,17 +24,23 @@ tags:
 - '2017'
 - boot camp
 - gym
+- "*2018"
+- "*weightloss"
+- "#shakealogy"
+- "#herbalife"
+- "#holidays"
+- "#310shakes"
 has_time_and_date: false
-event_date: 2017-02-13 03:30:00 -05:00
-event_end_date: 2017-05-31 15:30:00 -04:00
-class: Personal Training
+event_date: 2017-11-20 03:30:00 -05:00
+event_end_date: 2017-12-13 18:00:00 -05:00
+class: Group Personal Training
 button_link: "/contact/"
 button_label: Request an Eval
 ---
 
-As summer of 2017 will be quickly approaching we are offering a great opportunity to lose those extra pounds and inches and get healthier not just before the summer, but by the end of 2017.
+****This is a 4 weeks program for 30mins on Monday's & Wednesday's at 6pm. 
 
-1 month of Personal Training, eight sessions 2x a week for  30min only $99, or $150 for 3x a week for 30mins! One on One Personal Training! Group Training rates are available, call for more information. 
+*This class only will only have the capacity of 6 people*.
 
-*One offer per customer. Personal training package must be used within 30 days of first visit (2 sessions per week, or 3 sessions for 4 weeks, depending which package you chose).
+You must register for this 4 week Group Personal Training Class, cost for this 4 week program is $55****
 
