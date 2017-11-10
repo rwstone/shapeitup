@@ -34,7 +34,7 @@ has_time_and_date: false
 event_date: 2017-11-20 18:00:00 -05:00
 event_end_date: 2017-12-13 18:00:00 -05:00
 class: Group Personal Training
-button_link: "/contact/"
+button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sVT=37&sView=day&sLoc=0&date=11/20/17
 button_label: Register
 ---
 
