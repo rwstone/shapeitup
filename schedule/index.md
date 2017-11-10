@@ -11,7 +11,7 @@ sessions:
 - class: Buti Yoga
   instructor: Mandy Brooks
   day: Monday
-  start_time: '5:30'
+  start_time: 5:30p
   end_time: 6:30p
   length: 2
 - class: Zumba
