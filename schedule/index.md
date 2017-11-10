@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2017-11-06 13:01:00 -05:00
+date: 2017-11-10 10:01:00 -05:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -112,6 +112,8 @@ days:
 - Friday
 - Saturday
 - Sunday
+- 
+- 
 - 
 time_slots_morning:
 - 6:00a
