@@ -30,12 +30,12 @@ tags:
 - "#herbalife"
 - "#holidays"
 - "#310shakes"
-has_time_and_date: true
-event_date: 2017-11-20 03:30:00 -05:00
+has_time_and_date: false
+event_date: 2017-11-20 18:00:00 -05:00
 event_end_date: 2017-12-13 18:00:00 -05:00
 class: Group Personal Training
 button_link: "/contact/"
-button_label: Request an Eval
+button_label: Register
 ---
 
 ****This is a 4 weeks program for 30mins on Monday's & Wednesday's at 6pm. 
