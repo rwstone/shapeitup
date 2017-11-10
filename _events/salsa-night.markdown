@@ -15,4 +15,7 @@ Launch your weekend with some "hot & steamy" salsa. Salsa is a popular form of s
 7:30 p.m. Salsa lesson
 
 8:15 - 9 p.m. Guided practice bachata, merengue & salsa.
+
 Couples & singles welcome. No prior dance experience required. Dress casual & comfortable.
+
+Tickets are $20, online or at the door.
