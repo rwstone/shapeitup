@@ -39,9 +39,11 @@ event_end_date: 2017-11-24 23:59:00 -05:00
 ******We will not have any EVENING classes on Thanksgiving Eve, Wednesday, November 22, 2017.****
 
 **** THANKSGIVING DAY ZUMBA at 9:30 with Sonia**
-NO EVENING CLASSES ON THANKSGIVING DAY!!
+NO EVENING CLASSES ON THANKSGIVING DAY!! 
 
-NORMAL BUSINESS HOURS ON FRIDAY, November 24th 7:30AM - 1PM.
+**NO CLASSES FRIDAY, NOV.24TH.**
 
+**NORMAL BUSINESS HOURS ON Saturday, November 25th 7:30AM - 12:30PM.
+**
 
 
