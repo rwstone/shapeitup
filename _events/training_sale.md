@@ -1,6 +1,7 @@
 ---
 title: Group Personal Training
 date: 2017-11-20 10:07:00 -05:00
+published: false
 categories:
 - group fitness
 - one on one fitness
