@@ -36,11 +36,11 @@ event_date: 2017-12-03 07:00:00 -05:00
 event_end_date: 2018-01-08 23:59:00 -05:00
 ---
 
-****** Please take note on changes to our hours & classes****
+****** Please take note on changes to our Hours & Classes****
 
 **** We are CLOSED Monday, December 25th & January 1, 2018**
 
-**During the week of Dec.26 thru Jan 4TH. we will be OPEN EVENINGS  at 5pm-8pm and ALL EVENING CLASSES WILL AVAILABE**
+**During the week of Dec. 26 thru Jan 4TH. we will be OPEN EVENINGS ONLY at 5pm-8pm and ALL EVENING CLASSES ARE ON. WE WILL BE CLOSED DURING THE DAY**
 
 
 
