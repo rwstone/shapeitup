@@ -36,7 +36,7 @@ event_date: 2017-12-03 07:00:00 -05:00
 event_end_date: 2018-01-08 23:59:00 -05:00
 ---
 
-****** Please take note on changes to our Hours & Classes****
+****** **Please take note on changes to our Hours & Classes****
 
 **** We are CLOSED Monday, December 25th & January 1, 2018**
 
@@ -45,5 +45,5 @@ event_end_date: 2018-01-08 23:59:00 -05:00
 
 
 ** NORMAL BUSINESS HOURS WILL RESUME ON MONDAY, JANUARY 8, 2018**
-
+**
 
