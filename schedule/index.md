@@ -20,6 +20,12 @@ sessions:
   start_time: 6:30p
   end_time: 7:30p
   length: 2
+- class: Spin
+  instructor: Michelle Nunez
+  day: Monday
+  start_time: 7:30p
+  end_time: 8:15p
+  length: 2
 - class: Zumba Toning
   instructor: Christine
   day: Tuesday
@@ -55,6 +61,12 @@ sessions:
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
+  length: 2
+- class: Spin
+  instructor: Michelle Nunez
+  day: Wednesday
+  start_time: 7:30p
+  end_time: 8:15p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
