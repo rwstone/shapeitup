@@ -1,5 +1,5 @@
 ---
-title: Buti Yoga & Pound Classes
+title: SPIN® Class coming Jan. 2018
 date: 2017-11-06 18:00:00 -05:00
 published: false
 categories:
@@ -33,12 +33,16 @@ tags:
 - "*2018"
 - "*weightloss"
 - "#Newyear"
+- "#spin"
 has_time_and_date: true
-event_date: 2017-11-06 17:30:00 -05:00
-event_end_date: 2017-12-21 18:00:00 -05:00
-class: Buti Yoga
+event_date: 2018-01-07 17:30:00 -05:00
+event_end_date: 2019-01-02 10:00:00 -05:00
+class: Spin
 ---
 
-We are happy to announce that Buti Yoga will be on our schedule Monday's, at 5:30pm.
+Excited to announce that we are adding SPIN®classes to our schedule in January, 2018.
 
-Also, NEW POUND CLASS on Wednesday's at 5:45pm and Thursday's at 10am with Kristie Wintle
+Michelle Nunez will be leading our Spin classes on 
+Sunday's at 10am, Monday's at 7:30pm, and Wednesday's at 7:30pm.
+
+**BIKES ARE LIMITED, JUST 11 BIKES! YOU MUST RESERVE YOUR BIKE PRIOR TO CLASS**
