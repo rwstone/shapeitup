@@ -1,5 +1,5 @@
 ---
-title: Group Fitness Class
+title: Group Training Class
 date: 2017-12-03 10:07:00 -05:00
 categories:
 - group fitness
