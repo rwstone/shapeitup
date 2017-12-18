@@ -104,6 +104,12 @@ sessions:
   start_time: 10:30a
   end_time: 11:30a
   length: 2
+- class: Spin
+  instructor: Michelle Nunez
+  day: Sunday
+  start_time: 10:00a
+  end_time: 10:45a
+  length: 2
 days:
 - Monday
 - Tuesday
