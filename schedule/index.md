@@ -5,8 +5,8 @@ sessions:
 - class: Yoga
   instructor: Debbie
   day: Monday
-  start_time: 8:00a
-  end_time: 9:00a
+  start_time: 9:00a
+  end_time: 10:00a
   length: 2
 - class: Buti Yoga
   instructor: Mandy Brooks
