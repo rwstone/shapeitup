@@ -29,6 +29,7 @@ tags:
 - "#getfit"
 - "#healthy"
 class_type: spin
+class_image: "/uploads/spin.jpg"
 ---
 
 SPIN®:
