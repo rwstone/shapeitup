@@ -30,6 +30,7 @@ tags:
 - "#herbalife"
 - "#holidays"
 - "#310shakes"
+- "#spin"
 has_time_and_date: true
 event_date: 2018-01-08 18:00:00 -05:00
 event_end_date: 2018-01-31 18:00:00 -05:00
