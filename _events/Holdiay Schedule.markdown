@@ -40,7 +40,7 @@ event_end_date: 2018-01-08 23:59:00 -05:00
 
 **** We are CLOSED Monday, December 25th & January 1, 2018**
 
-**During the week of Dec. 26 thru Jan 4TH. we will be OPEN EVENINGS ONLY at 5pm-8pm and ALL EVENING CLASSES ARE ON. WE WILL BE CLOSED DURING THE DAY**
+**During the week of Dec. 26 thru Jan 5TH. we will be OPEN EVENINGS ONLY at 5pm-8pm and ALL EVENING CLASSES ARE ON. WE WILL BE CLOSED DURING THE DAY**
 
 
 
