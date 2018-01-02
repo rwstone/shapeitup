@@ -1,6 +1,6 @@
 ---
 title: Irene DeCosta
-date: 2018-01-02 14:47:00 -05:00
+date: 2018-01-02 02:47:00 -05:00
 categories:
 - zumba
 - kids fitness
