@@ -38,7 +38,7 @@ event_end_date: 2018-01-08 23:59:00 -05:00
 
 ****** **Please take note on changes to our Hours & Classes****
 
-**During the week of Jan. 2nd thru Jan 5TH. we will be OPEN EVENINGS ONLY at 5pm-8pm and only EVENING CLASSES ARE AVAILABLE. WE WILL BE CLOSED DURING THE DAY**
+**During the week of Jan. 2nd thru Jan 4th., we will be OPEN EVENINGS ONLY at 5pm-8pm and only EVENING CLASSES ARE AVAILABLE. WE WILL BE CLOSED DURING THE DAY**
 
 ** **NORMAL BUSINESS HOURS WILL RESUME ON MONDAY, JANUARY 8, 2018****
 **
