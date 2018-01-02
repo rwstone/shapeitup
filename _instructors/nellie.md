@@ -1,5 +1,5 @@
 ---
-title: Nellie
+title: Nellie Guerriero
 date: 2017-03-03 17:55:00 -05:00
 categories:
 - circut training
@@ -13,6 +13,12 @@ categories:
 - kids fitness
 - fitness
 - healthy
+- "#loseweight"
+- "#pound"
+- "#shapeitup"
+- "#spin"
+- "#2018"
+- "#herbalife"
 tags:
 - strong by zumba
 - zumba
@@ -22,6 +28,12 @@ tags:
 - summer
 - getting healthy
 - zumba toning
+- "#beachbody"
+- "#pound"
+- "#strengthtraining"
+- "#herbalife"
+- "#2018"
+- "#spin"
 classes:
 - Zumba
 - Zumba Toning
