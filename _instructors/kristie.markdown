@@ -1,6 +1,6 @@
 ---
 title: Kristie
-date: 2017-08-16 14:24:00 -04:00
+date: 2018-01-02 02:24:00 -05:00
 categories:
 - "#pound"
 - "#zumba"
@@ -16,7 +16,7 @@ tags:
 - "#strengthtraining"
 classes:
 - 'POUND: Rockout. Workout'
-image: "/uploads/pound.jpg"
+image: "/uploads/kristie.jpg"
 name: Kristie Wintle
 ---
 
