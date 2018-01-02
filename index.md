@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2017-06-22 22:36:00 -04:00
+date: 2018-01-02 07:36:00 -05:00
 banner:
 - image: "/img/billboards/group_training.jpg"
   title: Form
@@ -17,19 +17,22 @@ passes:
 - name: Drop In
   price: "$10"
   is_sale: false
-- name: 10 Class Pass
+- name: 10 Class Pass ( Spin class not )
   price: "$40"
-- name: Monthly Unlimited
-  price: "$45"
-  is_sale: true
+- name: Monthly Unlimited ( ALL CLASSES)
+  price: "$65"
+  is_sale: false
+- name: 10 Class Spin Pass
+  price: "$80"
+  is_sale: false
 title_seo: Shape It Up Fitness | East Providence, RI
-description_seo: Shape It Up Fitness is an exercise studio in East Providence, RI,
-  with a fun and approachable attitude. We offer  group exercise classes, including
-  Zumba, Boot Camp, Zumba Toning, Strong, Yoga and Barre Fusion.
+description_seo: |-
+  Shape It Up Fitness is an exercise studio in East Providence, RI, with a fun and approachable attitude. We offer  group exercise classes, including Zumba, Zumba Toning, Strong by Zumba,
+   Buti Yoga,  Barre Fusion,  Yoga, Pound, Spin, and Small Group Personal Training.
 layout: home
 ---
 
 
 There’s a class for everyone, come find yours. Inspire your mind and transform your body with moving classes and workouts taught by instructors devoted to making it the very best hour of your day.
 
-Led by amazing instructors, our group fitness classes offer community, energy and motivation to create a trans-formative experience and deliver fitness results. Enjoy your favorite workouts, from cardio and dance (like Zumba!) to strength-training, conditioning, barre fusion and yoga, all conveniently located at your local club and expertly designed to keep you moving toward your best self. 
+Led by amazing instructors, our group fitness classes offer community, energy and motivation to create a trans-formative experience and deliver fitness results. Enjoy your favorite workouts, from cardio and dance (like Zumba, and Spin!) to strength-training, conditioning, Barre Fusion, Pound, Buti Yoga, Strong by Zumba and Yoga, all conveniently located at your local club and expertly designed to keep you moving toward your best self. 
