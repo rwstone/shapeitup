@@ -17,13 +17,13 @@ passes:
 - name: Drop In
   price: "$10"
   is_sale: false
-- name: 10 Class Pass ( Spin class not )
+- name: 10 Class Pass ( Spin  not included )
   price: "$40"
-- name: Monthly Unlimited ( ALL CLASSES)
-  price: "$65"
-  is_sale: false
 - name: 10 Class Spin Pass
   price: "$80"
+  is_sale: false
+- name: Monthly Unlimited ( ALL CLASSES)
+  price: "$65"
   is_sale: false
 title_seo: Shape It Up Fitness | East Providence, RI
 description_seo: |-
