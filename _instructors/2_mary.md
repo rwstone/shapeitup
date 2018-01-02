@@ -1,6 +1,6 @@
 ---
 title: Mary
-date: 2017-03-03 17:55:00 -05:00
+date: 2018-01-02 17:55:00 -05:00
 categories:
 - zumba
 - fitness
@@ -26,7 +26,7 @@ classes:
 - Certified Sports Nutrition
 - Boot Camp
 - Circut Training
-image: "/uploads/mary.jpg"
+image: "/uploads/mary-91b8da.jpg"
 name: Mary Santana
 ordering: 2
 ---
