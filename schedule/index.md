@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2017-12-18 10:01:00 -05:00
+date: 2017-12-18 08:01:00 -05:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -33,7 +33,7 @@ sessions:
   end_time: 6:30p
   length: 2
 - class: Zumba
-  instructor: Sue
+  instructor: Christina
   day: Tuesday
   start_time: 6:30p
   end_time: 7:20p
@@ -93,7 +93,7 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Sue
+  instructor: Christina
   day: Friday
   start_time: 9:30a
   end_time: 10:25a
