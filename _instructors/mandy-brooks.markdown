@@ -23,5 +23,8 @@ tags:
 - group fitness
 - "#pound"
 - getting fit
+classes:
+- Buti Yoga
+image: "/uploads/mandy.jpg"
 ---
 
