@@ -1,6 +1,6 @@
 ---
 title: Mandy Brooks
-date: 2017-10-11 15:03:00 -04:00
+date: 2018-01-02 09:03:00 -05:00
 categories:
 - "#beachbody"
 - "#pound"
