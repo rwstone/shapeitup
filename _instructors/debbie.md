@@ -1,5 +1,5 @@
 ---
-title: Debbie
+title: Debbie West
 date: 2017-06-12 20:00:00 -04:00
 categories:
 - yoga
@@ -7,6 +7,11 @@ categories:
 - barre fusion
 - fitness
 - group fitnes
+- "#beachbody"
+- "#butiyoga"
+- "#loseweight"
+- "#zumba"
+- "#2018"
 tags:
 - yoga
 - pilates
@@ -15,6 +20,12 @@ tags:
 - group fitness
 - summer
 - beachbody
+- "#beachbody"
+- "#eastprovidence"
+- "#winter"
+- "#spin"
+- "#herbalife"
+- "#zumba"
 classes:
 - Barre Fusion
 - Pilates/Yoga
