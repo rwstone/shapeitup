@@ -1,5 +1,5 @@
 ---
-title: Irene DeCosta
+title: Irene
 date: 2018-01-02 02:47:00 -05:00
 categories:
 - zumba
@@ -24,6 +24,6 @@ tags:
 classes:
 - Zumba
 image: "/uploads/irene.jpg"
-name: Irene
+name: Irene DeCosta
 ---
 
