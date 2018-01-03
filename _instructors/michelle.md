@@ -1,5 +1,5 @@
 ---
-title: Michelle Nunez
+title: Michelle
 date: 2018-01-02 10:12:00 -05:00
 categories:
 - "#spin"
@@ -25,5 +25,6 @@ tags:
 classes:
 - Spin
 image: "/uploads/michelle.jpg"
+name: Michelle Nunez
 ---
 
