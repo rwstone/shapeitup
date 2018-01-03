@@ -1,5 +1,5 @@
 ---
-title: Nellie Guerriero
+title: Nellie
 date: 2017-03-03 17:55:00 -05:00
 categories:
 - circut training
