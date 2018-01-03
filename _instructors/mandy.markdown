@@ -1,5 +1,5 @@
 ---
-title: Mandy Brooks
+title: Mandy
 date: 2018-01-02 09:03:00 -05:00
 categories:
 - "#beachbody"
@@ -26,5 +26,6 @@ tags:
 classes:
 - Buti Yoga
 image: "/uploads/mandy.jpg"
+name: Mandy Brooks
 ---
 
