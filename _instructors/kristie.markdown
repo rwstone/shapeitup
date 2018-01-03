@@ -1,5 +1,5 @@
 ---
-title: Kristie Wintle
+title: Kristie
 date: 2018-01-02 02:24:00 -05:00
 categories:
 - "#pound"
