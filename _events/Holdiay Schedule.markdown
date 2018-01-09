@@ -32,6 +32,9 @@ tags:
 - "#butiyoga"
 - "#yoga"
 - "#christmas"
+- "#herbalife"
+- "#shakealogy"
+- "#spin"
 has_time_and_date: true
 event_date: 2018-01-02 07:00:00 -05:00
 event_end_date: 2018-01-08 23:59:00 -05:00
