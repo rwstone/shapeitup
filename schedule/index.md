@@ -8,12 +8,6 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 2
-- class: Buti Yoga
-  instructor: Mandy Brooks
-  day: Monday
-  start_time: 5:30p
-  end_time: 6:30p
-  length: 2
 - class: Zumba
   instructor: Irene
   day: Monday
