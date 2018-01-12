@@ -15,7 +15,7 @@ sessions:
   end_time: 7:30p
   length: 2
 - class: Spin
-  instructor: Michelle Nunez
+  instructor: Michelle
   day: Monday
   start_time: 7:30p
   end_time: 8:15p
@@ -45,7 +45,7 @@ sessions:
   end_time: 10:25a
   length: 2
 - class: 'POUND: Rockout. Workout'
-  instructor: Kristie Wintle
+  instructor: Kristie
   day: Wednesday
   start_time: 5:45p
   end_time: 6:20p
@@ -57,7 +57,7 @@ sessions:
   end_time: 7:25p
   length: 2
 - class: Spin
-  instructor: Michelle Nunez
+  instructor: Michelle
   day: Wednesday
   start_time: 7:30p
   end_time: 8:15p
@@ -111,7 +111,7 @@ sessions:
   end_time: 11:30a
   length: 2
 - class: Spin
-  instructor: Michelle Nunez
+  instructor: Michelle
   day: Sunday
   start_time: 10:00a
   end_time: 10:45a
