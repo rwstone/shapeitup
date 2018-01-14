@@ -1,7 +1,6 @@
 ---
 title: Christine
 date: 2016-04-22 17:55:00 -04:00
-full_name: Christine Rego
 categories:
 - zumba
 - zumba toning
@@ -23,6 +22,7 @@ tags:
 - getting fit
 - group fitness
 - lose weight
+full_name: Christine Rego
 classes:
 - Strong by Zumba
 - Zumba Toning

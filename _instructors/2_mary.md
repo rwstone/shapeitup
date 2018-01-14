@@ -1,7 +1,6 @@
 ---
 title: Mary
 date: 2018-01-02 17:55:00 -05:00
-full_name: Mary Santana
 categories:
 - zumba
 - fitness
@@ -23,6 +22,7 @@ tags:
 - summer
 - spring
 - prom
+full_name: Mary Santana
 classes:
 - Certified Sports Nutrition
 - Boot Camp

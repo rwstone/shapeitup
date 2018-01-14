@@ -1,7 +1,6 @@
 ---
 title: Michelle
 date: 2018-01-02 10:12:00 -05:00
-full_name: Michelle Nunez
 categories:
 - "#spin"
 - "#loseweight"
@@ -23,6 +22,7 @@ tags:
 - "#providence"
 - "#gettinghealthy"
 - "#workouts"
+full_name: Michelle Nunez
 classes:
 - Spin
 image: "/uploads/michelle.jpg"
