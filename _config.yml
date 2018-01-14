@@ -45,6 +45,7 @@ defaults:
     type: instructors
   values:
     published: true
+    full_name:
     classes:
     - Zumba
     image: 
