@@ -2,6 +2,7 @@
 title: Susan
 date: 2017-04-19 11:31:00 -04:00
 published: false
+full_name: Susan
 categories:
 - zumba
 - zumba teens
@@ -18,6 +19,5 @@ tags:
 - summer
 - vacaction
 - bodybuilding
-name: Susan
 ---
 

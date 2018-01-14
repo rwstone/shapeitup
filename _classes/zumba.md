@@ -22,6 +22,7 @@ tags:
 sub_heading: group exercise class
 class_type: dance fitness
 class_image: "/uploads/zumba.jpg"
+mindbody_code: "&stype=-7&sVT=5"
 ---
 
 Zumba is a fusion of Latin and international music and dance themes that creates a dynamic, exciting and motivating workout. It is a mixture of body-sculpting movements combined with easy to follow dance steps.

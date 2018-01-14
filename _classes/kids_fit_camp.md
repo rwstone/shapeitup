@@ -12,6 +12,7 @@ tags:
 sub_heading: children's class
 class_type: gym fitness
 class_image: "/uploads/kids_fit_camp.jpg"
+mindbody_code: "&stype=-7&sVT=15"
 ---
 
 Total body workout for kids aged 6-12.

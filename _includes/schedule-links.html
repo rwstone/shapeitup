@@ -1,0 +1,8 @@
+{% assign class = site.classes | where: "title",include.class_name | first %}
+{% assign mindbody_code = class.mindbody_code | default: "" %}
+<a href="https://clients.mindbodyonline.com/classic/ws?studioid=112719&sView=week&sLoc=1{{ mindbody_code | url_escape }}">
+    {{ include.class_name | escape }}
+    {% if include.class_instructor and include.class_instructor != blank %}
+        with {{ include.class_instructor | escape }}
+    {% endif %}
+</a>

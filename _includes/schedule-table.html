@@ -28,12 +28,17 @@ Classes can span multiple time blocks within the calendar. For example, a 1-hour
                     {% assign current_session = filtered_sessions | first %}
                     {% assign tmp_blocked_after = current_session.length | default: 2 | minus: 1 %}
 					{% comment %}
-					Added downcase filter to force string conversion on Windows, jekyll 3.5.2, 8/16/2017
+                        Added downcase filter to force string conversion on Windows, jekyll 3.5.2, 8/16/2017
 					{% endcomment %}
                     <td rowspan="{{ current_session.length | default: 2 | downcase | escape }}" class="event">
-                            <a href="/fitness#gallery-details-{{ current_session.class | slugify }}">{{ current_session.class | escape }}</a>
-                            <div>{{ current_session.instructor | escape }}</div>
-                            <div>{{ current_session.start_time | escape }} - {{ current_session.end_time | escape }}</div>
+                        {% comment %}
+                            20180112: Links now point to MindBody instead of the class descriptions on the Fitness page
+                            Original code:
+                                <a href="/fitness#gallery-details-{{ current_session.class | slugify }}">{{ current_session.class | escape }}</a>
+                        {% endcomment %}
+                        {% include schedule-links.html class_name=current_session.class %}
+                        <div>{{ current_session.instructor | escape }}</div>
+                        <div>{{ current_session.start_time | escape }} - {{ current_session.end_time | escape }}</div>
                     </td>
                 {% endif %}
                 {% assign next_row_blocked = next_row_blocked | push: tmp_blocked_after %}

@@ -2,6 +2,7 @@
 title: Bianca
 date: 2017-05-03 10:32:00 -04:00
 published: false
+full_name: Bianca
 categories:
 - circut training
 - strong by zumba
@@ -22,6 +23,5 @@ tags:
 - lose weight
 classes:
 - Fit /Boot Camp
-name: Bianca
 ---
 

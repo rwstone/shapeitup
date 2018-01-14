@@ -1,6 +1,7 @@
 ---
 title: Debbie
 date: 2017-06-12 20:00:00 -04:00
+full_name: Debbie West
 categories:
 - yoga
 - pilates
@@ -31,6 +32,5 @@ classes:
 - Pilates/Yoga
 - Yoga
 image: "/uploads/debbie.jpg"
-name: Debbie West
 ---
 

@@ -22,6 +22,7 @@ tags:
 - "#workout"
 class_type: gym fitness
 class_image: "/uploads/pound.jpg"
+mindbody_code: "&stype=-7&sVT=30"
 ---
 
 A combination cardio and strength class with “constant simulated drumming.” Yes, as in with drum sticks. 

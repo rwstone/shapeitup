@@ -2,6 +2,7 @@
 title: Mandy
 date: 2018-01-02 09:03:00 -05:00
 published: false
+full_name: Mandy Brooks
 categories:
 - "#beachbody"
 - "#pound"
@@ -27,6 +28,5 @@ tags:
 classes:
 - Buti Yoga
 image: "/uploads/mandy.jpg"
-name: Mandy Brooks
 ---
 

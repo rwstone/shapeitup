@@ -1,6 +1,7 @@
 ---
 title: Nellie
 date: 2017-03-03 17:55:00 -05:00
+full_name: Nellie Guerriero
 categories:
 - circut training
 - getting healthy
@@ -38,6 +39,5 @@ classes:
 - Zumba
 - Zumba Toning
 image: "/uploads/nellie.jpg"
-name: Nellie Guerriero
 ---
 

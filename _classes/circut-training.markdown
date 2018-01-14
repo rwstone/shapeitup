@@ -33,6 +33,7 @@ tags:
 - boot camp
 class_type: gym fitness
 class_image: "/uploads/weightloss.jpg"
+mindbody_code: "&stype=-7&sVT=32"
 ---
 
 Challenge your fitness with our Circuit-Style Total Body Conditioning. This class will be offered 2 days a week 

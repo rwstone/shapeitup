@@ -1,6 +1,7 @@
 ---
 title: Mary
 date: 2018-01-02 17:55:00 -05:00
+full_name: Mary Santana
 categories:
 - zumba
 - fitness
@@ -27,7 +28,5 @@ classes:
 - Boot Camp
 - Circut Training
 image: "/uploads/mary-91b8da.jpg"
-name: Mary Santana
-ordering: 2
 ---
 

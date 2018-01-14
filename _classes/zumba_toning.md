@@ -26,6 +26,7 @@ class_type: dance fitness
 class_image: "/uploads/zumba_toning.jpg"
 additional_info:
 - Bring Zumba Toning Sticks or 1-2 pound weights.
+mindbody_code: "&stype=-7&sVT=12"
 ---
 
 Zumba Toning blends body-sculpting techniques and specific Zumba moves into one calorie-burning, strength-training experience. You'll learn how to use weighted, maraca-like Zumba Toning Sticks to enhance rhythm, build strength and tone all the right target zones.

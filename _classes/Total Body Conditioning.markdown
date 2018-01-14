@@ -33,6 +33,7 @@ tags:
 - yoga
 class_type: gym fitness
 class_image: "/uploads/boot%20camp-378245.jpg"
+mindbody_code: "&stype=-7&sVT=30"
 ---
 
 Body conditioning classes are designed to provide total fitness and overall toning through working every major muscle group in a conditioning-style workout. You use your own body weight as resistance to achieve muscle definition. Exercisers wanting to attend a body conditioning class should wear comfortable workout gear and footwear, we recommend You bring your own mat, and towel.

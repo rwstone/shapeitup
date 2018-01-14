@@ -30,6 +30,7 @@ tags:
 - "#healthy"
 class_type: spin
 class_image: "/uploads/spin.jpg"
+mindbody_code: "&stype=-7&sVT=39"
 ---
 
 SPIN®:

@@ -26,5 +26,6 @@ class_image: "/uploads/yoga-04f481.jpg"
 additional_info: Yoga is an ancient art based on a harmonizing system of development
   for the body, mind, and spirit. The continued practice of yoga will lead you to
   a sense of peace and well-being, and also a feeling of being at one with their environment.
+mindbody_code: "&stype=-7&sVT=28"
 ---
 

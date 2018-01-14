@@ -2,12 +2,14 @@
 <html prefix="og: http://ogp.me/ns#">
 <head>
     {% include head.html %}
-    {% for instructor in site.instructors %} 
-        {% unless instructor.published == false %}
-            {% if instructor.image and instructor.image != blank %}
-                <meta property="og:image" content="{{ instructor.image | prepend: site.url | escape }}" />
-            {% endif %}
-        {% endunless %}
+    {% comment %}
+        20180112: added sort order
+    {% endcomment %}
+    {% assign sorted_instructors = site.instructors | where: "published",true | sort: "path" %}
+    {% for instructor in sorted_instructors %} 
+        {% if instructor.image and instructor.image != blank %}
+            <meta property="og:image" content="{{ instructor.image | prepend: site.url | escape }}" />
+        {% endif %}
     {% endfor %}
 </head>
 <body>
@@ -19,9 +21,11 @@
     <div class="page">
         <h1>{{ page.title | escape }}</h1>
         <ul class="gallery clearfix">
-            {% for instructor in site.instructors %} 
-                {% unless instructor.published == false %}
-                <li id="gallery-item-{{ instructor.name | slugify }}">
+            {% for instructor in sorted_instructors %} 
+                {% comment %}
+                    20180112: renamed instructor.name to instructor.full_name
+                {% endcomment %}
+                <li id="gallery-item-{{ instructor.full_name | default: instructor.title | slugify }}">
                     <div class="gallery_box">
                         {% if instructor.image and instructor.image != blank %}
                         <div class="image_area" style="background-image:url({{ instructor.image | escape }});"></div>
@@ -29,12 +33,11 @@
                         <div class="image_area"></div>
                         {% endif %}
                         <div class="description">
-                            <h3>{{ instructor.name | escape }}</h3>
+                            <h3>{{ instructor.full_name | default: instructor.title | escape }}</h3>
                             <h5>{{ instructor.classes | join: ', ' | escape }}</h5>
                         </div>
                     </div>
                 </li>
-                {% endunless %}
             {% endfor %}
         </ul>
     </div><!-- closes page -->

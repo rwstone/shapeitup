@@ -36,9 +36,14 @@ layout: default
                     
                         {% for session in filtered_sessions %}
                             <li class="items_list_item icon_clock clearfix">
-                                <a href="/fitness#gallery-details-{{ session.class | slugify }}">
-                                    {{ session.class | escape }} with {{ session.instructor | escape }}
-                                </a>
+                                {% comment %}
+                                    20180113: Updated schedule links to mindbody.
+                                    Original code:
+                                        <a href="/fitness#gallery-details-{{ session.class | slugify }}">
+                                            {{ session.class | escape }} with {{ session.instructor | escape }}
+                                        </a>
+                                {% endcomment %}
+                                {% include schedule-links.html class_name=session.class class_instructor=session.instructor %}
                                 <div class="value">
                                     {{ session.start_time | escape }} - {{ session.end_time | escape }}
                                 </div>
@@ -52,9 +57,14 @@ layout: default
                     
                         {% for session in filtered_sessions %}
                             <li class="items_list_item icon_clock clearfix">
-                                <a href="/fitness#gallery-details-{{ session.class | slugify }}">
-                                    {{ session.class | escape }} with {{ session.instructor | escape }}
-                                </a>
+                                {% comment %}
+                                    20180113: Updated schedule links to mindbody.
+                                    Original code:
+                                        <a href="/fitness#gallery-details-{{ session.class | slugify }}">
+                                            {{ session.class | escape }} with {{ session.instructor | escape }}
+                                        </a>
+                                {% endcomment %}
+                                {% include schedule-links.html class_name=session.class class_instructor=session.instructor %}
                                 <div class="value">
                                     {{ session.start_time | escape }} - {{ session.end_time | escape }}
                                 </div>
