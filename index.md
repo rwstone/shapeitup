@@ -26,9 +26,10 @@ passes:
   price: "$65"
   is_sale: false
 title_seo: Shape It Up Fitness | East Providence, RI
-description_seo: |-
-  Shape It Up Fitness is an exercise studio in East Providence, RI, with a fun and approachable attitude. We offer  group exercise classes, including Zumba, Zumba Toning, Strong by Zumba,
-   Buti Yoga,  Barre Fusion,  Yoga, Pound, Spin, and Small Group Personal Training.
+description_seo: Shape It Up Fitness is an exercise studio in East Providence, RI,
+  with a fun and approachable attitude. We offer  group exercise classes, including
+  Zumba, Zumba Toning, Strong by Zumba,  Barre Fusion,  Yoga, Pound, Spin, and Small
+  Group Personal Training.
 layout: home
 ---
 
