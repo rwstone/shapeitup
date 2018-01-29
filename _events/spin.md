@@ -1,5 +1,5 @@
 ---
-title: SPIN® Class coming Jan. 2018
+title: SPIN® Class
 date: 2018-02-04 10:00:00 -05:00
 categories:
 - getting healthy
