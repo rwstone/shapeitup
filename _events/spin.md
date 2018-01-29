@@ -39,7 +39,7 @@ event_end_date: 2019-01-02 19:00:00 -05:00
 class: Spin
 ---
 
- SPIN®classes schedule change in Febuary, 2018.
+ SPIN®classes schedule changes in Febuary, 2018.
 
 Michelle Nunez will be leading our Spin classes on 
 Sunday's at 10am, Monday's at 7:00pm, and Wednesday's at 7:00pm., and Friday's at 6:00am 
