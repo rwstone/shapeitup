@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2017-12-18 08:01:00 -05:00
+date: 2018-01-29 08:01:00 -05:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -17,8 +17,8 @@ sessions:
 - class: Spin
   instructor: Michelle
   day: Monday
-  start_time: 7:30p
-  end_time: 8:15p
+  start_time: 7:00p
+  end_time: 7:45p
   length: 2
 - class: Zumba Toning
   instructor: Christine
@@ -59,8 +59,8 @@ sessions:
 - class: Spin
   instructor: Michelle
   day: Wednesday
-  start_time: 7:30p
-  end_time: 8:15p
+  start_time: 7:00p
+  end_time: 7:45p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -85,6 +85,12 @@ sessions:
   day: Thursday
   start_time: 7:30p
   end_time: 8:30p
+  length: 2
+- class: Spin
+  instructor: Michelle
+  day: Friday
+  start_time: 6:00a
+  end_time: 6:45a
   length: 2
 - class: Zumba
   instructor: Christina
