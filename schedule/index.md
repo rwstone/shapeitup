@@ -13,7 +13,7 @@ sessions:
   day: Monday
   start_time: 6:30p
   end_time: 7:30p
-  length: 2
+  length: 1
 - class: Spin
   instructor: Michelle
   day: Monday
@@ -61,7 +61,7 @@ sessions:
   day: Wednesday
   start_time: 7:00p
   end_time: 7:45p
-  length: 2
+  length: 1
 - class: Barre Fusion
   instructor: Debbie
   day: Thursday
