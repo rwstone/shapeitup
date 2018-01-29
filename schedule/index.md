@@ -19,7 +19,7 @@ sessions:
   day: Monday
   start_time: 7:00p
   end_time: 7:45p
-  length: 2
+  length: 3
 - class: Zumba Toning
   instructor: Christine
   day: Tuesday
