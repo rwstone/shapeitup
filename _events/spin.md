@@ -42,7 +42,8 @@ class: Spin
  SPIN® classes schedule changes in Febuary, 2018.
 
 Michelle Nunez will be leading our Spin classes on 
-Sunday's at 10am, Monday's at 7:00pm, and Wednesday's at 7:00pm., and Friday's at 6:00am 
-**Drop in fee: $10, or 10 pre-paid classes for $80**
-
+Sunday's at 10am, Monday's at 7:00pm, and Wednesday's at 7:30pm., and Friday's at 6:00am 
+****Drop in fee: $10, or 10 pre-paid classes for $80, 
+GROUPON IS NOT ACCEPTED FOR SPIN CLASSES**
+**# 
 **BIKES ARE LIMITED, JUST 11 BIKES! YOU MUST RESERVE YOUR BIKE PRIOR TO CLASS**
