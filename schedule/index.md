@@ -59,8 +59,8 @@ sessions:
 - class: Spin
   instructor: Michelle
   day: Wednesday
-  start_time: 7:00p
-  end_time: 7:45p
+  start_time: 7:30p
+  end_time: 8:15p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
