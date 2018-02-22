@@ -25,17 +25,19 @@ tags:
 - "#herbalife"
 - "#mardigras"
 - mardigras
+- "#nightout"
+- "#girlsnight"
 has_time_and_date: true
-event_date: 2018-02-16 19:00:00 -05:00
-event_end_date: 2018-02-16 20:30:00 -05:00
+event_date: 2018-03-23 19:30:00 -04:00
+event_end_date: 2018-03-23 21:00:00 -04:00
 class: Zumba in da Club
 ---
 
-Join us Friday, Feb. 16th for Zumba in da Club with Christine!
+Join us Friday, March 23 for Zumba in da Club with Felix!
 
-**Theme: Mardi Gras**
+**Welcome Back Party**
 90min dance party, Zumba style!!
 
 **Fee: $10 in advance or $15 at the door**
 
-doors open at 6:30pm
+doors open at 7:00pm, we start dancing at 7:30-9pm
