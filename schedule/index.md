@@ -8,6 +8,12 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 2
+- class: Spin
+  instructor: Sheila
+  day: Monday
+  start_time: 9:30a
+  end_time: 10:15a
+  length: 2
 - class: Zumba
   instructor: Irene
   day: Monday
@@ -17,14 +23,20 @@ sessions:
 - class: Spin
   instructor: Michelle
   day: Monday
-  start_time: 7:00p
-  end_time: 7:45p
+  start_time: 6:30p
+  end_time: 7:15p
   length: 2
 - class: Zumba Toning
   instructor: Christine
   day: Tuesday
   start_time: 5:45p
   end_time: 6:30p
+  length: 2
+- class: Spin
+  instructor: Sheila
+  day: Tuesday
+  start_time: 6:00p
+  end_time: 6:45p
   length: 2
 - class: Zumba
   instructor: Christina
@@ -59,8 +71,8 @@ sessions:
 - class: Spin
   instructor: Michelle
   day: Wednesday
-  start_time: 7:00p
-  end_time: 8:15p
+  start_time: 6:30p
+  end_time: 7:15p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -168,6 +180,6 @@ layout: schedule
 ---
 
 This is our regular weekly schedule. We are closed on most Major Holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719)
-**GROUPON CANNOT BE USED FOR SPIN CLASSES**
+**GROUPON CANNOT BE USED FOR SPIN CLASSES OR ZUMBA in da Club**
 **CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
 **PRE-PAID CLASSES EXPIRE 90 DAYS FROM PURCHASE**
