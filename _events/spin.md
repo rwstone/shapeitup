@@ -1,5 +1,5 @@
 ---
-title: SPIN® Class
+title: New SPIN® Class
 date: 2018-02-04 10:00:00 -05:00
 categories:
 - getting healthy
@@ -34,15 +34,19 @@ tags:
 - "#Newyear"
 - "#spin"
 has_time_and_date: true
-event_date: 2018-02-22 10:00:00 -05:00
+event_date: 2018-03-11 10:00:00 -04:00
 event_end_date: 2019-01-02 19:00:00 -05:00
 class: Spin
 ---
 
- SPIN® classes schedule changes in Febuary, 2018.
+ SPIN® classes schedule changes as of .
+Michelle Nunez & Sheila Sullivan will be our Spin instructors! 
 
-Michelle Nunez will be leading our Spin classes on 
-Sunday's at 10am, Monday's at 7:00pm, and Wednesday's at 7:0pm., and Friday's at 6:00am 
+Sunday's at 10am with Michelle, 
+Monday's at **9:30am with Sheila starts 3/19**, and 6:30pm with Michelle, Tuesday's at** 6pm with Sheila starts 3/20**,  
+Wednesday's at 6:30pm with Michelle., 
+Friday's at 6:00am with Michelle.
+
 ****Drop in fee: $10, or 10 pre-paid classes for $80, 
 
 *****GROUPON IS NOT ACCEPTED FOR SPIN CLASSES**
