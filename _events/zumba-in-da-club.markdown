@@ -28,12 +28,12 @@ tags:
 - "#nightout"
 - "#girlsnight"
 has_time_and_date: true
-event_date: 2018-03-23 19:30:00 -04:00
-event_end_date: 2018-03-23 21:00:00 -04:00
+event_date: 2018-03-30 19:30:00 -04:00
+event_end_date: 2018-03-30 21:00:00 -04:00
 class: Zumba in da Club
 ---
 
-Join us Friday, March 23 for Zumba in da Club with Felix!
+Join us Friday, March 30th for Zumba in da Club with Felix!
 
 **Welcome Back Party**
 90min dance party, Zumba style!!
