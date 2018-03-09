@@ -1,7 +1,6 @@
 ---
-title: Group Training Class
+title: Hip To Strip™
 date: 2017-12-03 10:07:00 -05:00
-published: false
 categories:
 - group fitness
 - one on one fitness
@@ -33,20 +32,19 @@ tags:
 - "#310shakes"
 - "#spin"
 has_time_and_date: true
-event_date: 2018-01-08 18:00:00 -05:00
-event_end_date: 2018-01-31 18:00:00 -05:00
-class: Group Personal Training
+event_date: 2018-04-13 18:00:00 -04:00
+event_end_date: 2018-04-13 20:15:00 -04:00
 button_link: https://clients.mindbodyonline.com/classic/ws?studioid=112719&stype=-8&sVT=37&sView=day&sLoc=0&date=11/20/17
 button_label: Register
 ---
 
-**** **ARE YOU READY TO GET FIT & HEALTHY?!!
-Starting Monday, Jan 8, 2018 we are offering a 4 weeks Group Fitness workout for 30mins on Monday's & Wednesday's at 6pm. 
-This class will run on Monday & Weds. Jan 8, thru Jan 31, 2018
+Hip To Strip™
+“Dancing Naughty is Good for the Body” ™
+
+**$15 in advance or $20 at the door
 **
-***This class only will have the capacity of 6 people*.**
+Click the link below and go to April 13, 2018 to register
+go to www.mindbodyonline.com  or visit is during are hours of operation.
 
-**You must register online or in person for this 
-4 week Group Fitness Class, 
-cost for this 4 week program is $55******
-
+Created and Designed by Ann Saldi, Zumba Education Specialist
+This striptease based workout takes the basic moves of striptease and combines them with various dance elements. It’s an INSPIRING and EMPOWERING workout for ALL levels. You will be dancing sexy to all different rhythms that will build confidence, enhance flexibility, and tone your body all while you flaunt your best assets. So let’s Sweat Sexy!!!
