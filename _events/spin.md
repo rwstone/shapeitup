@@ -39,7 +39,7 @@ event_end_date: 2019-01-02 19:00:00 -05:00
 class: Spin
 ---
 
- SPIN® classes schedule changes as of .
+ SPIN® classes schedule changes
 Michelle Nunez & Sheila Sullivan will be our Spin instructors! 
 
 Sunday's at 10am with Michelle, 
