@@ -1,6 +1,7 @@
 ---
 title: Zumba in da Club
 date: 2018-01-29 15:34:00 -05:00
+published: false
 categories:
 - danceparty
 - "#2018"
