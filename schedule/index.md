@@ -8,12 +8,6 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 2
-- class: Spin
-  instructor: Sheila
-  day: Monday
-  start_time: 9:30a
-  end_time: 10:15a
-  length: 2
 - class: Zumba
   instructor: Irene
   day: Monday
@@ -26,12 +20,6 @@ sessions:
   start_time: 6:30p
   end_time: 7:15p
   length: 2
-- class: Zumba Toning
-  instructor: Christine
-  day: Tuesday
-  start_time: 5:45p
-  end_time: 6:30p
-  length: 2
 - class: Spin
   instructor: Sheila
   day: Tuesday
@@ -39,7 +27,7 @@ sessions:
   end_time: 6:45p
   length: 2
 - class: Zumba
-  instructor: Christina
+  instructor: Felix
   day: Tuesday
   start_time: 6:30p
   end_time: 7:20p
@@ -51,16 +39,10 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Irene
+  instructor: Felix
   day: Wednesday
   start_time: 9:30a
   end_time: 10:25a
-  length: 2
-- class: 'POUND: Rockout. Workout'
-  instructor: Kristie
-  day: Wednesday
-  start_time: 5:45p
-  end_time: 6:20p
   length: 2
 - class: Spin
   instructor: Michelle
