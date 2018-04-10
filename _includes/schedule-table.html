@@ -1,21 +1,23 @@
 {% comment %}
-Classes can span multiple time blocks within the calendar. For example, a 1-hour class spans two blocks on a calendar broken down into 30-minute segments. "this_row_blocked" is an array with one entry per day. A value greater than zero indicates that there is a class continuing into the current time block, which started earlier. The number gives how many more blocks to complete the class length.
+Classes can span multiple time blocks within the calendar. For example, a 1-hour class spans two blocks on a calendar broken down into 30-minute segments. "this_row_blocked" is an array with one entry per day. A value greater than zero indicates that there is a class, which started earlier, continuing into the current time block. The number gives how many more blocks to complete the class length.
+20180410: Updated to allow multiple classes at the same time on the calendar grid.
 {% endcomment %}
 {% assign this_row_blocked = "" | split: "" %}
 {% for i in (1..include.days.size) %}
     {% assign this_row_blocked = this_row_blocked | push: 0 %}
 {% endfor %}
-    
+      
 {% for time in include.time_slots %}
     {% unless forloop.last == true %}
         {% assign next_row_blocked = "" | split: "" %}
+        {% assign time_forloop = forloop %}
         <tr{% cycle ' class="row_gray"', ' class="row_gray"', '', '' %}>
             <td>
                 {{ time | escape }} - {{ include.time_slots[forloop.index] | escape }}
             </td>
             {% for day in include.days %}
-                {% assign filtered_sessions = include.sessions | where:"day",day | where:"start_time",time %}
-                {% assign tmp_blocked = this_row_blocked | first %}
+                {% assign filtered_sessions = include.sessions | where:"day",day | where:"start_time",time | sort:"class" %}
+                {% assign tmp_blocked = this_row_blocked | first %} 
                 {% assign this_row_blocked = this_row_blocked | shift %}
                 {% if filtered_sessions == empty %}
                     {% if tmp_blocked > 0 %}
@@ -25,21 +27,54 @@ Classes can span multiple time blocks within the calendar. For example, a 1-hour
                         <td></td>
                     {% endif %}
                 {% else %}
-                    {% assign current_session = filtered_sessions | first %}
-                    {% assign tmp_blocked_after = current_session.length | default: 2 | minus: 1 %}
-					{% comment %}
-                        Added downcase filter to force string conversion on Windows, jekyll 3.5.2, 8/16/2017
-					{% endcomment %}
-                    <td rowspan="{{ current_session.length | default: 2 | downcase | escape }}" class="event">
+                    {% if tmp_blocked > 0 %}
+                        {% comment %} 
+                            If there's a class starting now and a class is already filling this block on the calendar, it's a mistake.
+                        {% endcomment %}
+                        {% assign tmp_blocked_after = tmp_blocked | minus: 1 %}
+                        <!-- Table conflict with {{ filtered_sessions | json | escape }} -->
+                    {% else %}
+                        {% assign max_length = 1 %}
+                        {% comment %} Find the length of the longest class starting now. {% endcomment %}
+                        {% for current_session in filtered_sessions %}
+                            {% assign cmp_length = current_session.length | default: 2 %}
+                            {% if cmp_length > max_length %}
+                                {% assign max_length = cmp_length %}
+                            {% endif %}
+                        {% endfor %}
+                        {% comment %} Check to see if another class starts before this class finishes. If so, use fewer blocks on the calendar. {% endcomment %}
+                        {% if max_length > 1 %}
+                            {% assign last_class_time_index = max_length | minus: 1 %}
+                            {% for i in (1..last_class_time_index) %}
+                                {% assign next_class_time_index = i | plus: time_forloop.index0 %}
+                                {% if next_class_time_index >= time_forloop.length %}
+                                    {% assign max_length = i | minus: 1 %}
+                                    {% break %}
+                                {% endif %}
+                                {% assign later_sessions = include.sessions | where:"day",day | where:"start_time",include.time_slots[next_class_time_index] %}
+                                {% if later_sessions != empty %}
+                                    {% assign max_length = i %}
+                                    {% break %}
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %}
+                        {% assign tmp_blocked_after = max_length | minus: 1 %}
+                        {% comment %}
+                            Added downcase filter to force string conversion on Windows, jekyll 3.5.2, 8/16/2017
+                        {% endcomment %}
+                        <td rowspan="{{ max_length | downcase | escape }}" class="event">
                         {% comment %}
                             20180112: Links now point to MindBody instead of the class descriptions on the Fitness page
                             Original code:
                                 <a href="/fitness#gallery-details-{{ current_session.class | slugify }}">{{ current_session.class | escape }}</a>
                         {% endcomment %}
-                        {% include schedule-links.html class_name=current_session.class %}
-                        <div>{{ current_session.instructor | escape }}</div>
-                        <div>{{ current_session.start_time | escape }} - {{ current_session.end_time | escape }}</div>
-                    </td>
+                        {% for current_session in filtered_sessions %}
+                            {% include schedule-links.html class_name=current_session.class %}
+                            <div>{{ current_session.instructor | escape }}</div>
+                            <div>{{ current_session.start_time | escape }} - {{ current_session.end_time | escape }}</div>
+                        {% endfor %}
+                        </td>
+                    {% endif %}
                 {% endif %}
                 {% assign next_row_blocked = next_row_blocked | push: tmp_blocked_after %}
             {% endfor %}

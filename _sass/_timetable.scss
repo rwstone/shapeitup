@@ -37,6 +37,15 @@
 	color: #FFF;
 	font-weight: 700;
 	margin-bottom: 2px;
+    border-top: 1px solid #FFF;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.timetable .event a:first-of-type {
+    border-top: none;
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 .timetable.small {

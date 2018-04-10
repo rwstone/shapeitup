@@ -32,7 +32,7 @@ layout: default
                     {% comment %} Use brute force to cycle through the class times in order. It would take a custom sort routine to order the classes correctly, since the start times are stored as strings not times. {% endcomment %} 
                     
                     {% for time in page.time_slots_morning %}
-                        {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time %}
+                        {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time | sort:"class" %} {% comment %} 20180410: Added sort. {% endcomment %} 
                     
                         {% for session in filtered_sessions %}
                             <li class="items_list_item icon_clock clearfix">
@@ -53,7 +53,7 @@ layout: default
                     {% endfor %}
                     
                     {% for time in page.time_slots_evening %}
-                        {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time %}
+                        {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time | sort:"class" %} {% comment %} 20180410: Added sort. {% endcomment %} 
                     
                         {% for session in filtered_sessions %}
                             <li class="items_list_item icon_clock clearfix">
