@@ -7,12 +7,18 @@ sessions:
   day: Monday
   start_time: 9:00a
   end_time: 10:00a
-  length: 2
+  length: 3
 - class: Zumba
   instructor: Irene
   day: Monday
   start_time: 6:30p
   end_time: 7:30p
+  length: 2
+- class: Spin
+  instructor: Michelle
+  day: Monday
+  start_time: 6:30p
+  end_time: 7:15p
   length: 2
 - class: Spin
   instructor: Sheila
@@ -43,6 +49,12 @@ sessions:
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
+  length: 2
+- class: Spin
+  instructor: Michelle
+  day: Wednesday
+  start_time: 6:30p
+  end_time: 7:15p
   length: 2
 - class: Zumba
   instructor: Felix
@@ -112,9 +124,6 @@ days:
 - Friday
 - Saturday
 - Sunday
-- 
-- 
-- 
 time_slots_morning:
 - 6:00a
 - 6:30a
