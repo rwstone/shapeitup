@@ -25,7 +25,7 @@ sessions:
   day: Tuesday
   start_time: 6:00p
   end_time: 6:45p
-  length: 1
+  length: 2
 - class: Zumba
   instructor: Felix
   day: Tuesday
