@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2018-04-09 08:01:00 -04:00
+date: 2018-04-23 08:01:00 -04:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -80,14 +80,8 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
-- class: Spin
-  instructor: Michelle
-  day: Friday
-  start_time: 6:00a
-  end_time: 6:45a
-  length: 2
 - class: Zumba
-  instructor: Felix
+  instructor: Christina
   day: Friday
   start_time: 9:30a
   end_time: 10:25a
