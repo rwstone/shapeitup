@@ -1,6 +1,7 @@
 ---
 title: Hip To Strip™
 date: 2018-03-09 10:07:00 -05:00
+published: false
 categories:
 - group fitness
 - one on one fitness
