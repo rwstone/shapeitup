@@ -1,7 +1,6 @@
 ---
 title: Memorial Weekend Schedule
 date: 2018-04-27 08:45:00 -04:00
-published: false
 categories:
 - "#2018"
 - "#holidays"
