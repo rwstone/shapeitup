@@ -1,6 +1,7 @@
 ---
 title: New SPIN® Class
 date: 2018-04-27 01:00:00 -04:00
+published: false
 categories:
 - getting healthy
 - fitness
