@@ -21,7 +21,7 @@ tags:
 - "#FRIDAYNIGHT"
 - "#DANCEPARTY"
 - "#SHAPEITUP"
-event_date: 2018-04-27 00:00:00 -04:00
+event_date: 2018-05-27 00:00:00 -04:00
 event_end_date: 2018-05-29 00:00:00 -04:00
 ---
 
