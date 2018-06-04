@@ -1,5 +1,6 @@
 ---
 title: Shape It Up Nutrition
+published: false
 banner_image: "/img/billboards/smoothie_bar.jpg"
 service_boxes:
 - title: Smoothie Bar
