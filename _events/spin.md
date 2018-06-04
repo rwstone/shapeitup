@@ -42,10 +42,10 @@ class: Spin
 ---
 
 **SPIN® classes schedule changes**
-Michelle Nunez & Sheila Sullivan will be our Spin instructors! 
+Michelle Nunez will be our Spin instructors! 
 
 **Sunday's at 10am with Michelle, 
-Monday's at **4:30pm with Michelle, Tuesday's at ** 6pm with Sheila starts 3/20**,  
+Monday's at **4:30pm with Michelle, 
 Wednesday's at 4:30pm with Michelle., 
 
 
