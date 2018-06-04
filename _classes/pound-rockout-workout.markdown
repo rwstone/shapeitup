@@ -1,6 +1,7 @@
 ---
 title: 'POUND: Rockout. Workout'
 date: 2017-08-16 14:25:00 -04:00
+published: false
 categories:
 - "#pound"
 - STRONG BY ZUMBA
