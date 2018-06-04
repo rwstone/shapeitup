@@ -49,7 +49,8 @@ Monday's at **4:30pm with Michelle,
 Wednesday's at 4:30pm with Michelle., 
 
 
-****Drop in fee: $10, or 10 pre-paid classes for $80, 
+****Drop in fee: $10, or $40 unlimited monthly 
+(includes all classes)
 
 *****GROUPON IS NOT ACCEPTED FOR SPIN CLASSES**
 **# **
