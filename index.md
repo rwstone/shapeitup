@@ -10,12 +10,11 @@ banner:
   title: Fun
 nutrition_title: Healthy Meal Prep & More
 nutrition_description: "\nVisit Naked Foods RI, INC., our \"New\" sister Club--right
-  next door.  \n\n**Naked Foods RI has made it our mission to help you eat healthy
-  without the hassle that comes with planning, shopping, cooking and clean up. Each
-  week our trained chef work hand-in-hand with trusted farms to craft extraordinary
-  healthy meals that are prepared for you. We've seen many customers recommended friends
-  to our program. Each meal in our Weight Loss Bundle is an average of 350-450 calories
-  and is individually packaged in a ready-to-eat microwavable, BPA-free container.\n\n*
+  next door.  \n**We are making it our mission to help you eat healthy without the
+  hassle that comes with planning, shopping, cooking and clean up. Each week our trained
+  chef work hand-in-hand with trusted farms to craft extraordinary healthy meals that
+  are prepared for you. Each meal in our Weight Loss Bundle is an average of 350-450
+  calories and is individually packaged in a ready-to-eat microwavable, BPA-free container.\n\n*
   We also offer protein muffins, protein bites, and protein puddings.***"
 passes:
 - name: Drop In
