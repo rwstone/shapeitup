@@ -8,7 +8,7 @@ banner:
   title: Fitness
 - image: "/uploads/aspin.jpg"
   title: Fun
-nutrition_title: Nutrition
+nutrition_title: Healthy Meal Prep & More
 nutrition_description: "\nVisit Naked Foods RI, INC., our \"New\" sister Club--right
   next door.  \n\n**Naked Foods RI has made it our mission to help you eat healthy
   without the hassle that comes with planning, shopping, cooking and clean up. Each
