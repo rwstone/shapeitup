@@ -68,9 +68,12 @@
             <div class="home_box_text">
                 {{ page.nutrition_description | escape | markdownify }}
             </div>
+            {% assign nutrition_page = site.pages | where:"url","/nutrition/" | first %}
+            {% if nutrition_page.published %}
             <div class="action_area">
                 <a class="mb_button" href="/nutrition/" title="More">More</a>
             </div>
+            {% endif %}
         </li>
         <li class="home_box third_color">
             <h2>Group Fitness Rates</h2>

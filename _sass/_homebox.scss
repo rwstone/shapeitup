@@ -111,7 +111,6 @@ p.sale {
 }
 
 .home_box {
-	float: left;
     position: relative;
     box-sizing: border-box;
     width: 100%;
@@ -206,7 +205,6 @@ p.sale {
         }
         .home_box {
             width: 100%;
-            float: none;
             margin: 0 auto;
             .home_box_text {
                 max-width: 40rem;
@@ -241,7 +239,6 @@ p.sale {
     .home_box {
         &.icon_box {
             vertical-align: top;
-            float: none;
             display: inline-block;
             width: 50%;
             max-width: 400px;
@@ -254,8 +251,9 @@ p.sale {
 @media only screen and (min-width: 896px) {
     .home_page .home_box_container {
         width: $content_width;
-        max-width: 96%; // 100%?
+        max-width: 96%; 
         text-align: center;
+        display: flex;
     }
     .nutrition_page .home_box_container {
         max-width: 96%;
@@ -266,8 +264,7 @@ p.sale {
         }
     }
     .home_page .home_box {
-        width: 33.3333%; 
-        float: left;
+        flex: 1; 
         .home_box_column {
             float: none;
             width: 100%;
@@ -286,8 +283,6 @@ p.sale {
         }
     }
     .home_box {
-        height: 320px;
-        width: 33.3333%;
         &.icon_box {
             height: 400px;
         }
@@ -295,12 +290,6 @@ p.sale {
 }
 
 @media only screen and (min-width: 1024px) {
-    .home_box {
-   //     padding: 25px 30px 30px; // large screen
-    }
-	.items_list li.items_list_item {
-	//	padding: 10px 0 10px 25px; 
-	}
     .home_page .home_box_container {
         margin-top: -2.5rem;
     }

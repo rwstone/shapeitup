@@ -5,12 +5,13 @@
 {% if layout.company and layout.company == "nutrition" %}
     {% assign company = site.data.company_nutrition %}
 {% endif %}
+{% assign nutrition_page = site.pages | where:"url","/nutrition/" | first %}
 
 <nav id="mobile_nav_container" class="mobile_nav_wrapper clearfix">
     <ul class="mobile_nav clearfix"><!--
-        --><li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
+        -->{% if nutrition_page.published %}<li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
             <a href="/nutrition/"><div class="tmp_li">Nutrition</div></a>
-        </li><!--
+        </li>{% endif %}<!--
         --><li{% if page.url == "/fitness/" %} class="selected"{% endif %}>
             <a href="/fitness/">Fitness</a>
         </li><!--
@@ -39,8 +40,6 @@
     </div>
 </nav>
 
-
-
 <div class="header_container">
     <div class="header clearfix">
         <div class="header_left">
@@ -49,9 +48,9 @@
             </a>
         </div>
         <ul class="sf-menu header_right">
-            <li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
+            {% if nutrition_page.published %}<li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
                 <a href="/nutrition/">Nutrition</a>
-            </li>
+            </li>{% endif %}
             <li{% if page.url == "/fitness/" %} class="selected"{% endif %}>
                 <a href="/fitness/">Fitness</a>
             </li>
