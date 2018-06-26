@@ -1,5 +1,5 @@
 ---
-title: New SPIN® Class
+title: Summer SPIN® Class
 date: 2018-04-27 01:00:00 -04:00
 categories:
 - getting healthy
@@ -44,7 +44,7 @@ class: Spin
 **SPIN® classes schedule changes**
 Michelle Nunez will be our Spin instructors! 
 
-**Sunday's at 10am with Michelle, 
+**Sunday's at 8:30am with Michelle, 
 Monday's at **4:30pm with Michelle, 
 Wednesday's at 4:30pm with Michelle., 
 
