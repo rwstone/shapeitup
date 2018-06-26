@@ -101,8 +101,8 @@ sessions:
 - class: Spin
   instructor: Michelle
   day: Sunday
-  start_time: 10:00a
-  end_time: 10:45a
+  start_time: 8:30a
+  end_time: 9:15a
   length: 2
 days:
 - Monday
