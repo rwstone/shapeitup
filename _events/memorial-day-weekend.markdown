@@ -20,8 +20,8 @@ tags:
 - "#beach"
 - "#rhodeisland"
 has_time_and_date: true
-event_date: 2018-05-27 08:00:00 -04:00
-event_end_date: 2018-05-28 21:00:00 -04:00
+event_date: 2018-07-04 08:00:00 -04:00
+event_end_date: 2018-07-05 16:00:00 -04:00
 ---
 
 **Please take note that we are CLOSED Wednesday, July 4th! 
