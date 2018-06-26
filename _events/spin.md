@@ -1,6 +1,6 @@
 ---
 title: Summer SPIN® Class
-date: 2018-04-27 01:00:00 -04:00
+date: 2018-06-26 01:00:00 -04:00
 categories:
 - getting healthy
 - fitness
@@ -36,8 +36,8 @@ tags:
 - "#2018"
 - "#beach"
 has_time_and_date: true
-event_date: 2018-06-04 06:00:00 -04:00
-event_end_date: 2019-01-02 19:00:00 -05:00
+event_date: 2018-06-26 06:00:00 -04:00
+event_end_date: 2018-09-30 19:00:00 -04:00
 class: Spin
 ---
 
