@@ -15,13 +15,13 @@ sessions:
   end_time: 5:15p
   length: 2
 - class: Zumba
-  instructor: Irene
+  instructor: Felix
   day: Monday
   start_time: 6:30p
   end_time: 7:30p
   length: 2
 - class: Zumba
-  instructor: Felix
+  instructor: Irene
   day: Tuesday
   start_time: 6:30p
   end_time: 7:20p
@@ -49,6 +49,12 @@ sessions:
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
+  length: 2
+- class: Zumba
+  instructor: Felix
+  day: Wednesday
+  start_time: 7:30p
+  end_time: 8:30p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -80,10 +86,10 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
-- class: Strong by Zumba
-  instructor: Christine
+- class: Circuit Conditioning
+  instructor: Felix
   day: Saturday
-  start_time: 9:15a
+  start_time: 9:30a
   end_time: 10:15a
   length: 2
 - class: Zumba
