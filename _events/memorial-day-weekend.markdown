@@ -1,6 +1,7 @@
 ---
 title: Closed 4th of July
 date: 2018-04-23 10:30:00 -04:00
+published: false
 categories:
 - "#2018"
 - "#holidays"
