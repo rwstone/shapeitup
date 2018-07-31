@@ -1,6 +1,6 @@
 ---
-title: Summer SPIN® Class
-date: 2018-06-26 01:00:00 -04:00
+title: New Class
+date: 2018-08-04 01:00:00 -04:00
 categories:
 - getting healthy
 - fitness
@@ -36,23 +36,11 @@ tags:
 - "#2018"
 - "#beach"
 has_time_and_date: true
-event_date: 2018-06-26 06:00:00 -04:00
+event_date: 2018-08-04 09:30:00 -04:00
 event_end_date: 2018-09-30 19:00:00 -04:00
-class: Spin
+class: Circuit Conditioning
 ---
 
-**SPIN® classes schedule changes**
-Michelle Nunez will be our Spin instructors! 
+**Boot-camp Conditioning Starting Saturday,August 4th at 9:30a-10:15a with Felix and Christina**
 
-**Sunday's at 8:30am with Michelle, 
-Monday's at **4:30pm with Michelle, 
-Wednesday's at 4:30pm with Michelle., 
-
-
-****Drop in fee: $10, or $40 unlimited monthly 
-(includes all classes)
-
-*****GROUPON IS NOT ACCEPTED FOR SPIN CLASSES**
-**# **
-
-**BIKES ARE LIMITED, JUST 11 BIKES! YOU MUST RESERVE YOUR BIKE PRIOR TO CLASS****
+You can command Power, Strength and Agility with this circuit workout that will push you to your limits. As you maneuver your way through each workout station, you’ll lunge, crunch, box and more for a full body workout. In the end, you’ll leave class feeling exhilarated. 45 Minute Workout.
