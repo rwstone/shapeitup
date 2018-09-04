@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2018-07-31 08:01:00 -04:00
+date: 2018-09-04 08:01:00 -04:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -15,7 +15,7 @@ sessions:
   end_time: 5:15p
   length: 2
 - class: Zumba
-  instructor: Felix
+  instructor: Christina
   day: Monday
   start_time: 6:30p
   end_time: 7:30p
@@ -31,12 +31,6 @@ sessions:
   day: Tuesday
   start_time: 7:30p
   end_time: 8:30p
-  length: 2
-- class: Zumba
-  instructor: Felix
-  day: Wednesday
-  start_time: 9:30a
-  end_time: 10:25a
   length: 2
 - class: Spin
   instructor: Michelle
