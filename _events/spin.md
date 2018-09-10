@@ -14,6 +14,7 @@ categories:
 - "#holidays"
 - "#summer"
 - "#beach"
+- "#ketodiet"
 tags:
 - fitness
 - personal trainer
