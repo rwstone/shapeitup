@@ -1,6 +1,6 @@
 ---
 title: New Class
-date: 2018-08-04 01:00:00 -04:00
+date: 2018-09-10 01:00:00 -04:00
 categories:
 - getting healthy
 - fitness
@@ -37,7 +37,7 @@ tags:
 - "#beach"
 has_time_and_date: true
 event_date: 2018-09-04 09:30:00 -04:00
-event_end_date: 2018-09-30 19:00:00 -04:00
+event_end_date: 2018-10-13 19:00:00 -04:00
 class: Circuit Conditioning
 ---
 
