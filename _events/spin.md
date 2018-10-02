@@ -1,6 +1,6 @@
 ---
-title: New Class
-date: 2018-09-10 01:00:00 -04:00
+title: New Class Time
+date: 2018-10-02 01:00:00 -04:00
 categories:
 - getting healthy
 - fitness
@@ -36,12 +36,23 @@ tags:
 - "#spin"
 - "#2018"
 - "#beach"
+- "#keto"
 has_time_and_date: true
-event_date: 2018-09-04 09:30:00 -04:00
-event_end_date: 2018-10-13 19:00:00 -04:00
-class: Circuit Conditioning
+event_date: 2018-10-02 09:30:00 -04:00
+event_end_date: 2018-10-31 19:00:00 -04:00
+class: Group Personal Training
 ---
 
-**Boot-camp Conditioning Starting Saturday, at 9:30a-10:15a with Felix / Christina**
+New Classes & Time 
+**Spin**
+Sunday's 9:30am, Monday's 4:30pm, *Friday's 9am
 
-You can command Power, Strength and Agility with this circuit workout that will push you to your limits. As you maneuver your way through each workout station, you’ll lunge, crunch, box and more for a full body workout. In the end, you’ll leave class feeling exhilarated. 45 Minute Workout.
+**Zumba**
+Monday's 630pm, Tuesday's 630pm, 730pm,  Wednesday's *9:30a, 630pm, 730pm, Thursday's 630p, and 730pm, Saturday's 10:30am
+
+**Boot Camp Saturday's 9:30am (45mins)**
+
+**Yoga Monday's at 9:00am**
+
+**Barre Fusion**
+Thursday's at 9am, & Saturdays at 8am.
