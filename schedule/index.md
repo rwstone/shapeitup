@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2018-09-26 08:01:00 -04:00
+date: 2018-10-02 08:01:00 -04:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -33,10 +33,22 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
+  instructor: Felix
+  day: Wednesday
+  start_time: 9:30a
+  end_time: 10:25a
+  length: 2
+- class: Zumba
   instructor: Silvia
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
+  length: 2
+- class: Zumba
+  instructor: Felix
+  day: Wednesday
+  start_time: 7:30p
+  end_time: 8:30p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -55,6 +67,12 @@ sessions:
   day: Thursday
   start_time: 7:30p
   end_time: 8:30p
+  length: 2
+- class: Spin
+  instructor: Michelle
+  day: Friday
+  start_time: 9:00a
+  end_time: 9:45a
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -77,8 +95,8 @@ sessions:
 - class: Spin
   instructor: Michelle
   day: Sunday
-  start_time: 8:30a
-  end_time: 9:15a
+  start_time: 9:30a
+  end_time: 10:15a
   length: 2
 days:
 - Monday
