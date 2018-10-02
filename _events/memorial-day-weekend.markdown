@@ -1,7 +1,6 @@
 ---
-title: Closed 4th of July
-date: 2018-04-23 10:30:00 -04:00
-published: false
+title: Closed Columbus Day
+date: 2018-10-02 10:30:00 -04:00
 categories:
 - "#2018"
 - "#holidays"
@@ -12,19 +11,22 @@ categories:
 - "#4thofjuly"
 tags:
 - "#2018"
-- "#memeorial day"
 - "#spin"
 - "#zumba"
-- "#4thofjuly"
-- "#indepenceday2018"
-- "#summer"
-- "#beach"
 - "#rhodeisland"
+- "#keto"
+- "#herbalife"
+- "#zumba #"
+- "#FRIDAYNIGHT"
+- "#shakealogy"
+- "#Fall"
+- "#holidays"
 has_time_and_date: true
-event_date: 2018-07-04 08:00:00 -04:00
-event_end_date: 2018-07-05 16:00:00 -04:00
+event_date: 2018-10-02 08:00:00 -04:00
+event_end_date: 2018-10-08 16:00:00 -04:00
 ---
 
-**Please take note that we are CLOSED Wednesday, July 4th! 
+**Please take note that we are CLOSED Monday, Oct. 8th! 
 
-We will re-open July 5th at 5pm where all classes will resume. **
+We will re-open Oct. 9th at 4:00pm and all classes will resume. 
+ 430pm Spin Sheila, 630pm Zumba with Felix**
