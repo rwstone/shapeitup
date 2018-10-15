@@ -4,7 +4,7 @@ date: 2018-10-02 07:36:00 -04:00
 banner:
 - image: "/uploads/29425936_616573272018595_1980543470441625491_n.jpg"
   title: Form
-- image: "/uploads/aspin.jpg"
+- image: "/uploads/yoga-83c66e.jpg"
   title: Fitness
 - image: "/uploads/30689184_1519169178193264_6746825148734636032_n.jpg"
   title: Fun
