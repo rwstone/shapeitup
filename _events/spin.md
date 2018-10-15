@@ -44,8 +44,7 @@ class: Group Personal Training
 ---
 
 New Classes & Time 
-**Spin**
-Sunday's 9:30am, Monday's 4:30pm, *Friday's 9am
+**Personal Training available $100 2x a week for 4 weeks or $160 a month 3x a week**
 
 **Zumba**
 Monday's 630pm, Tuesday's 630pm, 730pm,  Wednesday's *9:30a, 630pm, 730pm, Thursday's 630p, and 730pm, Saturday's 10:30am
