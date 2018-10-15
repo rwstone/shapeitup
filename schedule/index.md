@@ -8,12 +8,6 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 3
-- class: Spin
-  instructor: Sheila
-  day: Monday
-  start_time: 4:30p
-  end_time: 5:15p
-  length: 2
 - class: Zumba
   instructor: Felix
   day: Monday
@@ -68,12 +62,6 @@ sessions:
   start_time: 7:30p
   end_time: 8:30p
   length: 2
-- class: Spin
-  instructor: Michelle
-  day: Friday
-  start_time: 9:00a
-  end_time: 9:45a
-  length: 2
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
@@ -91,12 +79,6 @@ sessions:
   day: Saturday
   start_time: 10:30a
   end_time: 11:30a
-  length: 2
-- class: Spin
-  instructor: Michelle
-  day: Sunday
-  start_time: 9:30a
-  end_time: 10:15a
   length: 2
 days:
 - Monday
