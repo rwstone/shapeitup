@@ -17,4 +17,4 @@ event_end_date: 2019-01-05 00:00:00 -05:00
 ---
 
 Gift cards are available for both Shape It Up Fitness & 
-Naked Foods RI for this Holiday Sesson
+Naked Foods RI for this Holiday Season
