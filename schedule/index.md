@@ -50,8 +50,8 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 3
-- class: Zumba Toning
-  instructor: Christine
+- class: Zumba
+  instructor: Donna
   day: Thursday
   start_time: 6:30p
   end_time: 7:25p
@@ -69,7 +69,7 @@ sessions:
   end_time: 9:00a
   length: 2
 - class: Circuit Conditioning
-  instructor: Christina
+  instructor: Felix
   day: Saturday
   start_time: 9:30a
   end_time: 10:15a
