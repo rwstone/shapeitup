@@ -1,5 +1,5 @@
 ---
-title: Closed Columbus Day
+title: Thanksgiving Day Zumba
 date: 2018-10-02 10:30:00 -04:00
 categories:
 - "#2018"
@@ -9,6 +9,8 @@ categories:
 - "#spring"
 - "#beach"
 - "#4thofjuly"
+- "#thanksgiving"
+- "#zumba #blackfriday"
 tags:
 - "#2018"
 - "#spin"
@@ -21,12 +23,13 @@ tags:
 - "#shakealogy"
 - "#Fall"
 - "#holidays"
+- gym
+- zumba
+- Thanksgiving
+- "#blackfriday"
 has_time_and_date: true
 event_date: 2018-10-02 08:00:00 -04:00
 event_end_date: 2018-10-08 16:00:00 -04:00
 ---
 
-**Please take note that we are CLOSED Monday, Oct. 8th! 
-
-We will re-open Oct. 9th at 4:00pm and all classes will resume. 
- 430pm Spin Sheila, 630pm Zumba with Felix**
+**Join us for Thanksgiving Zumba class at 930am-1030am with Felix** so come wobble before you gobble 
