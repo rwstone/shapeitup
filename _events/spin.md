@@ -1,6 +1,7 @@
 ---
 title: New Class Time
 date: 2018-10-02 01:00:00 -04:00
+published: false
 categories:
 - getting healthy
 - fitness
