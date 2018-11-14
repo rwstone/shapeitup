@@ -1,14 +1,20 @@
 ---
-title: Treat Yourself!
-date: 2016-05-01 19:23:28.864000000 Z
+title: Gift Cards!
+date: 2018-11-13 15:23:00 -05:00
 published: false
+categories:
+- "#christmas"
+- "#newyearseve"
+- "#thanksgiving"
+tags:
+- "#blackfriday"
+- "#Newyear"
+- "#2019"
+- "#christmas"
 has_time_and_date: true
-event_date: 2016-05-22 21:55:43.486000000 Z
-class: 
-button_link: 
-button_label: 
+event_date: 2018-11-13 17:55:00 -05:00
+event_end_date: 2019-01-05 00:00:00 -05:00
 ---
 
-Join us for a Shake Tasting and Spa Day at Shape It Up!
-
-Try out an Herbalife shake and then indulge in a facial. You deserve it.
+Gift cards are available for both Shape It Up Fitness & 
+Naked Foods RI for this Holiday Sesson
