@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-date: 2017-06-27 19:03:00 -04:00
+date: 2018-11-14 06:03:00 -05:00
 banner:
 - image: "/img/billboards/zumba_pink_out.jpg"
 - image: "/img/billboards/zumba_mardi_gras_felix.jpg"
