@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2018-11-14 08:01:00 -05:00
+date: 2018-12-01 08:01:00 -05:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -27,7 +27,7 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Felix
+  instructor: Irene
   day: Wednesday
   start_time: 9:30a
   end_time: 10:25a
@@ -37,12 +37,6 @@ sessions:
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
-  length: 2
-- class: Zumba
-  instructor: Felix
-  day: Wednesday
-  start_time: 7:30p
-  end_time: 8:30p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
@@ -67,12 +61,6 @@ sessions:
   day: Saturday
   start_time: 8:00a
   end_time: 9:00a
-  length: 2
-- class: Circuit Conditioning
-  instructor: Felix
-  day: Saturday
-  start_time: 9:30a
-  end_time: 10:15a
   length: 2
 - class: Zumba
   instructor: Nellie
@@ -122,7 +110,9 @@ description_seo: View our regular calendar of group exercise classes.
 layout: schedule
 ---
 
-This is our regular weekly schedule. We are closed on most Major Holidays. Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719)
+This is our regular weekly schedule.
+ **We are closed on most Major Holidays.** 
+Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719)
 **GROUPON CANNOT Be used for ZUMBA in da Club**
 **CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
 **PRE-PAID CLASSES EXPIRE 60 DAYS FROM PURCHASE**
