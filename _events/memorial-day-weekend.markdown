@@ -1,6 +1,6 @@
 ---
-title: Thanksgiving Day Zumba
-date: 2018-11-22 09:30:00 -05:00
+title: Holiday Schedule
+date: 2018-12-13 09:30:00 -05:00
 categories:
 - "#2018"
 - "#holidays"
@@ -11,6 +11,7 @@ categories:
 - "#4thofjuly"
 - "#thanksgiving"
 - "#zumba #blackfriday"
+- "#ketodiet"
 tags:
 - "#2018"
 - "#spin"
@@ -27,9 +28,14 @@ tags:
 - zumba
 - Thanksgiving
 - "#blackfriday"
+- "#KETO"
 has_time_and_date: true
-event_date: 2018-11-22 09:30:00 -05:00
-event_end_date: 2018-11-22 10:30:00 -05:00
+event_date: 2018-12-24 09:30:00 -05:00
+event_end_date: 2019-01-01 10:30:00 -05:00
 ---
 
-**Join us for Thanksgiving Zumba class at 930am-1030am with Felix** so come wobble before you gobble 
+NO CLASSES ON DEC. 24TH-DEC 26TH. 
+CLASSES WILL RESUME ON THURSDAY DEC. 27TH.
+
+NO CLASSES ON NEW YEAR'S EVE,OR NEW YEARS DAY. 
+CLASSES WILL RESUME ON JANUARY 2,2019 
