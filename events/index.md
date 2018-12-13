@@ -1,6 +1,6 @@
 ---
 title: 21 days for $21
-date: 2018-11-14 06:03:00 -05:00
+date: 2018-12-13 06:03:00 -05:00
 banner:
 - image: "/uploads/zumba%20glow%20party-1fd3d6.jpg"
 - image: "/img/billboards/zumba_mardi_gras_felix.jpg"
