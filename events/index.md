@@ -1,5 +1,5 @@
 ---
-title: 21 days for $21
+title: upcoming events
 date: 2018-12-13 06:03:00 -05:00
 banner:
 - image: "/uploads/zumba%20glow%20party-1fd3d6.jpg"
