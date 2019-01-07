@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2018-12-01 08:01:00 -05:00
+date: 2019-01-07 08:01:00 -05:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -11,8 +11,8 @@ sessions:
 - class: Zumba
   instructor: Felix
   day: Monday
-  start_time: 6:30p
-  end_time: 7:30p
+  start_time: 7:00p
+  end_time: 8:00p
   length: 2
 - class: Zumba
   instructor: Irene
@@ -62,6 +62,12 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
+- class: Circuit Conditioning
+  instructor: Felix
+  day: Saturday
+  start_time: '9:30'
+  end_time: '10:15'
+  length: 1
 - class: Zumba
   instructor: Nellie
   day: Saturday
