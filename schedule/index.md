@@ -74,6 +74,12 @@ sessions:
   start_time: '9:30'
   end_time: '10:15'
   length: 1
+- class: Body Conditioning
+  instructor: Christina
+  day: Saturday
+  start_time: 9:30a
+  end_time: 10:15a
+  length: 1
 - class: Zumba
   instructor: Nellie
   day: Saturday
