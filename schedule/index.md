@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2019-01-07 08:01:00 -05:00
+date: 2019-01-28 08:01:00 -05:00
 sessions:
 - class: Yoga
   instructor: Debbie
@@ -15,7 +15,7 @@ sessions:
   end_time: 8:00p
   length: 2
 - class: Zumba
-  instructor: Irene
+  instructor: Yvonna
   day: Tuesday
   start_time: 6:30p
   end_time: 7:20p
