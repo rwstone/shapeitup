@@ -1,6 +1,6 @@
 ---
 title: 21 days for $21
-date: 2018-12-13 01:00:00 -05:00
+date: 2019-01-28 01:00:00 -05:00
 categories:
 - getting healthy
 - fitness
@@ -38,12 +38,12 @@ tags:
 - "#beach"
 - "#keto"
 has_time_and_date: true
-event_date: 2018-12-13 09:30:00 -05:00
-event_end_date: 2019-01-01 19:00:00 -05:00
+event_date: 2019-02-01 09:30:00 -05:00
+event_end_date: 2019-02-28 19:00:00 -05:00
 class: Zumba
 ---
 
-21 Days of unlimited classes for $21, starts January 1,2019.
+21 Days of unlimited classes for $21, starts February 1,2019.
 This offer is good for NEW Members, or Members who haven't taken classes the last 90 days.
 
 **other packages offer: $30 for unlimited monthly classes,
