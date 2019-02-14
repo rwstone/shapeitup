@@ -38,12 +38,13 @@ tags:
 - "#beach"
 - "#keto"
 has_time_and_date: true
-event_date: 2019-02-01 09:30:00 -05:00
-event_end_date: 2019-02-28 19:00:00 -05:00
+event_date: 2019-03-01 09:30:00 -05:00
+event_end_date: 2019-03-31 19:00:00 -04:00
 class: Zumba
 ---
 
-21 Days of unlimited classes for $21, starts February 1,2019.
+21 Days of unlimited classes for $21, starts March 1, thru March 31, 2019. You can come in any day in the month of March.
+
 This offer is good for NEW Members, or Members who haven't taken classes the last 90 days.
 
 **other packages offer: $30 for unlimited monthly classes,
