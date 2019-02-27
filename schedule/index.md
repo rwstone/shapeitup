@@ -51,7 +51,7 @@ sessions:
   end_time: 10:00a
   length: 3
 - class: Zumba
-  instructor: Christina
+  instructor: Donna
   day: Thursday
   start_time: 6:30p
   end_time: 7:25p
