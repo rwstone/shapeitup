@@ -1,7 +1,6 @@
 ---
-title: Memorial Weekend Schedule
-date: 2018-04-27 08:45:00 -04:00
-published: false
+title: Closed Saturday, March 2nd
+date: 2019-03-02 06:45:00 -05:00
 categories:
 - "#2018"
 - "#holidays"
@@ -22,12 +21,8 @@ tags:
 - "#FRIDAYNIGHT"
 - "#DANCEPARTY"
 - "#SHAPEITUP"
-event_date: 2018-05-27 00:00:00 -04:00
-event_end_date: 2018-05-29 00:00:00 -04:00
+event_date: 2019-03-02 00:00:00 -05:00
+event_end_date: 2019-03-02 23:59:00 -05:00
 ---
 
-** ALL CLASSES ARE AVAILABLE on Saturday, May 26, 2018 **
-
-**WE ARE CLOSED SUNDAY, MAY 27TH & MAY 28TH FOR MEMORIAL DAY.
-CLASSES WILL RESUME ON TUESDAY MAY 29TH STARTING WITH 
-630PM ZUMBA WITH FELIX, AND 730PM ZUMBA WITH SONIA**
+Due to inclement weather for the safety of our staff and members we are closed this Saturday, March 2,2019
