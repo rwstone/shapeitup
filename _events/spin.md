@@ -1,6 +1,6 @@
 ---
 title: 21 days for $21
-date: 2019-01-28 01:00:00 -05:00
+date: 2019-03-21 01:00:00 -04:00
 categories:
 - getting healthy
 - fitness
@@ -37,13 +37,14 @@ tags:
 - "#2018"
 - "#beach"
 - "#keto"
+- "#SUMMER"
 has_time_and_date: true
-event_date: 2019-03-01 09:30:00 -05:00
-event_end_date: 2019-03-31 19:00:00 -04:00
+event_date: 2019-04-01 07:30:00 -04:00
+event_end_date: 2019-04-30 19:30:00 -04:00
 class: Zumba
 ---
 
-21 Days of unlimited classes for $21, starts March 1, thru March 31, 2019. You can come in any day in the month of March.
+21 Days of unlimited classes for $21, starts April 1 - 30th 2019. You can come in any day in the month of April.
 
 This offer is good for NEW Members, or Members who haven't taken classes the last 90 days.
 
