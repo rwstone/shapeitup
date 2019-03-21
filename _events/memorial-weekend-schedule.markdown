@@ -1,6 +1,7 @@
 ---
 title: Closed Saturday, March 2nd
 date: 2019-03-02 06:45:00 -05:00
+published: false
 categories:
 - "#2018"
 - "#holidays"
