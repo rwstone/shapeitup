@@ -1,6 +1,7 @@
 ---
 title: Zumba in da Club
 date: 2019-02-14 16:47:00 -05:00
+published: false
 categories:
 - zumba
 - fridaynight
