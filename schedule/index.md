@@ -27,12 +27,6 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Yvonna
-  day: Wednesday
-  start_time: 9:30a
-  end_time: 10:25a
-  length: 2
-- class: Zumba
   instructor: Silvia
   day: Wednesday
   start_time: 6:30p
