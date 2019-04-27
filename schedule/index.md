@@ -27,7 +27,7 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Silvia
+  instructor: Christina
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
@@ -74,6 +74,12 @@ sessions:
   start_time: 10:30a
   end_time: 11:30a
   length: 2
+- class: Zumba
+  instructor: Christina
+  day: Sunday
+  start_time: 10:00a
+  end_time: 11:00a
+  length: 2
 days:
 - Monday
 - Tuesday
@@ -82,6 +88,7 @@ days:
 - Friday
 - Saturday
 - Sunday
+- 
 time_slots_morning:
 - 6:00a
 - 6:30a
