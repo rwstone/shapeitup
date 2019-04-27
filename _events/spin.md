@@ -38,6 +38,9 @@ tags:
 - "#beach"
 - "#keto"
 - "#SUMMER"
+- "#2019"
+- '2019'
+- summerbody
 has_time_and_date: true
 event_date: 2019-04-27 07:30:00 -04:00
 event_end_date: 2019-04-30 19:30:00 -04:00
