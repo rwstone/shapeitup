@@ -1,5 +1,5 @@
 ---
-title: Holiday Schedule
+title: Closed Memorial Weekend
 date: 2018-12-13 09:30:00 -05:00
 published: false
 categories:
@@ -30,13 +30,14 @@ tags:
 - Thanksgiving
 - "#blackfriday"
 - "#KETO"
+- '2019'
+- "#SUMMER"
+- summerbody
+- memorial day
 has_time_and_date: true
-event_date: 2018-12-24 09:30:00 -05:00
-event_end_date: 2019-01-01 10:30:00 -05:00
+event_date: 2019-05-24 09:30:00 -04:00
+event_end_date: 2019-05-27 21:30:00 -04:00
 ---
 
-NO CLASSES ON DEC. 24TH-DEC 26TH. 
-CLASSES WILL RESUME ON THURSDAY DEC. 27TH.
-
-NO CLASSES ON NEW YEAR'S EVE,OR NEW YEARS DAY. 
-CLASSES WILL RESUME ON JANUARY 2,2019 
+Shape It Up Fitness & Naked Foods RI will be Closed 
+Friday, May 23rd thru Monday, May 27th.  
