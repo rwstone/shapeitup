@@ -1,6 +1,6 @@
 ---
 title: "$30 unlimited monthly"
-date: 2019-03-21 01:00:00 -04:00
+date: 2019-05-22 01:00:00 -04:00
 categories:
 - getting healthy
 - fitness
@@ -15,6 +15,7 @@ categories:
 - "#summer"
 - "#beach"
 - "#ketodiet"
+- "#memorialday"
 tags:
 - fitness
 - personal trainer
@@ -42,8 +43,8 @@ tags:
 - '2019'
 - summerbody
 has_time_and_date: true
-event_date: 2019-04-27 07:30:00 -04:00
-event_end_date: 2019-04-30 19:30:00 -04:00
+event_date: 2019-05-22 07:30:00 -04:00
+event_end_date: 2019-08-31 19:30:00 -04:00
 class: Zumba
 ---
 
