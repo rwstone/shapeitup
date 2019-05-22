@@ -27,7 +27,7 @@ sessions:
   end_time: 8:30p
   length: 2
 - class: Zumba
-  instructor: Christina
+  instructor: Silvia
   day: Wednesday
   start_time: 6:30p
   end_time: 7:25p
@@ -62,12 +62,6 @@ sessions:
   start_time: 8:00a
   end_time: 9:00a
   length: 2
-- class: Circuit Conditioning
-  instructor: Felix
-  day: Saturday
-  start_time: '9:30'
-  end_time: '10:15'
-  length: 1
 - class: Zumba
   instructor: Nellie
   day: Saturday
@@ -124,7 +118,7 @@ layout: schedule
 ---
 
 This is our regular weekly schedule.
- **We are closed on most Major Holidays.** 
+ ****We are closed on most Major Holidays.**** 
 Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719)
 **GROUPON CANNOT Be used for ZUMBA in da Club**
 **CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
