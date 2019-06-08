@@ -1,5 +1,5 @@
 ---
-title: "$30 unlimited monthly"
+title: "$20 unlimited monthly"
 date: 2019-05-22 01:00:00 -04:00
 categories:
 - getting healthy
@@ -43,12 +43,12 @@ tags:
 - '2019'
 - summerbody
 has_time_and_date: true
-event_date: 2019-05-22 07:30:00 -04:00
+event_date: 2019-06-10 07:30:00 -04:00
 event_end_date: 2019-08-31 19:30:00 -04:00
 class: Zumba
 ---
 
-$30 unlimited monthly pass. More for your money! Now you can take as many classes as you may like for $30. No registeration fee, no commitments. Just pay as you go! 
+Summer Special $20 unlimited monthly pass. More for your money! Now you can take as many classes as you may like for $20. No registeration fee, no commitments. Just pay as you go! 
 
 We also have drop-in class for $10, and 
 10 pre-paid classes $40 (pass expires in 60 days)
