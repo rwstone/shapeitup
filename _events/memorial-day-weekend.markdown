@@ -1,5 +1,5 @@
 ---
-title: Closed Memorial Weekend
+title: CLOSED
 date: 2019-05-22 09:30:00 -04:00
 categories:
 - "#2018"
@@ -34,11 +34,11 @@ tags:
 - summerbody
 - memorial day
 has_time_and_date: true
-event_date: 2019-05-23 09:30:00 -04:00
-event_end_date: 2019-05-27 21:30:00 -04:00
+event_date: 2019-07-03 06:30:00 -04:00
+event_end_date: 2019-07-07 23:30:00 -04:00
 ---
 
-Shape It Up Fitness & Naked Foods RI will be Closed 
-Thursday, May 23rd thru Monday, May 27th.  
+Shape It Up Fitness will be Closed 
+Wednesday, July 3rd thru July 7th.  
 
-Re-open on Tuesday, May 28, 2019
+Re-open on Monday, July 8, 2019
