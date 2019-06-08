@@ -1,5 +1,5 @@
 ---
-title: CLOSED
+title: CLOSED Vacation Dates
 date: 2019-05-22 09:30:00 -04:00
 categories:
 - "#2018"
