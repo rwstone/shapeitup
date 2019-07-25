@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2018-11-14 07:36:00 -05:00
+date: 2019-07-25 07:36:00 -04:00
 banner:
 - image: "/uploads/29425936_616573272018595_1980543470441625491_n.jpg"
   title: Form
@@ -17,8 +17,8 @@ nutrition_description: "\nVisit Naked Foods RI, INC., our \"New\" sister Club--r
   protein bites, and protein puddings.***"
 passes:
 - name: Drop In
-  price: "$10"
-  is_sale: false
+  price: "$6"
+  is_sale: true
 - name: Monthly Unlimited ( ALL CLASSES)
   price: "$20"
   is_sale: true
