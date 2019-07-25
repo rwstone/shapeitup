@@ -1,6 +1,7 @@
 ---
-title: CLOSED Vacation Dates
+title: CLOSE
 date: 2019-05-22 09:30:00 -04:00
+published: false
 categories:
 - "#2018"
 - "#holidays"
