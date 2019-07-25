@@ -20,8 +20,8 @@ passes:
   price: "$10"
   is_sale: false
 - name: Monthly Unlimited ( ALL CLASSES)
-  price: "$30"
-  is_sale: false
+  price: "$20"
+  is_sale: true
 title_seo: Shape It Up Fitness | East Providence, RI
 description_seo: Shape It Up Fitness is an exercise studio in East Providence, RI,
   with a fun and approachable attitude. We offer  group exercise classes, including
