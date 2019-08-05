@@ -1,6 +1,6 @@
 ---
 title: "$20 unlimited monthly"
-date: 2019-07-25 01:00:00 -04:00
+date: 2019-08-05 01:00:00 -04:00
 categories:
 - getting healthy
 - fitness
@@ -43,7 +43,7 @@ tags:
 - '2019'
 - summerbody
 has_time_and_date: true
-event_date: 2019-07-25 07:30:00 -04:00
+event_date: 2019-08-05 07:30:00 -04:00
 event_end_date: 2019-08-31 19:30:00 -04:00
 class: Zumba
 ---
