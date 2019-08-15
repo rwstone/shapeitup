@@ -1,5 +1,5 @@
 ---
-title: CLOSED
+title: CLOSED LABOR DAY
 date: 2019-08-15 09:30:00 -04:00
 categories:
 - "#2018"
