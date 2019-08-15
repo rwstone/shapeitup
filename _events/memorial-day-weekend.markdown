@@ -1,7 +1,6 @@
 ---
-title: CLOSE
-date: 2019-05-22 09:30:00 -04:00
-published: false
+title: CLOSED
+date: 2019-08-15 09:30:00 -04:00
 categories:
 - "#2018"
 - "#holidays"
@@ -35,11 +34,9 @@ tags:
 - summerbody
 - memorial day
 has_time_and_date: true
-event_date: 2019-07-03 06:30:00 -04:00
-event_end_date: 2019-07-07 23:30:00 -04:00
+event_date: 2019-08-31 06:30:00 -04:00
+event_end_date: 2019-09-02 23:30:00 -04:00
 ---
 
-Shape It Up Fitness will be Closed 
-Wednesday, July 3rd thru July 7th.  
-
-Re-open on Monday, July 8, 2019
+**Shape It Up Fitness will be Closed to observe Labor Day 
+Saturday, August 31st thru Sept 2nd.  All classes will resume Tuesday Sept. 3rd.**
