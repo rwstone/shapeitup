@@ -41,9 +41,11 @@ class: Personal Training
 button_label: Enroll
 ---
 
-Personal Training & Group Training Available
+**Personal Training & Group Training Available
 * Free Wellness Evaluation 
 * 30min, 45min, & 60min Session
 * Meal Plan
-* Accountability 
-Call or email for more information
+* Accountability
+
+ 
+Call or email for more information**
