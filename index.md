@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2019-07-25 07:36:00 -04:00
+date: 2019-08-27 07:36:00 -04:00
 banner:
 - image: "/uploads/29425936_616573272018595_1980543470441625491_n.jpg"
   title: Form
@@ -17,16 +17,16 @@ nutrition_description: "\nVisit Naked Foods RI, INC., our \"New\" sister Club--r
   protein bites, and protein puddings.***"
 passes:
 - name: Drop In
-  price: "$6"
+  price: "$10"
   is_sale: true
 - name: Monthly Unlimited ( ALL CLASSES)
-  price: "$20"
+  price: "$30"
   is_sale: true
 title_seo: Shape It Up Fitness | East Providence, RI
 description_seo: Shape It Up Fitness is an exercise studio in East Providence, RI,
   with a fun and approachable attitude. We offer  group exercise classes, including
-  Zumba, Zumba Toning, Strong by Zumba,  Barre Fusion,  Yoga, Spin, and Small Group
-  Personal Training.
+  Zumba,  Barre Fusion,  Yoga,  Circuit Conditioning, Personal Training and Small
+  Group Personal Training.
 layout: home
 ---
 
