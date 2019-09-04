@@ -35,7 +35,7 @@ tags:
 - Sports
 - herbalife
 has_time_and_date: true
-event_date: 2019-08-15 00:00:00 -04:00
+event_date: 2019-09-04 00:00:00 -04:00
 event_end_date: 2019-09-30 00:00:00 -04:00
 class: Personal Training
 button_label: Enroll
