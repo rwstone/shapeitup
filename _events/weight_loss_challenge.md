@@ -1,5 +1,5 @@
 ---
-title: Fall Back into Shape
+title: Get Back on Track Program
 date: 2016-05-01 15:23:00 -04:00
 categories:
 - gym
@@ -10,6 +10,11 @@ categories:
 - muscle
 - abs
 - wellness
+- "#ketodiet"
+- getting healthy
+- lose weight
+- beachbody
+- getting fit
 tags:
 - personal trainer
 - fitness
@@ -35,8 +40,8 @@ tags:
 - Sports
 - herbalife
 has_time_and_date: true
-event_date: 2019-09-04 00:00:00 -04:00
-event_end_date: 2019-09-30 00:00:00 -04:00
+event_date: 2019-09-30 00:00:00 -04:00
+event_end_date: 2019-10-31 00:00:00 -04:00
 class: Personal Training
 button_label: Enroll
 ---
@@ -44,7 +49,6 @@ button_label: Enroll
 **Personal Training & Group Training Available
 * Free Wellness Evaluation 
 * 30min, 45min, & 60min Session
-* Meal Plan
 * Accountability
 
  
