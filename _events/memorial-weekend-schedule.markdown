@@ -1,7 +1,6 @@
 ---
-title: Closed Saturday, March 2nd
-date: 2019-03-02 06:45:00 -05:00
-published: false
+title: Closed for Columbus Day
+date: 2019-09-30 06:45:00 -04:00
 categories:
 - "#2018"
 - "#holidays"
@@ -10,6 +9,11 @@ categories:
 - "#summer"
 - "#ZUMBA"
 - "#SPIN"
+- zumba
+- "#ketodiet"
+- getting healthy
+- lose weight
+- Halloween
 tags:
 - "#2018"
 - "#memeorial day"
@@ -22,8 +26,17 @@ tags:
 - "#FRIDAYNIGHT"
 - "#DANCEPARTY"
 - "#SHAPEITUP"
-event_date: 2019-03-02 00:00:00 -05:00
-event_end_date: 2019-03-02 23:59:00 -05:00
+- "#2019"
+- herbalife
+- zumba
+- fitness
+- "*weightloss"
+- "#keto"
+has_time_and_date: true
+event_date: 2019-09-30 07:00:00 -04:00
+event_end_date: 2019-10-14 23:59:00 -04:00
+class: Zumba
 ---
 
-Due to inclement weather for the safety of our staff and members we are closed this Saturday, March 2,2019
+Shape It Up Fitness will be CLOSED on Monday, Oct. 14th to observe Columbus Day. Re-open Tuesday, Oct. 15th at 630pm.
+
