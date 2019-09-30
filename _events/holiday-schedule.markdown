@@ -1,7 +1,6 @@
 ---
-title: Schedule
+title: New Class
 date: 2018-01-02 00:00:00 -05:00
-published: false
 categories:
 - zumba
 - zumba fitness
@@ -21,13 +20,11 @@ tags:
 - summer
 - beach
 - beachbody
-- '2017'
 - nightout
 - "#Fall"
 - "#holidays"
 - "#pound"
 - "*HOLIDAYS"
-- "#2018"
 - "#Newyear"
 - "#butiyoga"
 - "#yoga"
@@ -35,15 +32,20 @@ tags:
 - "#herbalife"
 - "#shakealogy"
 - "#spin"
+- circuit class
+- "#2019"
+- "#keto"
+- Halloween
+- JW
+- weight watchers
 has_time_and_date: true
-event_date: 2018-01-02 07:00:00 -05:00
-event_end_date: 2018-01-08 23:59:00 -05:00
+event_date: 2019-10-16 07:00:00 -04:00
+event_end_date: 2018-11-14 23:59:00 -05:00
+class: Circuit Conditioning
 ---
 
-****** **Please take note on changes to our Hours & Classes****
+****** ** New Class starting Wednesday, Oct. 16th 4:30pm
+45min Circuit Training with Christina. ****
 
-**During the week of Jan. 2nd thru Jan 4th., we will be OPEN EVENINGS ONLY at 5pm-8pm and only EVENING CLASSES ARE AVAILABLE. WE WILL BE CLOSED DURING THE DAY**
-
-** **NORMAL BUSINESS HOURS WILL RESUME ON MONDAY, JANUARY 8, 2018****
-**
+**Christina will guide you through Circuit training, its a fast-paced class in which you do one exercise for 30 seconds to 5 minutes and then move on to another exercise / station. 
 
