@@ -39,7 +39,7 @@ tags:
 - healthy
 - halloween
 has_time_and_date: true
-event_date: 2019-09-30 06:30:00 -04:00
+event_date: 2019-10-31 06:30:00 -04:00
 event_end_date: 2019-10-31 23:30:00 -04:00
 ---
 
