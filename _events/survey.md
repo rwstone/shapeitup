@@ -1,16 +1,33 @@
 ---
-title: You're among friends!
-date: 2016-05-31 19:23:00 Z
-published: false
-has_time_and_date: false
-event_date: 2016-05-31 10:00:00 Z
-event_end_date: 2016-06-06 22:00:00 Z
-button_link: https://www.surveymonkey.com/r/DCNB738
-button_label: Take Survey
+title: 1st Annual Pumpkin Painting
+date: 2019-10-13 14:00:00 -04:00
+categories:
+- Halloween
+- zumba
+- getting healthy
+- beachbody
+- '2019'
+- arts
+- crafts
+tags:
+- craft
+- Halloween
+- pumpkin painting
+- pumpkin
+- family night
+- nightout
+- sunday
+- keto
+- paleo
+- zumba
+- join the fun
+- "#2019"
+has_time_and_date: true
+event_date: 2019-10-13 14:00:00 -04:00
+event_end_date: 2019-10-13 16:00:00 -04:00
 ---
 
-Help us improve! Share your opinions about Shape It Up.
-
-Want to see new classes or new times? Let us know.
-
-Please take two minutes to complete our survey.
+Naked Foods RI is hosting 
+**1st Annual Family Halloween Pumpkin Painting event on Sunday, Oct 13th at 2pm - 4pm.** Fee: $15pp, that includes a pumpkin, paint, brushes, appetizers, smoothies, and a choice of drink.
+Call to reserve your spot by calling 401.654.5455 during are normal business hours, located at
+611 Waterman Ave East Prov RI
