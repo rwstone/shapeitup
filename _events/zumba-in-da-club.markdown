@@ -21,7 +21,7 @@ tags:
 - fitness
 has_time_and_date: true
 event_date: 2019-10-25 19:00:00 -04:00
-event_end_date: 2019-10-25 21:30:00 -04:00
+event_end_date: 2019-10-26 00:30:00 -04:00
 class: Zumba in da Club
 ---
 
