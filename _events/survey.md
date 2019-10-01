@@ -28,6 +28,6 @@ event_end_date: 2019-10-13 16:00:00 -04:00
 ---
 
 Naked Foods RI is hosting 
-**1st Annual Family Halloween Pumpkin Painting event on Sunday, Oct 13th at 2pm - 4pm.** Fee: $15pp, that includes a pumpkin, paint, brushes, appetizers, smoothies, and a choice of drink.
+**1st Annual Family Halloween Pumpkin Painting event on Sunday, Oct 13th at 2pm - 4pm.** Fee: $15pp, that includes a pumpkin, paint, brushes, appetizers, or smoothie, and a choice of drink.
 Call to reserve your spot by calling 401.654.5455 during are normal business hours, located at
 611 Waterman Ave East Prov RI
