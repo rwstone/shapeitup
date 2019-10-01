@@ -1,6 +1,6 @@
 ---
 title: Zumba in da Club
-date: 2019-10-25 19:00:00 -04:00
+date: 2019-09-30 07:00:00 -04:00
 categories:
 - zumba
 - fridaynight
