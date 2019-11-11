@@ -1,6 +1,6 @@
 ---
 title: New Class
-date: 2018-01-02 00:00:00 -05:00
+date: 2019-11-11 00:00:00 -05:00
 categories:
 - zumba
 - zumba fitness
@@ -39,13 +39,12 @@ tags:
 - JW
 - weight watchers
 has_time_and_date: true
-event_date: 2019-10-16 07:00:00 -04:00
-event_end_date: 2018-11-14 23:59:00 -05:00
+event_date: 2019-11-11 07:00:00 -05:00
+event_end_date: 2018-11-30 23:59:00 -05:00
 class: Circuit Conditioning
 ---
 
-****** ** New Class starting Wednesday, Oct. 16th 4:30pm
-45min Circuit Training with Christina. ****
+****** ** New Class starting Wednesday's at 4:30pm & Saturday's at 9:30am 45min Circuit Training with Christina. ****
 
-**Christina will guide you through Circuit training, its a fast-paced class in which you do one exercise for 30 seconds to 5 minutes and then move on to another exercise / station. 
+**Christina & Felix  will guide you through Circuit training, its a fast-paced class in which you do one exercise for 30 seconds to 5 minutes and then move on to another exercise / station. 
 
