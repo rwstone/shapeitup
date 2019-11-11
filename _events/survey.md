@@ -31,10 +31,10 @@ event_end_date: 2019-12-13 21:00:00 -05:00
 
 Naked Foods RI is hosting 
 **1st Annual Paint & Vino event on Friday, Dec 13th 
-Fee: $35pp, Paint & Vino
+Fee: $35pp, includes Paint, (1) glass Vino, and chesse & crackers.
 
 Details:
-When you reserve your seat at this session you will enjoy two complimentary beverages (wine,or smoothie), a fun atmosphere, and create a one-of-a-kind masterpiece!  
+When you reserve your seat at this session you will enjoy one complimentary beverages (wine, soft drink), a fun atmosphere, and create a one-of-a-kind masterpiece!  
 
 Please arrive about 15-20 minutes before the class is scheduled to start (doors will open 30 minutes prior). This will allow enough time to check in, find a seat, and order your complimentary beverage of choice. (You must be 21+ and have valid ID to be served alcohol) Class will begin promptly at 7:30 PM.
 
