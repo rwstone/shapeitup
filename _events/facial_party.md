@@ -1,6 +1,6 @@
 ---
 title: Gift Cards!
-date: 2019-11-11 03:23:00 -05:00
+date: 2019-12-01 03:23:00 -05:00
 categories:
 - "#christmas"
 - "#newyearseve"
@@ -31,7 +31,7 @@ tags:
 - sale
 - keto
 has_time_and_date: true
-event_date: 2019-11-11 05:55:00 -05:00
+event_date: 2019-12-01 05:55:00 -05:00
 event_end_date: 2020-01-31 00:00:00 -05:00
 ---
 
