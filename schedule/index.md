@@ -14,12 +14,6 @@ sessions:
   start_time: 7:00p
   end_time: 8:00p
   length: 2
-- class: Circuit Conditioning
-  instructor: Christina
-  day: Tuesday
-  start_time: 4:30p
-  end_time: 5:15p
-  length: 2
 - class: Zumba
   instructor: Irene
   day: Tuesday
@@ -31,6 +25,12 @@ sessions:
   day: Tuesday
   start_time: 7:30p
   end_time: 8:30p
+  length: 2
+- class: Circuit Conditioning
+  instructor: Christina
+  day: Wednesday
+  start_time: 4:30p
+  end_time: 5:15p
   length: 2
 - class: Zumba
   instructor: Felix
