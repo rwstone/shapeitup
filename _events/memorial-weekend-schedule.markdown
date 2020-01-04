@@ -1,6 +1,7 @@
 ---
 title: New Years Day Class
 date: 2019-12-01 06:45:00 -05:00
+published: false
 categories:
 - "#2018"
 - "#holidays"
