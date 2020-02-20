@@ -1,7 +1,6 @@
 ---
 title: Zumba in da Club
-date: 2019-11-15 07:00:00 -05:00
-published: false
+date: 2019-02-21 07:00:00 -05:00
 categories:
 - zumba
 - fridaynight
@@ -21,13 +20,13 @@ tags:
 - Halloween
 - fitness
 has_time_and_date: true
-event_date: 2019-11-15 19:00:00 -05:00
-event_end_date: 2019-11-15 21:00:00 -05:00
+event_date: 2020-03-20 19:00:00 -04:00
+event_end_date: 2020-03-20 21:00:00 -04:00
 class: Zumba in da Club
 ---
 
 **Join us for Zumba in da Club, with Felix on 
-Friday, November 15th at 7:30pm - 9:00pm, theme: Superhero, custom optional**
+Friday, March, 20 at 7:00pm - 9:00pm
 
 
 Doors open at 7:00pm, and dancing starts at 7:30pm-9:00pm, 
