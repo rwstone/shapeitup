@@ -1,5 +1,5 @@
 ---
-title: Zumba in da Club
+title: Zumba in da Club Fundraiser
 date: 2019-02-21 07:00:00 -05:00
 categories:
 - zumba
@@ -27,6 +27,8 @@ class: Zumba in da Club
 
 **Join us for Zumba in da Club, with Felix on 
 Friday, March, 20 at 7:00pm - 9:00pm
+
+**Shape It Up Fitness is sponsoring a Student to go abroad to Thailand to volunteer at the Elephant Sanctuary. All proceeds will be donated. There will be raffles, and door prizes. **
 
 
 Doors open at 7:00pm, and dancing starts at 7:30pm-9:00pm, 
