@@ -1,6 +1,6 @@
 ---
 title: New Class
-date: 2019-11-11 00:00:00 -05:00
+date: 2020-02-25 00:00:00 -05:00
 categories:
 - zumba
 - zumba fitness
