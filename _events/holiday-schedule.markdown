@@ -1,7 +1,6 @@
 ---
 title: New Class
 date: 2019-11-11 00:00:00 -05:00
-published: false
 categories:
 - zumba
 - zumba fitness
@@ -40,12 +39,16 @@ tags:
 - JW
 - weight watchers
 has_time_and_date: true
-event_date: 2019-11-11 07:00:00 -05:00
-event_end_date: 2018-11-30 23:59:00 -05:00
+event_date: 2020-03-10 07:00:00 -04:00
+event_end_date: 2020-05-22 23:59:00 -04:00
 class: Circuit Conditioning
 ---
 
-****** ** New Class starting Wednesday's at 4:30pm & Saturday's at 9:30am 45min Circuit Training with Christina. ****
+12-WEEK BODY TRANSFORMATION
+Starts March 10, 2020
 
-**Christina & Felix  will guide you through Circuit training, its a fast-paced class in which you do one exercise for 30 seconds to 5 minutes and then move on to another exercise / station. 
+We're looking for 12 Participants to join our 
+12 Transformation Challenge. Participants will meet 2x - 3x a week to workout on Tues., Thurs., at 5:15pm-5:55pm. Saturdays at 9:30am-10:15am.  Before and after pictures and weekly weigh-ins as well. This 12 week transformation is a total fee: $60
+
+Together will help you with a healthier lifestyle and fitness goal that's right for you and take the first step towards a healthier future! call 401.270.2929 or email us at shapeitupfitnessri@gmail.com
 
