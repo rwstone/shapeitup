@@ -44,17 +44,14 @@ event_end_date: 2020-05-22 23:59:00 -04:00
 class: Circuit Conditioning
 ---
 
-12 Week Body Transformation 
-starts March 7, 2020 Fee: $60
-Tuesday's & Thursday's at 5:15pm - 5:55pm
+**12-WEEK BODY TRANSFORMATION
+Sign-up Starts now thru March 7th**
 
-We're looking for 12 Participants to join Shape It Up Fitness  12 Week Transformation Challenge.
- 
-Participants most meet 2x - 3x a week for a group workout session for 45-55mins. 
+***Classes begin Tuesday, March 10 @ 5:15pm - 6:00pm **
+Fee: $60 for 12 week group session**
 
+Participants most meet 2x - 3x a week for a group workout session for 45-55mins.
 We do not care what shape you are in, only that you try at your own pace. This program will hold you accountable with weekly weigh in, help you with healthier meal options.
-
-In 12 Weeks You will increase your energy, tone up or build muscle. We will program a healthier lifestyle and fitness goal that's right for you and take the first step towards a healthier future! 
-
+In 12 Weeks You will increase your energy, tone up or build muscle. We will program a healthier lifestyle and fitness goal that's right for you and take the first step towards a healthier future!
 For more details call 401.270.2929 during our normal business hours or email us at shapeitupfitnessri@gmail.com
 
