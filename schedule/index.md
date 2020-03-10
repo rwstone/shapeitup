@@ -14,6 +14,12 @@ sessions:
   start_time: 7:00p
   end_time: 8:00p
   length: 2
+- class: 12 week Circuit Conditioning
+  instructor: Mary
+  day: Tuesday
+  start_time: 5:15p
+  end_time: 5:55pm
+  length: 1
 - class: Zumba
   instructor: Irene
   day: Tuesday
@@ -38,6 +44,12 @@ sessions:
   start_time: 9:00a
   end_time: 10:00a
   length: 3
+- class: 12 week Circuit Conditioning
+  instructor: Mary
+  day: Thursday
+  start_time: 5:15p
+  end_time: 5:55p
+  length: 1
 - class: Zumba
   instructor: Donna
   day: Thursday
