@@ -1,6 +1,7 @@
 ---
 title: Zumba in da Club Fundraiser
 date: 2019-02-21 07:00:00 -05:00
+published: false
 categories:
 - zumba
 - fridaynight
