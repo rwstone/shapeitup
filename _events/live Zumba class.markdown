@@ -19,7 +19,7 @@ event_end_date: 2020-03-24 20:00:00 -04:00
 class: Zumba
 ---
 
-Felix Santana is inviting you to a scheduled Zoom meeting.
+Felix Santana is inviting you to a scheduled Zoom Live Zumba Class.
 
 **Topic: Live Zumba Class with Felix
 Time: Mar 24, 2020 07:00 PM Eastern Time (US and Canada)
