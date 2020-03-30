@@ -13,6 +13,9 @@ tags:
 - Dance party
 - workout
 - corvid19
+- summer
+- zumba
+- group fitness
 has_time_and_date: true
 event_date: 2020-03-31 19:00:00 -04:00
 event_end_date: 2020-03-31 20:00:00 -04:00
