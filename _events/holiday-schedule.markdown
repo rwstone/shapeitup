@@ -46,7 +46,7 @@ tags:
 - COVID19
 has_time_and_date: true
 event_date: 2020-03-16 17:15:00 -04:00
-event_end_date: 2020-05-09 23:59:00 -04:00
+event_end_date: 2020-05-30 23:59:00 -04:00
 class: Zumba
 ---
 
