@@ -1,5 +1,5 @@
 ---
-title: ALL Classes Suspended
+title: TEMPORARY CLOSED
 date: 2020-05-08 00:00:00 -04:00
 categories:
 - zumba
@@ -50,8 +50,6 @@ event_end_date: 2020-07-31 23:59:00 -04:00
 class: Zumba
 ---
 
-We have made the unbelievably hard choice as the concerns over COVID-19 increase to **Cancel ALL GROUP FITNESS CLASSES Temporarily starting Tuesday, March 17th.** The safety of our staff, our business and especially you, our members, is what’s most important right now. 
+WE HOPE ALL OF YOU ARE STAYING SAFE AND HEALTHY.  AS WE BEGIN TO THINK ABOUT RE-OPENING OUR FITNESS STUDIO FOR PHASE 2 OVER THE NEXT FEW WEEKS AND MONTHS, WE WANT YOU TO KNOW THAT WE WILL BE HARD AT WORK FINALIZING OUR RE-OPENING PLANS.  THE NUMBER ONE PRIORITY FOR US AS WE THINK ABOUT RE-OPENING IS THE HEALTH AND SAFETY OF OUR MEMBERS AND OUR STAFF. ALONG WITH THE STATE AND CDC COMPLIANCE. 
+AS SHAPE IT UP FITNESS STUDIO IS ABLE TO RE-OPEN SAFELY, WE WILL LET ALL OF OUR MEMBERS KNOW VIA EMAIL AND SOCIAL MEDIA.  UNTIL THEN, PLEASE JOIN US FOR OUR FREE LIVE WORKOUTS AND POST YOUR COMMENTS ON OUR SOCIAL MEDIA PAGES. CHECK YOUR EMAIL FOR UPDATES ON CLASSES.
 
-We take this step to ensure that our employees, and members have a secure place to return when possible. We will extend any memberships as well.
-
-This is a time for us to be good humans and give support to our families and neighbors. When normalcy returns our team of familiar faces will welcome you in with open arms, ready to workout and celebrate the return of community!
