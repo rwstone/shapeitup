@@ -1,6 +1,7 @@
 ---
 title: Live Zumba Class
 date: 2020-05-08 03:36:00 -04:00
+published: false
 categories:
 - zumba
 - fitness
