@@ -45,11 +45,23 @@ tags:
 - "#3"
 - COVID19
 has_time_and_date: true
-event_date: 2020-05-23 05:15:00 -04:00
-event_end_date: 2020-08-31 23:59:00 -04:00
+event_date: 2020-05-27 05:15:00 -04:00
+event_end_date: 2020-09-30 23:59:00 -04:00
 class: Zumba
 ---
 
-WE HOPE ALL OF YOU ARE STAYING SAFE AND HEALTHY.  AS WE BEGIN TO THINK ABOUT RE-OPENING OUR FITNESS STUDIO FOR PHASE 2 OVER THE NEXT FEW WEEKS AND MONTHS, WE WANT YOU TO KNOW THAT WE WILL BE HARD AT WORK FINALIZING OUR RE-OPENING PLANS.  THE NUMBER ONE PRIORITY FOR US AS WE THINK ABOUT RE-OPENING IS THE HEALTH AND SAFETY OF OUR MEMBERS AND OUR STAFF. ALONG WITH THE STATE AND CDC COMPLIANCE. 
-AS SHAPE IT UP FITNESS STUDIO IS ABLE TO RE-OPEN SAFELY, WE WILL LET ALL OF OUR MEMBERS KNOW VIA EMAIL AND SOCIAL MEDIA.  UNTIL THEN, PLEASE JOIN US FOR OUR FREE LIVE WORKOUTS AND POST YOUR COMMENTS ON OUR SOCIAL MEDIA PAGES. CHECK YOUR EMAIL FOR UPDATES ON CLASSES.
+5/27/20
 
+**NEW R.I . GUIDELINES FOR SHAPE IT UP FITNESS WILL NOT ALLOW US TO OPERATE IN A FISCALLY RESPONSIBLE WAY:**
+
+Rhode Island New guidelines:
+Students need to be 6 feet apart from each other and wearing face mask while working out. Students not wearing masks need to be 14 feet apart from each other. Our Space is very limited with these new guidelines. Exercising with a mask is detrimental to your health. There is science to back this up.
+
+**Unfortunately at this time Shape It Up Fitness Can NOT REOPEN-UNDER THESE UNREASONABLE GUIDELINES .
+**
+We will be looking into alternative solutions. In the mean time
+Please write the GOVERNOR, as we are as well.
+
+We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
+
+Mary & Felix Santana
