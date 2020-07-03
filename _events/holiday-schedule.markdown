@@ -1,6 +1,6 @@
 ---
 title: TEMPORARY CLOSED
-date: 2020-05-08 00:00:00 -04:00
+date: 2020-07-03 00:00:00 -04:00
 categories:
 - zumba
 - zumba fitness
@@ -44,13 +44,14 @@ tags:
 - "#SUMMER"
 - "#3"
 - COVID19
+- summer2020
 has_time_and_date: true
-event_date: 2020-05-27 05:15:00 -04:00
+event_date: 2020-07-03 05:15:00 -04:00
 event_end_date: 2020-09-30 23:59:00 -04:00
 class: Zumba
 ---
 
-6/23/20
+7/3/20
 
 **NEW R.I . GUIDELINES FOR SHAPE IT UP FITNESS WILL NOT ALLOW US TO OPERATE IN A FISCALLY RESPONSIBLE WAY:**
 
@@ -59,8 +60,6 @@ Students need to be 6 feet apart from each other and wearing face mask while wor
 
 **Unfortunately at this time Shape It Up Fitness Can NOT REOPEN-UNDER THESE UNREASONABLE GUIDELINES .
 **
-We will be looking into alternative solutions. In the mean time
-Please write the GOVERNOR, as we are as well.
 
 We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
 
