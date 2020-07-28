@@ -1,6 +1,6 @@
 ---
 title: TEMPORARY CLOSED
-date: 2020-07-03 00:00:00 -04:00
+date: 2020-07-28 00:00:00 -04:00
 categories:
 - zumba
 - zumba fitness
@@ -46,7 +46,7 @@ tags:
 - COVID19
 - summer2020
 has_time_and_date: true
-event_date: 2020-07-03 05:15:00 -04:00
+event_date: 2020-07-28 05:15:00 -04:00
 event_end_date: 2020-09-30 23:59:00 -04:00
 class: Zumba
 ---
