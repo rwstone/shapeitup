@@ -46,8 +46,8 @@ tags:
 - COVID19
 - summer2020
 has_time_and_date: true
-event_date: 2020-07-28 05:15:00 -04:00
-event_end_date: 2020-09-30 23:59:00 -04:00
+event_date: 2020-08-17 05:15:00 -04:00
+event_end_date: 2021-01-04 23:59:00 -05:00
 class: Zumba
 ---
 
