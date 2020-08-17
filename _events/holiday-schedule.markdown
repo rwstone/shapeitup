@@ -51,14 +51,14 @@ event_end_date: 2020-09-30 23:59:00 -04:00
 class: Zumba
 ---
 
-7/28/20
+8/17/20
 
-**NEW R.I . GUIDELINES FOR SHAPE IT UP FITNESS WILL NOT ALLOW US TO OPERATE IN A FISCALLY RESPONSIBLE WAY:**
+** PHASE 3 GUIDELINES FOR SHAPE IT UP FITNESS WILL NOT ALLOW US TO OPERATE IN A FISCALLY RESPONSIBLE WAY:**
 
-Rhode Island New guidelines:
-Students need to be 6 feet apart from each other and wearing face mask while working out. Students not wearing masks need to be 14 feet apart from each other. Our Space is very limited with these new guidelines. Exercising with a mask is detrimental to your health. There is science to back this up.
+RE-OPEN Rhode Island guidelines:
+Students need to be 6 feet apart from each other and wearing face mask while working out. Students not wearing masks need to be 14 feet apart from each other. Our Space is very limited with these new guidelines. 
 
-**Unfortunately at this time Shape It Up Fitness Can NOT REOPEN-UNDER THESE UNREASONABLE GUIDELINES .
+**Unfortunately at this time Shape It Up Fitness Can NOT REOPEN-UNDER THESE GUIDELINES .
 **
 
 We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
