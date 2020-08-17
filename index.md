@@ -1,6 +1,6 @@
 ---
 title: Home
-date: 2019-08-27 07:36:00 -04:00
+date: 2020-08-17 07:36:00 -04:00
 banner:
 - image: "/uploads/29425936_616573272018595_1980543470441625491_n.jpg"
   title: Form
@@ -8,13 +8,6 @@ banner:
   title: Fitness
 - image: "/uploads/30689184_1519169178193264_6746825148734636032_n.jpg"
   title: Fun
-nutrition_title: Healthy Meals
-nutrition_description: "\nVisit Naked Foods RI, INC., our \"New\" sister Club--right
-  next door.  \n**We are making it our mission to help you eat healthy without the
-  hassle that comes with planning, shopping, cooking and clean up. Each meal in our
-  Weight Loss Bundle is an average of 350-450 calories and is individually packaged
-  in a ready-to-eat microwavable, BPA-free container.\n* We also offer protein muffins,
-  protein bites, and protein puddings.***"
 passes:
 - name: Drop In
   price: "$10"
