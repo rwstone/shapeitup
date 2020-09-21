@@ -12,7 +12,7 @@ passes:
 - name: Drop In
   price: "$10"
   is_sale: false
-- name: Monthly Unlimited ( ALL CLASSES)
+- name: 10 Pass Class (expires in 30 days)
   price: "$30"
   is_sale: false
 title_seo: Shape It Up Fitness | East Providence, RI
