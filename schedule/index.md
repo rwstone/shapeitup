@@ -2,91 +2,55 @@
 title: Group Fitness Schedule
 date: 2019-12-01 08:01:00 -05:00
 sessions:
-- class: Yoga
-  instructor: Debbie
-  day: Monday
-  start_time: 9:00a
-  end_time: 10:00a
-  length: 3
 - class: Zumba
   instructor: Felix
   day: Monday
   start_time: 7:00p
-  end_time: 8:00p
-  length: 2
-- class: 12 week Circuit Conditioning
-  instructor: Mary
-  day: Tuesday
-  start_time: 5:15p
-  end_time: 5:55pm
-  length: 1
-- class: Zumba
-  instructor: Irene
-  day: Tuesday
-  start_time: 6:30p
-  end_time: 7:20p
+  end_time: 7:55p
   length: 2
 - class: Zumba
   instructor: Sonia
   day: Tuesday
-  start_time: 7:30p
-  end_time: 8:30p
+  start_time: 7:00p
+  end_time: 7:55p
   length: 2
 - class: Zumba
   instructor: Felix
   day: Wednesday
   start_time: 7:00p
-  end_time: 8:00p
+  end_time: 7:55p
   length: 2
-- class: Barre Fusion
-  instructor: Debbie
-  day: Thursday
-  start_time: 9:00a
-  end_time: 10:00a
-  length: 3
-- class: 12 week Circuit Conditioning
-  instructor: Mary
-  day: Thursday
-  start_time: 5:15p
-  end_time: 5:55p
-  length: 1
 - class: Zumba
   instructor: Donna
   day: Thursday
-  start_time: 6:30p
-  end_time: 7:25p
-  length: 2
-- class: Zumba
-  instructor: Sonia
-  day: Thursday
-  start_time: 7:30p
-  end_time: 8:30p
+  start_time: 7:00p
+  end_time: 7:55p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
   start_time: 8:00a
-  end_time: 9:00a
-  length: 2
-- class: Circuit Conditioning
-  instructor: Felix
-  day: Saturday
-  start_time: 9:30a
-  end_time: 10:15a
+  end_time: 8:55a
   length: 2
 - class: Zumba
   instructor: Nellie
   day: Saturday
-  start_time: 10:30a
-  end_time: 11:30a
+  start_time: 11:00a
+  end_time: 11:55a
   length: 2
+- class: 
+  instructor: 
+  day: 
+  start_time: 
+  end_time: 
+  length: 
 days:
+- Saturday
 - Monday
 - Tuesday
 - Wednesday
 - Thursday
 - Friday
-- Saturday
 - Sunday
 - 
 time_slots_morning:
