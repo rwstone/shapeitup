@@ -88,8 +88,7 @@ layout: schedule
 ---
 
 This is our regular weekly schedule.
- ****We are closed on most Major Holidays.**** 
-Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions to [MindBody](https://clients.mindbodyonline.com/classic/home?studioid=112719)
-**GROUPON CANNOT Be used for ZUMBA in da Club**
+ ****We are closed on ALL Major Holidays.**** 
+Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions 
 **CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
-**PRE-PAID CLASSES EXPIRE 60 DAYS FROM PURCHASE**
+**PRE-PAID CLASSES EXPIRE 30 DAYS FROM PURCHASE**
