@@ -55,7 +55,9 @@ class: Zumba
 
 10/20/20
 
-**Unfortunately at this time Shape It Up Fitness Can NOT REOPEN-UNDER THESE GUIDELINES . Although we are working on Live Stream Classes through Zoom as well as in person classes at the same time. We are hoping to have that up and running by Mid-November.
+**Unfortunately at this time Shape It Up Fitness Can NOT REOPEN-UNDER RI PHASE 3 GUIDELINES. 
+
+Although we are working on Live Stream Classes through Zoom as well as in person classes at the same time. We are hoping to have that up and running by Mid-November 2020.
 **
 
 We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
