@@ -89,6 +89,7 @@ layout: schedule
 
 This is our regular weekly schedule.
  ****We are closed on ALL Major Holidays.**** 
+        expect THANKSGIVING ZUMBA AT 9AM 
 Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions 
 **CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
 **PRE-PAID CLASSES EXPIRE 30 DAYS FROM PURCHASE**
