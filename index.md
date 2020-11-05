@@ -15,10 +15,10 @@ passes:
 - name: 10 Pass Class (expires in 30 days)
   price: "$30"
   is_sale: false
-- name: LIVESTREAM CLASSES UNLIMITED
+- name: LIVESTREAM CLASSES UNLIMITED MONTHLY
   price: "$30"
   is_sale: true
-- name: 10 IN PERSON CLASSES & UNLIMITED LIVESTREAM
+- name: 10 IN PERSON CLASSES & UNLIMITED LIVESTREAM EXPIRES 30 DAYS
   price: "$50"
   is_sale: true
 title_seo: Shape It Up Fitness | East Providence, RI
