@@ -92,3 +92,4 @@ This is our regular weekly schedule.
 Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions 
 **CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
 **PRE-PAID CLASSES EXPIRE 30 DAYS FROM PURCHASE**
+**NO REFUNDS OR EXCHANGES**
