@@ -25,4 +25,4 @@ layout: home
 
 There’s a class for everyone, come find yours. Inspire your mind and transform your body with moving classes and workouts taught by instructors devoted to making it the very best hour of your day.
 
-Led by amazing instructors, our group fitness classes offer community, energy and motivation to create a trans-formative experience and deliver fitness results. Enjoy your favorite workouts, from cardio and dance (like Zumba!) to strength-training, conditioning, Barre Fusion, Boot Camp and Yoga, all conveniently located at your local fitness studio and expertly designed to keep you moving toward your best self. 
+Led by amazing instructors, our group fitness classes offer community, energy and motivation to create a trans-formative experience and deliver fitness results. Enjoy your favorite workouts, from cardio and dance (like Zumba!) to strength-training, conditioning, Barre Fusion, and Yoga, all conveniently located at your local fitness studio and expertly designed to keep you moving toward your best self. 
