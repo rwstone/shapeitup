@@ -1,6 +1,6 @@
 ---
 title: TEMPORARY CLOSED
-date: 2020-07-28 00:00:00 -04:00
+date: 2020-10-19 00:00:00 -04:00
 categories:
 - zumba
 - zumba fitness
