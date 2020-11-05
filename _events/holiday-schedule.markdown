@@ -48,7 +48,7 @@ tags:
 - backtoschool2020
 - Fall2020
 has_time_and_date: true
-event_date: 2020-09-21 05:15:00 -04:00
+event_date: 2020-10-26 05:15:00 -04:00
 event_end_date: 2021-01-04 23:59:00 -05:00
 class: Zumba
 ---
