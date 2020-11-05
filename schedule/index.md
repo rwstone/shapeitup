@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2019-12-01 08:01:00 -05:00
+date: 2020-11-05 08:01:00 -05:00
 sessions:
 - class: Zumba
   instructor: Felix
