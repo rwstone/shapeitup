@@ -32,18 +32,18 @@ sessions:
   start_time: 8:00a
   end_time: 8:55a
   length: 2
+- class: Zumba Toning
+  instructor: Christine
+  day: Saturday
+  start_time: 9:30a
+  end_time: 10:15a
+  length: 2
 - class: Zumba
   instructor: Nellie
   day: Saturday
   start_time: 11:00a
   end_time: 11:55a
   length: 2
-- class: 
-  instructor: 
-  day: 
-  start_time: 
-  end_time: 
-  length: 
 days:
 - Saturday
 - Monday
