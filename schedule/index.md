@@ -1,6 +1,7 @@
 ---
 title: Group Fitness Schedule
 date: 2020-11-05 08:01:00 -05:00
+published: false
 days:
 - Saturday
 - Monday
