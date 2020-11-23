@@ -1,5 +1,5 @@
 ---
-title: TEMPORARY CLOSED
+title: Updated Closure
 date: 2020-11-23 00:00:00 -05:00
 categories:
 - zumba
