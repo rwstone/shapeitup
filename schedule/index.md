@@ -1,31 +1,6 @@
 ---
 title: Group Fitness Schedule
 date: 2020-11-05 08:01:00 -05:00
-sessions:
-- class: Zumba
-  instructor: Felix
-  day: Monday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
-- class: Zumba
-  instructor: Sonia
-  day: Tuesday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
-- class: Zumba
-  instructor: Felix
-  day: Wednesday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
-- class: Zumba
-  instructor: Donna
-  day: Thursday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
 days:
 - Saturday
 - Monday
