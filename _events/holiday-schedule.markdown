@@ -57,7 +57,7 @@ class: Zumba
 
 **Unfortunately, the State of Rhode Island is requring that all gyms, and fitness centers CLOSE (once again), from 11/30 - 12/13. The State of Rhode Island is calliing it a " PAUSE PHASE", with no guarantees that we would be able to reopen by Dec. 13, 2020.
 but, we are offering classes via zoom.com 
-starting November 30, 2020
+starting November 30, 2020. More information to come.
 
 We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
 
