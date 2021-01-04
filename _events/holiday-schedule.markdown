@@ -1,6 +1,6 @@
 ---
-title: Updated Closure
-date: 2020-11-23 00:00:00 -05:00
+title: Temporary Closure
+date: 2021-01-04 00:00:00 -05:00
 categories:
 - zumba
 - zumba fitness
@@ -55,7 +55,7 @@ class: Zumba
 
 1/4/2021
 
-
+ Department Of Health Guidelines for Shape It Up Fitness are still unable unreasonable to hold classes in person with these guidelines. As you may know our studio space is small and not feasible for Shape It Up Fitness to run Group Fitness classes unfortuately at this time.
 
 We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
 
