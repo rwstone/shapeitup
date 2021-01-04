@@ -48,16 +48,14 @@ tags:
 - backtoschool2020
 - Fall2020
 has_time_and_date: true
-event_date: 2020-11-23 05:15:00 -05:00
-event_end_date: 2021-01-04 23:59:00 -05:00
+event_date: 2021-01-04 05:15:00 -05:00
+event_end_date: 2021-03-31 23:59:00 -04:00
 class: Zumba
 ---
 
-11/23/2020
+1/4/2021
 
-**Unfortunately, the State of Rhode Island is requring that all gyms, and fitness centers CLOSE (once again), from 11/30 - 12/13. The State of Rhode Island is calliing it a " PAUSE PHASE", with no guarantees that we would be able to reopen by Dec. 13, 2020.
-but, we are offering classes via zoom.com 
-starting November 30, 2020. More information to come.
+
 
 We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
 
