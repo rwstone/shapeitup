@@ -55,7 +55,7 @@ class: Zumba
 
 1/4/2021
 
- Department Of Health Guidelines for Shape It Up Fitness are still unreasonable to hold classes in person with these guidelines. As you may know our studio space is small and not feasible for Shape It Up Fitness to run Group Fitness classes unfortuately at this time.
+ Department Of Health Guidelines for Shape It Up Fitness are still unreasonable to hold classes in person with these guidelines. As you may know our studio space is small and not feasible for Shape It Up Fitness to run Group Fitness classes, unfortuately at this time.
 
 We appreciate your patients and sticking with us through this difficult time! We are ALL IN THIS TOGETHER.
 
