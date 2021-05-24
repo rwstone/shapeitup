@@ -1,7 +1,6 @@
 ---
 title: Group Fitness Schedule
 date: 2020-11-05 08:01:00 -05:00
-published: false
 days:
 - Saturday
 - Monday
@@ -45,7 +44,7 @@ description_seo: View our regular calendar of group exercise classes.
 layout: schedule
 ---
 
-This is our regular weekly schedule.
+Class schedule will start June 1, 2021.
  ****We are closed on ALL Major Holidays.**** 
         expect THANKSGIVING ZUMBA AT 9AM 
 Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions 
