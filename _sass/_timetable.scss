@@ -32,7 +32,7 @@
 	border-right: 1px solid #151515;
 }
 
-.timetable .event a {
+.timetable .event a, .timetable .event .like-a-link {
 	display: block;
 	color: #FFF;
 	font-weight: 700;
@@ -42,7 +42,7 @@
     margin-top: 10px;
 }
 
-.timetable .event a:first-of-type {
+.timetable .event a:first-of-type, .timetable .event .like-a-link:first-of-type {
     border-top: none;
     margin-top: 0px;
     padding-top: 0px;

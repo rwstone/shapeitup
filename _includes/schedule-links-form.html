@@ -1,8 +1,6 @@
 {% assign class = site.classes | where: "title",include.class_name | first %}
-	
-<span class="like-a-link">
-	{{ include.class_name | escape }}
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeIN4fZzHfJtDcU2ngWqZ_ih94QtxD1LVzeUzzINTqS2PA__w/viewform?usp=pp_url&entry.861130959=DayOfWeek">    {{ include.class_name | escape }}
     {% if include.class_instructor and include.class_instructor != blank %}
         with {{ include.class_instructor | escape }}
     {% endif %}
-</span>
+Sign Up</a>

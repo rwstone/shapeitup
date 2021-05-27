@@ -43,6 +43,7 @@
                         <div class="main_content_text">
                             {{ event.content }}
                         </div>
+						{% comment %}
                         {% if event.button_link %}
                             <div class="action_area">
                                 {% comment %}Add the date to the MindBody link, even though it's not always needed/appropriate. MindBody will ignore the date if it doesn't make sense.{% endcomment %}
@@ -53,6 +54,7 @@
                                 {% endif %}
                             </div>
                         {% endif %}
+						{% endcomment %}
                     </div>
                 {% endfor %}
             </div>
