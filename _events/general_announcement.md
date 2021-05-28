@@ -1,8 +1,8 @@
 ---
 title: Welcome Back!
-date: 2021-05-24 00:00:00 -05:00
+date: 2021-05-24 01:00:00 -04:00
 has_time_and_date: false
-event_date: 2021-06-01 05:15:00 -05:00
+event_date: 2021-06-01 06:15:00 -04:00
 ---
 
 We are pleased to announce the reopening of Shape It Up Fitness!  
