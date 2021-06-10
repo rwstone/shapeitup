@@ -17,8 +17,8 @@ layout: default
             </tr>
         </thead>
         <tbody>
-            {% include schedule-table.html time_slots=page.time_slots_morning days=page.days sessions=page.sessions %}
-            {% include schedule-table.html time_slots=page.time_slots_evening days=page.days sessions=page.sessions %}
+            {% include schedule-table.html time_slots=page.time_slots_morning days=page.days sessions=page.sessions allow_online_signups=page.allow_online_signups %}
+            {% include schedule-table.html time_slots=page.time_slots_evening days=page.days sessions=page.sessions allow_online_signups=page.allow_online_signups %}
         </tbody>
     </table><!-- closes timetable table -->
     
@@ -27,7 +27,8 @@ layout: default
 
             <div class="day-entry clearfix">
                 <h3 class="box_header{% if forloop.first == false %} page_margin_top{% endif %}">{{ day | escape }}</h3>
-                <ul class="items_list dark opening_hours clearfix">
+                {% comment %}<ul class="items_list dark opening_hours clearfix">{% endcomment %}
+					<ul class="timetable_list">
             
                     {% comment %} Use brute force to cycle through the class times in order. It would take a custom sort routine to order the classes correctly, since the start times are stored as strings not times. {% endcomment %} 
                     
@@ -35,16 +36,10 @@ layout: default
                         {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time | sort:"class" %} {% comment %} 20180410: Added sort. {% endcomment %} 
                     
                         {% for session in filtered_sessions %}
-                            <li class="items_list_item icon_clock clearfix">
-                                {% comment %}
-                                    20180113: Updated schedule links to mindbody.
-                                    Original code:
-                                        <a href="/fitness#gallery-details-{{ session.class | slugify }}">
-                                            {{ session.class | escape }} with {{ session.instructor | escape }}
-                                        </a>
-                                {% endcomment %}
-                                {% include schedule-links.html class_name=session.class class_instructor=session.instructor %}
-                                <div class="value">
+                            {% comment %}<li class="items_list_item icon_clock clearfix items_list_item_new">{% endcomment %}
+                            <li class="timetable_list_item">
+								{% include schedule-links.html class=session.class class_instructor=session.instructor  day=day start_time=session.start_time allow_online_signups=page.allow_online_signups %}
+                                <div class="timetable_time">
                                     {{ session.start_time | escape }} - {{ session.end_time | escape }}
                                 </div>
                             </li>
@@ -56,16 +51,9 @@ layout: default
                         {% assign filtered_sessions = page.sessions | where:"day",day | where:"start_time",time | sort:"class" %} {% comment %} 20180410: Added sort. {% endcomment %} 
                     
                         {% for session in filtered_sessions %}
-                            <li class="items_list_item icon_clock clearfix">
-                                {% comment %}
-                                    20180113: Updated schedule links to mindbody.
-                                    Original code:
-                                        <a href="/fitness#gallery-details-{{ session.class | slugify }}">
-                                            {{ session.class | escape }} with {{ session.instructor | escape }}
-                                        </a>
-                                {% endcomment %}
-                                {% include schedule-links.html class_name=session.class class_instructor=session.instructor %}
-                                <div class="value">
+                            <li class="timetable_list_item">
+								{% include schedule-links.html class=session.class class_instructor=session.instructor  day=day start_time=session.start_time allow_online_signups=page.allow_online_signups %}
+                                <div class="timetable_time">
                                     {{ session.start_time | escape }} - {{ session.end_time | escape }}
                                 </div>
                             </li>

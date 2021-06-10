@@ -42,7 +42,8 @@
     margin-top: 10px;
 }
 
-.timetable .event a:first-of-type, .timetable .event .like-a-link:first-of-type {
+//.timetable .event a:first-of-type, .timetable .event .like-a-link:first-of-type {
+.timetable .event .like-a-link:first-of-type {
     border-top: none;
     margin-top: 0px;
     padding-top: 0px;
@@ -66,6 +67,52 @@ table.timetable {
         text-transform: uppercase;
     }
 }
+
+/* NEW */
+
+
+/* --- items list --- */
+
+.timetable_list {
+    width: 100%;
+    margin-top: 12px;
+    padding-bottom: 1rem;
+    line-height: 20px;
+    a, span {
+//        padding-right: 0.5rem;
+        color: #C5C5C5; 
+    }
+	.timetable_label {
+		flex: 0 0 auto;
+        padding-right: 0.5rem;
+	}
+	.timetable_signup {
+		flex: 0 0 auto;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+		img {
+			height: 20px;
+		}
+	}
+    .timetable_time {
+		flex: 1 0 auto;
+		text-align: right;
+        color: #C5C5C5; 
+    }
+    &.margin_top {
+        margin-top: 8px;
+    }
+    li.timetable_list_item {
+		display: flex;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 16px 0 6px; 
+        border-bottom: 1px solid #eee;
+        border-color: #353535;
+    }
+}
+/* ENDNEW */
+
 
 @media screen and (min-width:768px)
 {

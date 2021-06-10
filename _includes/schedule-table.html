@@ -69,9 +69,10 @@ Classes can span multiple time blocks within the calendar. For example, a 1-hour
                                 <a href="/fitness#gallery-details-{{ current_session.class | slugify }}">{{ current_session.class | escape }}</a>
                         {% endcomment %}
                         {% for current_session in filtered_sessions %}
-                            {% include schedule-links.html class_name=current_session.class %}
+							<span class="like-a-link">{{ current_session.class | escape }}</span>
                             <div>{{ current_session.instructor | escape }}</div>
                             <div>{{ current_session.start_time | escape }} - {{ current_session.end_time | escape }}</div>
+							{% include schedule-links-signup.html class=current_session.class day=day start_time=current_session.start_time allow_online_signups=include.allow_online_signups %}
                         {% endfor %}
                         </td>
                     {% endif %}

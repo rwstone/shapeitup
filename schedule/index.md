@@ -1,6 +1,7 @@
 ---
 title: Group Fitness Schedule
 date: 2020-11-05 08:01:00 -05:00
+allow_online_signups: true
 sessions:
 - class: Zumba
   instructor: Felix
@@ -80,10 +81,12 @@ description_seo: View our regular calendar of group exercise classes.
 layout: schedule
 ---
 
-Class schedule will start June 1, 2021.
- ****We are closed on ALL Major Holidays.**** 
-        expect THANKSGIVING ZUMBA AT 9AM 
-Whenever possible, we post last-minute changes to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition) and teacher substitutions 
-**CLASSES MAY SUBJECT TO CHANGE WITHOUT NOTICE**
-**PRE-PAID CLASSES EXPIRE 30 DAYS FROM PURCHASE**
-**NO REFUNDS OR EXCHANGES**
+Please sign up in advance for classes. Online sign ups are now available.
+
+Classes may be subject to change without notice. Whenever possible, we post last-minute changes, including teacher subsititutions to [facebook](https://www.facebook.com/Shapeitupfitnessandnutrition).
+
+We are closed on all major holidays, except for Thanksgiving Zumba. 
+
+**PRE-PAID CLASSES EXPIRE 30 DAYS FROM PURCHASE.**
+
+**NO REFUNDS OR EXCHANGES.**

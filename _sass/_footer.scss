@@ -94,7 +94,7 @@ footer {
     font-size: 0.9rem;
 }
 
-.footer_column {
+.footer_column, .attribution {
     box-sizing: border-box;
     padding: 1rem 1rem 0.5rem;
     font-size: 0.9rem;
@@ -105,12 +105,17 @@ footer {
     display: inline-block;
 }
 
-.footer_contact_info_line {
+.footer_contact_info_line, .attribution {
     padding-top: 5px;
     color: $color_font_neutral;
     a {
         color: $color_font_neutral;
     }
+}
+
+.attribution {
+	font-size: 0.8rem;
+	margin-top: 4px;
 }
 
 .footer_disclaimers {
