@@ -1,6 +1,7 @@
 ---
 title: 12 week Circuit Conditioning
 date: 2020-03-10 17:15:00 -04:00
+published: false
 categories:
 - ZUMBA
 - STRONG BY ZUMBA
