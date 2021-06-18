@@ -16,4 +16,4 @@ event_end_date: 2021-07-05 23:59:00 -04:00
 
 We are pleased to announce the reopening of Shape It Up Fitness!  
   
-In-person classes will resume on July 6th. Please join us for a fit and fun summer!
+In-person classes will resume on July 6, 2021. Please join us for a fit and fun summer!
