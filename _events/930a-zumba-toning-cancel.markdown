@@ -1,6 +1,7 @@
 ---
 title: 930a Zumba Toning Cancel
 date: 2021-06-18 07:38:00 -04:00
+published: false
 event_date: 2021-06-19 00:00:00 -04:00
 event_end_date: 2021-06-19 23:59:00 -04:00
 class: Zumba Toning
