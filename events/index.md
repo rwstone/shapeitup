@@ -12,10 +12,3 @@ description_seo: View our upcoming sales, boot camps, Zumba in da Club events an
 layout: events
 ---
 
-**21 days of unlimited classes for $21.00 
-Starts April 1,2019!** 
-
-This offer is for New Members, and members who haven't taken classes in the last 90 days.
-
-Other Packages are: $30 unlimited monthly classes, and 
-$40 for 10 pre-paid classes (expires in 60days).
