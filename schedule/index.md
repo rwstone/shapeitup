@@ -9,12 +9,6 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
-- class: Circuit
-  instructor: Mary
-  day: Tuesday
-  start_time: 5:45p
-  end_time: 6:30p
-  length: 2
 - class: Zumba
   instructor: Sonia
   day: Tuesday
@@ -24,18 +18,6 @@ sessions:
 - class: Zumba
   instructor: Felix
   day: Wednesday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
-- class: Circuit
-  instructor: Mary
-  day: Thursday
-  start_time: 5:45p
-  end_time: 6:30p
-  length: 2
-- class: Zumba
-  instructor: Donna
-  day: Thursday
   start_time: 7:00p
   end_time: 7:55p
   length: 2
