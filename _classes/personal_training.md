@@ -34,5 +34,5 @@ button_label: Request an Eval
 Set and reach your personal fitness goals working one-on-one, or Group with a personal trainer. Start with an evaluation to discuss your fitness level, your goals and your schedule.
 
 **One-on-One **
-2x a week for 30mins. $100.00
-3x a week for 30mins. $150.00
+2x a week for 30mins. $175.00
+3x a week for 30mins. $250.00
