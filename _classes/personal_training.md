@@ -39,8 +39,8 @@ sub_heading: services by appointment
 class_type: gym fitness
 class_image: "/uploads/personal_training.jpg"
 additional_info:
-- 30min  2x a week ($100)
-- 30min 3x a week ($150)
+- 30min  2x a week ($175)
+- 30min 3x a week ($250)
 button_link: "/contact/"
 button_label: Request an Eval
 ---
