@@ -1,6 +1,6 @@
 ---
 title: Personal Training
-date: 2018-06-01 17:55:00 -04:00
+date: 2021-07-21 05:55:00 -04:00
 categories:
 - "#ZUMBA"
 - "#summer"
@@ -9,6 +9,11 @@ categories:
 - "#weather"
 - "#fitness"
 - "#weight-loss"
+- ZUMBA
+- beachbody
+- group fitness
+- personal training
+- summer
 tags:
 - "#summer"
 - "#fitfam"
@@ -21,6 +26,15 @@ tags:
 - "#beach"
 - "#ri"
 - "#healthyheaven"
+- group fitness
+- workouts
+- beachbody
+- cross fit
+- boot camp
+- shakeolgy
+- herbalife
+- circuit training
+- "#310shake"
 sub_heading: services by appointment
 class_type: gym fitness
 class_image: "/uploads/personal_training.jpg"
