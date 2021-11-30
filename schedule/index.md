@@ -22,10 +22,10 @@ sessions:
   end_time: 7:55p
   length: 2
 - class: Zumba
-  instructor: Felix
+  instructor: Donna
   day: Thursday
-  start_time: 9:30a
-  end_time: 10:30a
+  start_time: 7:00p
+  end_time: 7:55p
   length: 2
 - class: Barre Fusion
   instructor: Debbie
