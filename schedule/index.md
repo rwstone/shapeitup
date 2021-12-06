@@ -27,6 +27,12 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
+- class: Zumba Toning
+  instructor: Christine
+  day: Saturday
+  start_time: 9:30a
+  end_time: 10:25a
+  length: 2
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
