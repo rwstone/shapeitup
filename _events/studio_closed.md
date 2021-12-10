@@ -1,7 +1,6 @@
 ---
 title: Holiday Schedule
 date: 2021-06-18 15:23:00 -04:00
-published: false
 tags:
 - zumba
 - personal training
