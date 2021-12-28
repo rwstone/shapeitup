@@ -22,12 +22,6 @@ sessions:
   end_time: 7:55p
   length: 2
 - class: Zumba
-  instructor: Donna
-  day: Thursday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
-- class: Zumba
   instructor: Felix
   day: Saturday
   start_time: 10:00a
