@@ -1,6 +1,6 @@
 ---
 title: Holiday Schedule
-date: 2021-06-18 15:23:00 -04:00
+date: 2021-12-27 15:23:00 -05:00
 categories:
 - summerbody2022
 - workout
@@ -15,9 +15,11 @@ tags:
 - barre fusion
 - summerready
 - summer2022
-has_time_and_date: false
-event_date: 2021-06-28 03:00:00 -04:00
-event_end_date: 2021-07-05 23:59:00 -04:00
+has_time_and_date: true
+event_date: 2021-12-27 03:00:00 -05:00
+event_end_date: 2021-12-31 23:59:00 -05:00
+class: Zumba
 ---
 
-Shape It Up Fitness will be closed from December 24th, and 25th, then again on Dec. 31st. 
+Shape It Up Fitness will be closed from December 27th, and 31th.
+ 
