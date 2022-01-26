@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2020-11-05 08:01:00 -05:00
+date: 2022-01-26 08:01:00 -05:00
 allow_online_signups: true
 sessions:
 - class: Zumba
