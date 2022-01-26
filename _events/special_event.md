@@ -1,6 +1,7 @@
 ---
 title: New Years Day Zumba
 date: 2022-01-01 10:00:00 -05:00
+published: false
 categories:
 - fitness
 - '2022'
