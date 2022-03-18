@@ -23,7 +23,8 @@ event_date: 2022-03-24 06:15:00 -04:00
 event_end_date: 2022-03-26 23:59:00 -04:00
 ---
 
-We are pleased to announce Pop-Up Class for Thursday, March 24th and Saturday, March 26th
+We are pleased to announce Pop-Up Class for 
+Thursday, March 24th and Saturday, March 26th
   
 Thursdays Pop-Up Class
 630pm Extreme Hip-hop Step class with Ashlyn
