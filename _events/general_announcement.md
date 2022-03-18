@@ -26,10 +26,10 @@ event_end_date: 2022-03-26 23:59:00 -04:00
 We are pleased to announce Pop-Up Class for 
 Thursday, March 24th and Saturday, March 26th
   
-Thursdays Pop-Up Class
-630pm Extreme Hip-hop Step class with Ashlyn
+**Thursdays Pop-Up Class
+630pm Extreme Hip-hop Step class with Ashlyn**
 Only 15 spots available, you most register for class online or call 401.270.2929
 
-Saturdays Pop-up class:
-915am Zumba with Ann Saldi 
+**Saturdays Pop-up class:
+915am Zumba with Ann Saldi **
 You most also register for this class by calling 401.270.2929
