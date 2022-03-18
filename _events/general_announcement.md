@@ -19,7 +19,7 @@ tags:
 - hiphop class
 - extreme hiphop classes
 has_time_and_date: true
-event_date: 2021-06-24 06:15:00 -04:00
+event_date: 2022-03-24 06:15:00 -04:00
 event_end_date: 2022-03-26 23:59:00 -04:00
 ---
 
