@@ -21,6 +21,7 @@ tags:
 has_time_and_date: true
 event_date: 2022-03-24 06:15:00 -04:00
 event_end_date: 2022-03-26 23:59:00 -04:00
+class: Pop-Up Classes
 ---
 
 We are pleased to announce Pop-Up Class for 
