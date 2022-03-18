@@ -33,4 +33,4 @@ Only 15 spots available, you most register for class online or call 401.270.2929
 
 ****Saturdays Pop-up class:
 915am Zumba with Ann Saldi ****
-You most also register for this class by calling 401.270.2929
+ registration required for this class by calling 401.270.2929
