@@ -22,7 +22,7 @@ sessions:
   end_time: 7:55p
   length: 2
 - class: Pop-Up Classes
-  instructor: Debbie
+  instructor: Ann
   day: Saturday
   start_time: 9:15a
   end_time: 10:10a
