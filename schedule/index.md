@@ -21,12 +21,18 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
-- class: Pop-Up Classes
-  instructor: Ann
+- class: Barre Fusion
+  instructor: Debbie
   day: Saturday
-  start_time: 9:15a
-  end_time: 10:10a
+  start_time: 8:00a
+  end_time: 8:55a
   length: 2
+- class: Zumba Toning
+  instructor: Christine
+  day: Saturday
+  start_time: 9:30a
+  end_time: 10:25a
+  length: 3
 days:
 - Monday
 - Tuesday
@@ -41,6 +47,7 @@ time_slots_morning:
 - 8:30a
 - 9:00a
 - 9:15a
+- 9:30a
 - 9:45a
 - 10:15a
 - 10:30a
