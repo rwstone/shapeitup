@@ -21,6 +21,12 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
+- class: Zumba
+  instructor: Donna
+  day: Thursday
+  start_time: 7:00p
+  end_time: 7:55p
+  length: 2
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
