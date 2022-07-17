@@ -9,10 +9,22 @@
     {% endif %}
 </div>
 
-{% if include.allow_online_signups %} 
-	{% assign class_details_url = include.class | append: " on " | append: include.day | append: " at " | append: include.start_time | url_encode %}
-	{% assign class_name_url = include.class | url_encode %}
-	<div class="timetable_signup">
-		<a href="https://zfrmz.com/jrS8EMvKm4TAIsftw3zT?classname={{ class_name_url }}&classday={{ include.day }}&classtime={{ include.start_time }}&classdetails={{ class_details_url }}"><img class="signup_icon" src="/img/icons/add-white.png" alt="Sign Up"></a>
-	</div>
+{% if include.allow_online_signups %}
+
+	{% if include.class_link != nil %}
+	
+		<div class="timetable_signup">
+			<a href="{{ include.class_link }}"><img class="signup_icon" src="/img/icons/add-white.png" alt="Sign Up"></a>
+		</div>
+
+	{% else %}
+ 
+		{% assign class_details_url = include.class | append: " on " | append: include.day | append: " at " | append: include.start_time | url_encode %}
+		{% assign class_name_url = include.class | url_encode %}
+		<div class="timetable_signup">
+			<a href="https://zfrmz.com/jrS8EMvKm4TAIsftw3zT?classname={{ class_name_url }}&classday={{ include.day }}&classtime={{ include.start_time }}&classdetails={{ class_details_url }}"><img class="signup_icon" src="/img/icons/add-white.png" alt="Sign Up"></a>
+		</div>
+
+	{% endif %}
+
 {% endif %}

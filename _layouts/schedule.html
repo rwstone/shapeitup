@@ -38,7 +38,7 @@ layout: default
                         {% for session in filtered_sessions %}
                             {% comment %}<li class="items_list_item icon_clock clearfix items_list_item_new">{% endcomment %}
                             <li class="timetable_list_item">
-								{% include schedule-links.html class=session.class class_instructor=session.instructor  day=day start_time=session.start_time allow_online_signups=page.allow_online_signups %}
+								{% include schedule-links.html class=session.class class_instructor=session.instructor class_link=session.special_link day=day start_time=session.start_time allow_online_signups=page.allow_online_signups %}
                                 <div class="timetable_time">
                                     {{ session.start_time | escape }} - {{ session.end_time | escape }}
                                 </div>
@@ -52,7 +52,7 @@ layout: default
                     
                         {% for session in filtered_sessions %}
                             <li class="timetable_list_item">
-								{% include schedule-links.html class=session.class class_instructor=session.instructor  day=day start_time=session.start_time allow_online_signups=page.allow_online_signups %}
+								{% include schedule-links.html class=session.class class_instructor=session.instructor class_link=session.special_link day=day start_time=session.start_time allow_online_signups=page.allow_online_signups %}
                                 <div class="timetable_time">
                                     {{ session.start_time | escape }} - {{ session.end_time | escape }}
                                 </div>

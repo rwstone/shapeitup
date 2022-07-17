@@ -33,12 +33,13 @@ sessions:
   start_time: 8:00a
   end_time: 8:55a
   length: 2
-- class: Zumba
-  instructor: Felix
+- class: Extreme Hip Hop Step
+  instructor: Chanda
   day: Saturday
   start_time: 9:30a
-  end_time: 10:25a
+  end_time: 10:30a
   length: 3
+  special_link: https://shapeitupnutritionfitness.square.site/product/extreme-hip-hop-step/162?cp=true&sa=false&sbp=false&q=false&category_id=4
 days:
 - Monday
 - Tuesday
