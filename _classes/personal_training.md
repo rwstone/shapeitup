@@ -1,6 +1,6 @@
 ---
 title: Personal Training
-date: 2021-07-21 05:55:00 -04:00
+date: 2022-07-15 05:55:00 -04:00
 categories:
 - "#ZUMBA"
 - "#summer"
@@ -14,6 +14,7 @@ categories:
 - group fitness
 - personal training
 - summer
+- shakeogly
 tags:
 - "#summer"
 - "#fitfam"
@@ -35,6 +36,7 @@ tags:
 - herbalife
 - circuit training
 - "#310shake"
+- summer2022
 sub_heading: services by appointment
 class_type: gym fitness
 class_image: "/uploads/personal_training.jpg"
@@ -45,8 +47,19 @@ button_link: "/contact/"
 button_label: Request an Eval
 ---
 
-Set and reach your personal fitness goals working one-on-one, or Group with a personal trainer. Start with an evaluation to discuss your fitness level, your goals and your schedule.
-
+**Personal Training **
 **One-on-One **
 2x a week for 30mins. $175.00
 3x a week for 30mins. $250.00
+
+**Personal Training
+MAKE EVERY WORKOUT COUNT**
+
+Set your goal, commit to a training frequency, and allow your trainer to keep you on track with achieving results. Training sessions may be conducted virtually or in-person, outdoors on grounds or inside our facilities.
+
+**Your experience will include:**
+
+Body composition and movement assessments
+SMART Goal development
+
+“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.” – Carol Dweck, Author
