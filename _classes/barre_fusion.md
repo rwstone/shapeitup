@@ -27,4 +27,22 @@ additional_info:
 mindbody_code: "&stype=-7&sVT=6"
 ---
 
-Barre Fusion is a signature full-body workout designed to give you chiseled abs, toned legs, cut arms and a high, lifted butt. This ballet-inspired, core-centric class focuses on isolated excercises, alignment, flexibility and posture as you work through targeted mindful muscle movements. Push yourself to the limit - and then find balance - as each hard muscle effort is followed by a deep, relaxing stretch.
+
+**About Pilates/Barre/Core**
+Pilates/Barre/Core classes are energizing and challenging workouts. These low, medium, and high-intensity exercise classes are specifically designed to work all major muscles in the body.
+
+Skill level: Basic, Intermediate, & Advanced Classes Available
+
+**Benefits**
+Improved Flexibility
+Increased Balance
+ 
+**Class Preparation****
+
+New to class? Arrive a little early so your instructor can give you some pointers.
+
+Alert your instructor of any injuries so they can provide modification options.
+
+Maintain good upright posture during all exercises.
+ 
+Check the class schedule to register 
