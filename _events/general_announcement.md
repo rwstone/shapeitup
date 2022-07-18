@@ -42,7 +42,11 @@ Stronger cardiovascular abilities
 Stronger lower body
 Increased hand/eye coordination
 Burns calories and improves metabolism
-Xtreme Hip Hop Step Class Preparation
+
+**Xtreme Hip Hop Step Class Preparation**
+
 •New to class? Arrive a little early so our instructor can give you some pointers.
+
 •Alert your instructor of any injuries so they can provide modification options.
+
 •Maintain good upright posture and make full foot connection with the step.
