@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2022-01-26 08:01:00 -05:00
+date: 2022-07-18 08:01:00 -04:00
 allow_online_signups: true
 sessions:
 - class: Zumba
@@ -78,6 +78,11 @@ Classes may be subject to change without notice. Whenever possible, we post last
 
 We are closed on all major holidays, except for Thanksgiving Zumba. 
 
-**PRE-PAID CLASSES EXPIRE 30 DAYS FROM PURCHASE.**
+**Single Class fee; $10**
+
+**PRE-PAID & Unlimited monthly CLASSES EXPIRE 30 DAYS FROM PURCHASE.**
+**unlimited monthly membership includes: Zumba, Barre Fusion, **
+**Pop-Up Classes S10 - $15 **
+**Extreme Hip Hop Step fee:$1o **
 
 **NO REFUNDS OR EXCHANGES.**
