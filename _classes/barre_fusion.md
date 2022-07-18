@@ -1,6 +1,6 @@
 ---
 title: Barre Fusion
-date: 2016-04-22 17:55:00 -04:00
+date: 2022-07-18 17:55:00 -04:00
 categories:
 - circuit training
 - yoga
@@ -17,6 +17,9 @@ tags:
 - ZUMBA
 - ZUMBA TONING
 - toning
+- summer2022
+- rhode island
+- seekonk ma
 sub_heading: group exercise class
 class_type: mindful fitness
 class_image: "/uploads/barre_fusion.jpg"
@@ -27,22 +30,19 @@ additional_info:
 mindbody_code: "&stype=-7&sVT=6"
 ---
 
-
-**About Pilates/Barre/Core**
-Pilates/Barre/Core classes are energizing and challenging workouts. These low, medium, and high-intensity exercise classes are specifically designed to work all major muscles in the body.
-
-Skill level: Basic, Intermediate, & Advanced Classes Available
+**About Barre**
+An energizing non-impact class that is designed to strengthen, tone and balance the entire body utilizing the ballet barre, light weights, bands and small balls. Barre class includes toning and muscle endurance exercises with an emphasis on the core, arms, glutes and thighs. A basic understanding of the Barre method is recommended.
 
 **Benefits**
-Improved Flexibility
-Increased Balance
- 
-**Class Preparation****
+Improved posture and balance.
+Great low impact workout.
+Improved flexibility and stability.
+Creates a more balanced body.
+Increases core strength.
 
-New to class? Arrive a little early so your instructor can give you some pointers.
+**Barre Class Preparation**
+New to class? Arrive a little early so our instructor can give you some pointers.
 
 Alert your instructor of any injuries so they can provide modification options.
 
 Maintain good upright posture during all exercises.
- 
-Check the class schedule to register 
