@@ -39,7 +39,7 @@ sessions:
   start_time: 9:30a
   end_time: 10:30a
   length: 3
-  special_link: https://shapeitupnutritionfitness.square.site/product/extreme-hip-hop-step/162?cp=true&sa=false&sbp=false&q=false&category_id=4
+  special_link: https://shapeitupnutritionfitness.square.site
 days:
 - Monday
 - Tuesday
