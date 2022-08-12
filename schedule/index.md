@@ -21,13 +21,12 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
-- class: Extreme Hip-Hop Step
-  instructor: Chanda
+- class: Zumba
+  instructor: Sonia
   day: Thursday
   start_time: 7:00p
   end_time: 7:55p
   length: 2
-  special_link: https://shapeitupnutritionfitness.square.site/
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
