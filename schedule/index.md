@@ -21,12 +21,26 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
+- class: Extreme Hip-Hop Step
+  instructor: Chanda
+  day: Thursday
+  start_time: 6:00p
+  end_time: 6:55p
+  length: 2
+  special_link: https://shapeitupnutritionfitness.square.site/
 - class: Zumba
   instructor: Donna
   day: Thursday
   start_time: 7:00p
   end_time: 7:55p
   length: 2
+- class: Yoga Flow
+  instructor: Debbie
+  day: Friday
+  start_time: 9:30a
+  end_time: 10:25a
+  length: 2
+  special_link: 
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
@@ -38,7 +52,7 @@ sessions:
   day: Saturday
   start_time: 9:30a
   end_time: 10:30a
-  length: 3
+  length: 2
   special_link: https://shapeitupnutritionfitness.square.site/
 days:
 - Monday
@@ -53,10 +67,8 @@ time_slots_morning:
 - 8:00a
 - 8:30a
 - 9:00a
-- 9:15a
 - 9:30a
-- 9:45a
-- 10:15a
+- 10:00a
 - 10:30a
 - 11:00a
 time_slots_evening:
