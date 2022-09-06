@@ -21,8 +21,8 @@ tags:
 - summer2022
 - rhodeisland
 has_time_and_date: true
-event_date: 2022-07-23 09:30:00 -04:00
-event_end_date: 2022-07-23 10:25:00 -04:00
+event_date: 2022-09-08 09:30:00 -04:00
+event_end_date: 2022-12-31 10:25:00 -05:00
 class: Extreme Hip-Hop Step
 ---
 
@@ -31,7 +31,7 @@ only 16 steppers available, **fee: $10**
 **must register and pay online.** 
 **(not covered under monthly pass)**
   
-** Saturday, July 23 at 930a **
+** Thursday, September 8,at 6pm & Saturday at 9:30am **
 
 **About Xtreme Hip Hop Step**
 
