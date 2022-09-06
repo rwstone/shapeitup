@@ -16,4 +16,4 @@ event_end_date: 2022-12-31 23:59:00 -05:00
 class: Yoga
 ---
 
-We have added Morning Yoga Flow at 930a with Debbie to our schedule starting September 9, 2022
+We have added Morning Yoga Flow at 930a with Debbie to our schedule starting Friday, September 9, 2022
