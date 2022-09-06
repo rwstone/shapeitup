@@ -1,6 +1,6 @@
 ---
 title: Extreme Hip Hop Step Class
-date: 2022-09-08 11:00:00 -04:00
+date: 2022-09-06 11:00:00 -04:00
 categories:
 - step class
 - hiphop
