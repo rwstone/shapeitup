@@ -4,7 +4,7 @@ date: 2022-07-18 08:01:00 -04:00
 allow_online_signups: true
 sessions:
 - class: Zumba
-  instructor: Felix
+  instructor: Donna
   day: Monday
   start_time: 7:00p
   end_time: 7:55p
@@ -16,14 +16,8 @@ sessions:
   end_time: 7:55p
   length: 2
 - class: Zumba
-  instructor: Felix
-  day: Wednesday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
-- class: Zumba
   instructor: Donna
-  day: Thursday
+  day: Wednesday
   start_time: 7:00p
   end_time: 7:55p
   length: 2
