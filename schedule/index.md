@@ -3,6 +3,12 @@ title: Group Fitness Schedule
 date: 2022-07-18 08:01:00 -04:00
 allow_online_signups: true
 sessions:
+- class: Circuit Training
+  instructor: Mary
+  day: Monday
+  start_time: 6:00p
+  end_time: 6:45p
+  length: 2
 - class: Zumba
   instructor: Donna
   day: Monday
@@ -15,9 +21,21 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
+- class: Circuit Training
+  instructor: Mary
+  day: Wednesday
+  start_time: 6:00p
+  end_time: 6:45p
+  length: 2
 - class: Zumba
   instructor: Donna
   day: Wednesday
+  start_time: 7:00p
+  end_time: 7:55p
+  length: 2
+- class: Zumba
+  instructor: Sonia
+  day: Thursday
   start_time: 7:00p
   end_time: 7:55p
   length: 2
