@@ -22,11 +22,11 @@ sessions:
   end_time: 7:55p
   length: 2
 - class: Zumba
-  instructor: Sonia
+  instructor: Sonia and Donna
   day: Thursday
-  start_time: 7:00p
-  end_time: 7:55p
-  length: 2
+  start_time: 9:00a
+  end_time: 10:15a
+  length: 3
 - class: Yoga Flow
   instructor: Debbie
   day: Friday
