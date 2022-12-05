@@ -22,9 +22,9 @@ tags:
 - covid19
 - '2023'
 has_time_and_date: true
-event_date: 2022-09-09 00:00:00 -04:00
-event_end_date: 2022-12-31 23:59:00 -05:00
-class: Yoga
+event_date: 2022-12-02 00:00:00 -05:00
+event_end_date: 2023-01-07 23:59:00 -05:00
+class: Zumba Toning
 ---
 
 NEW Class starting Dec 10th
