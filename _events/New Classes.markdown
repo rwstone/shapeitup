@@ -34,4 +34,4 @@ Students learn how to use lightweight toning sticks to enhance rhythm and tone a
 
 **Starting Jan 2, 2023 
 Monday's & Wednesday's at 630p Circuit Class with Mary**
-Circuit training consists of a consecutive series of timed exercises performed one after the other with varying amounts of rest between each exercise.
+Circuit training consists of a consecutive series of timed exercises performed one after the other with varying amounts of rest between each exercise. 45min Class
