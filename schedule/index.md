@@ -27,13 +27,6 @@ sessions:
   start_time: 7:00p
   end_time: 7:55p
   length: 2
-- class: Yoga Flow
-  instructor: Debbie
-  day: Friday
-  start_time: 9:30a
-  end_time: 10:25a
-  length: 2
-  special_link: 
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
