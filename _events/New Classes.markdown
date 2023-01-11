@@ -27,7 +27,7 @@ event_end_date: 2023-01-07 23:59:00 -05:00
 class: Zumba Toning
 ---
 
-NEW Class starting Dec 10th
+NEW Class starting Jan 14
 
 **Saturday's 10a Zumba Toning with Sopath.**
 Students learn how to use lightweight toning sticks to enhance rhythm and tone all their target zones, including arms, abs, and thighs. 30mins of Toning combined with 25mins of Zumba. Total for 55min class
