@@ -22,7 +22,7 @@ sessions:
   end_time: 7:10p
   length: 2
 - class: Zumba
-  instructor: Shelly
+  instructor: Michelle P
   day: Wednesday
   start_time: 7:15a
   end_time: 8:10a
