@@ -28,7 +28,7 @@ sessions:
   end_time: 8:10a
   length: 2
 - class: Zumba
-  instructor: Sonia
+  instructor: Erika
   day: Thursday
   start_time: 7:00p
   end_time: 7:55p
