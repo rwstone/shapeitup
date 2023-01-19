@@ -7,7 +7,7 @@ sessions:
   instructor: Mary
   day: Monday
   start_time: 6:30p
-  end_time: 7:15p
+  end_time: 7:10p
   length: 2
 - class: Zumba Toning
   instructor: Sopath
@@ -19,7 +19,7 @@ sessions:
   instructor: Mary
   day: Wednesday
   start_time: 6:30p
-  end_time: 7:15p
+  end_time: 7:10p
   length: 2
 - class: Zumba
   instructor: Shelly
