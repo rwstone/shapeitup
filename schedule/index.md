@@ -9,8 +9,8 @@ sessions:
   start_time: 6:30p
   end_time: 7:15p
   length: 2
-- class: Zumba
-  instructor: Sonia
+- class: Zumba Toning
+  instructor: Sopath
   day: Tuesday
   start_time: 7:00p
   end_time: 7:55p
