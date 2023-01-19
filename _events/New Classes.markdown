@@ -1,6 +1,6 @@
 ---
-title: New Classes
-date: 2022-12-02 07:38:00 -05:00
+title: Sunday Zumba Coming Soon
+date: 2023-01-19 07:38:00 -05:00
 categories:
 - New years 2023
 - Healthy
@@ -21,17 +21,20 @@ tags:
 - Holiday party
 - covid19
 - '2023'
+- nfl
+- trending2023
+- viral
+- tiktok
 has_time_and_date: true
-event_date: 2023-01-10 00:00:00 -05:00
-event_end_date: 2023-01-07 23:59:00 -05:00
-class: Zumba Toning
+event_date: 2023-01-19 00:00:00 -05:00
+event_end_date: 2023-02-28 23:59:00 -05:00
+class: Zumba
 ---
 
-NEW Class starting Jan 14
+NEW Class starting Sunday, Jan 29, 2023
 
-**Saturday's 10a Zumba Toning with Sopath.**
-Students learn how to use lightweight toning sticks to enhance rhythm and tone all their target zones, including arms, abs, and thighs. 30mins of Toning combined with 25mins of Zumba. Total for 55min class
+**Sunday 10a Zumba with Michelle Puhacz.**
+ Zumba – combines Latin and international music with dance moves. 
 
-**Starting Jan 16, 2023 
-Monday's & Wednesday's at 630p Circuit Class with Mary**
-Circuit training consists of a consecutive series of timed exercises performed one after the other with varying amounts of rest between each exercise. 40-45min Class
+** New Class starting Monday, Jan 30. 2023
+    Zumba with Michelle Puhacz **
