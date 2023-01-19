@@ -36,5 +36,3 @@ NEW Class starting Sunday, Jan 29, 2023
 **Sunday 10a Zumba with Michelle Puhacz.**
  Zumba – combines Latin and international music with dance moves. 
 
-** New Class starting Monday, Jan 30. 2023
-    Zumba with Michelle Puhacz **
