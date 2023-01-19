@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2022-07-18 08:01:00 -04:00
+date: 2023-01-19 08:01:00 -05:00
 allow_online_signups: true
 sessions:
 - class: Circuit Training
