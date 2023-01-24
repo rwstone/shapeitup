@@ -12,7 +12,7 @@ event_end_date: 2021-07-30 20:15:00 -04:00
 Mondays & Wednesday 630p Circuit Training with Mary & Steve
 
 Sunday, January 29 10a Zumba with Michelle P.
-Monday, January 30 715p Zumba with Michelle P.
+
 
 **Wednesday Feb 8 2023 **
 Wednesday 715p Zumba with Erika
