@@ -39,18 +39,18 @@ sessions:
   start_time: 10:00a
   end_time: 10:55a
   length: 2
-- class: 
-  instructor: 
-  day: 
-  start_time: 
-  end_time: 
-  length: 
 - class: Zumba
   instructor: Michelle P
   day: Sunday
   start_time: 10:00a
   end_time: 10:50a
   length: 2
+- class: 
+  instructor: 
+  day: 
+  start_time: 
+  end_time: 
+  length: 
 days:
 - Monday
 - Tuesday
