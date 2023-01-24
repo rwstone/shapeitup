@@ -10,7 +10,7 @@ sessions:
   end_time: 7:10p
   length: 2
 - class: Zumba Toning
-  instructor: Sopath
+  instructor: Sophath
   day: Tuesday
   start_time: 7:00p
   end_time: 7:55p
@@ -39,20 +39,18 @@ sessions:
   start_time: 10:00a
   end_time: 10:55a
   length: 2
-- class: Zumba
-  instructor: Michelle P
-  day: Sunday
-  start_time: '10:00a
-
-'
-  end_time: 10:50a
-  length: 2
 - class: 
   instructor: 
   day: 
   start_time: 
   end_time: 
   length: 
+- class: Zumba
+  instructor: Michelle P
+  day: Sunday
+  start_time: 10:00a
+  end_time: 10:50a
+  length: 2
 days:
 - Monday
 - Tuesday
