@@ -34,7 +34,7 @@ sessions:
   end_time: 8:55a
   length: 2
 - class: Zumba Toning
-  instructor: Sopath
+  instructor: Sophath
   day: Saturday
   start_time: 10:00a
   end_time: 10:55a
@@ -45,12 +45,6 @@ sessions:
   start_time: 10:00a
   end_time: 10:50a
   length: 2
-- class: 
-  instructor: 
-  day: 
-  start_time: 
-  end_time: 
-  length: 
 days:
 - Monday
 - Tuesday
