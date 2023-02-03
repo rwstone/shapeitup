@@ -77,6 +77,7 @@ time_slots_evening:
 - 7:15p
 - 7:30p
 - 8:00p
+- 8:15p
 - 8:30p
 description_seo: View our regular calendar of group exercise classes.
 layout: schedule
