@@ -14,7 +14,7 @@ sessions:
   day: Tuesday
   start_time: 7:00p
   end_time: 7:55p
-  length: 2
+  length: 3
 - class: Circuit Training
   instructor: Mary
   day: Wednesday
@@ -22,11 +22,17 @@ sessions:
   end_time: 7:10p
   length: 2
 - class: Zumba
+  instructor: Erika
+  day: Wednesday
+  start_time: 7:15p
+  end_time: 8:10p
+  length: 3
+- class: Zumba
   instructor: Sonia
   day: Thursday
   start_time: 7:00p
   end_time: 7:55p
-  length: 2
+  length: 3
 - class: Barre Fusion
   instructor: Debbie
   day: Saturday
@@ -44,12 +50,6 @@ sessions:
   day: Sunday
   start_time: 10:00a
   end_time: 10:50a
-  length: 2
-- class: Zumba
-  instructor: Erika
-  day: Wednesday
-  start_time: 7:15p
-  end_time: 8:10p
   length: 2
 days:
 - Monday
@@ -74,6 +74,7 @@ time_slots_evening:
 - 6:00p
 - 6:30p
 - 7:00p
+- 7:15p
 - 7:30p
 - 8:00p
 - 8:30p
