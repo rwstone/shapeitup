@@ -45,6 +45,12 @@ sessions:
   start_time: 10:00a
   end_time: 10:50a
   length: 2
+- class: Zumba
+  instructor: Erika
+  day: Wednesday
+  start_time: 7:15p
+  end_time: 8:10p
+  length: 2
 days:
 - Monday
 - Tuesday
