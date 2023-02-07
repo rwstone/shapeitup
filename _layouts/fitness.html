@@ -2,6 +2,7 @@
 <html prefix="og: http://ogp.me/ns#">
 <head>
     {% include head.html %}
+	<script src="https://gymdesk.com/js/widgets.js"></script>
     {% assign sorted_classes = site.classes | where: "published",true | sort: "title" %}
     {% for class in sorted_classes %}
         {% if class.class_image and class.class_image != blank %}
@@ -13,6 +14,10 @@
 <body>
 
 {% include header.html %}
+
+    <div class="maonrails-schedule" attr-gym="lN84Q" attr-schedule="lWdW2"></div>
+	
+
 
 <div class="page-content fitness_page">
 
