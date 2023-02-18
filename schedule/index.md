@@ -46,7 +46,7 @@ sessions:
   end_time: 10:55a
   length: 2
 - class: Zumba
-  instructor: Michelle P
+  instructor: Erika
   day: Sunday
   start_time: 10:00a
   end_time: 10:50a
