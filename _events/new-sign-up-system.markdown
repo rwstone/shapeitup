@@ -9,4 +9,4 @@ button_label: https://shapeitupfitness.punchpass.com
 
 Shape It Up is switching to a new computer system for its schedule, class sign-ups, and pass purchases.
 
-Please feel free to create an account and update your profile. Otherwise, stay tuned for more information from Mary. Thanks!
+Please feel free to [create an account](https://app.punchpass.com/org/17227/auth/account/new), sign up for classes, and update your profile. Otherwise, stay tuned for more information from Mary. Thanks!
