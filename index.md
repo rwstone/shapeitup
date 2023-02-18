@@ -12,9 +12,15 @@ passes:
 - name: Drop In
   price: "$10"
   is_sale: false
-- name: Unlimited Monthly Class Pass (expires in 30 days)
+  purchase_link: "https://shapeitupfitness.punchpass.com/passes/166528"
+- name: Monthly Unlimited Membership
   price: "$30"
   is_sale: false
+  purchase_link: "https://shapeitupfitness.punchpass.com/passes/166545"
+- name: Try Your First Class Free
+  price: "$0"
+  is_sale: false
+  purchase_link: "https://shapeitupfitness.punchpass.com/passes/167386"
 title_seo: Shape It Up Fitness | East Providence, RI
 description_seo: Shape It Up Fitness is an exercise studio in East Providence, RI,
   with a fun and approachable attitude. We offer  group exercise classes, including

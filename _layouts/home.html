@@ -76,7 +76,7 @@
             {% endif %}
         </li>
         <li class="home_box third_color">
-            <h2>Group Fitness Rates</h2>
+            <h2><a href="https://shapeitupfitness.punchpass.com/passes">Purchase a Pass</a></h2>
             <ul class="items_list price_list clearfix">
                 {% for pass in page.passes limit:4 %}
                     {% assign odd_index = forloop.index | modulo:2 %}
@@ -84,10 +84,18 @@
                     <li>
                         <ul class="home_box_column{% if forloop.first == true %} first_column{% endif %}">
                     {% endif %}
+
                             <li class="items_list_item{% if forloop.first == true %} first{% endif %}">
-                                {{ pass.name | escape }}{% if pass.is_sale == true %} <p class="sale">Sale!</p>{% endif %}
+
+                                {% if pass.purchase_link %}<a class="pass_link" href="{{ pass.purchase_link | escape }}">{% endif %}
+								
+								{{ pass.name | escape }}{% if pass.is_sale == true %} <p class="sale">Sale!</p>{% endif %}
                                 <div class="value">{{ pass.price | escape }}</div>
-                            </li>
+								
+								{% if pass.purchase_link %}</a>{% endif %}
+
+                            </li>							
+
                     {% if odd_index == 0 %}
                         </ul>
                     </li>

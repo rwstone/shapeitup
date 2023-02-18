@@ -9,23 +9,32 @@
 
 <nav id="mobile_nav_container" class="mobile_nav_wrapper clearfix">
     <ul class="mobile_nav clearfix"><!--
-        -->{% if nutrition_page.published %}<li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
+        --><!--{% if nutrition_page.published %}<li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
             <a href="/nutrition/"><div class="tmp_li">Nutrition</div></a>
-        </li>{% endif %}<!--
-        --><li{% if page.url == "/fitness/" %} class="selected"{% endif %}>
+        </li>{% endif %}--><!--
+        --><!--<li{% if page.url == "/fitness/" %} class="selected"{% endif %}>
             <a href="/fitness/">Fitness</a>
-        </li><!--
-        --><li{% if page.url == "/schedule/" %} class="selected"{% endif %}>
+        </li>--><!--
+        --><!--<li{% if page.url == "/schedule/" %} class="selected"{% endif %}>
             <a href="/schedule/">Schedule</a>
+        </li>--><!--
+        --><li>
+            <a href="https://shapeitupfitness.punchpass.com/">Schedule</a>
         </li><!--
         --><li{% if page.url == "/events/" %} class="selected"{% endif %}>
             <a href="/events/">Events</a>
         </li><!--
-        --><li{% if page.url == "/staff/" %} class="selected"{% endif %}>
+        --><!--<li{% if page.url == "/staff/" %} class="selected"{% endif %}>
             <a href="/staff/">Staff</a>
-        </li><!--
+        </li>--><!--
         --><li{% if page.url == "/contact/" %} class="selected"{% endif %}>
             <a href="/contact/">Contact</a>
+        </li><!--
+        --><li>
+            <a href="https://app.punchpass.com/org/17227/auth/session/new">Sign In</a>
+        </li><!--
+        --><li>
+            <a href="https://app.punchpass.com/org/17227/auth/account/new">Create Account</a>
         </li><!--
     --></ul>
 
@@ -48,7 +57,7 @@
             </a>
         </div>
         <ul class="sf-menu header_right">
-            {% if nutrition_page.published %}<li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
+            <!--{% if nutrition_page.published %}<li{% if page.url == "/nutrition/" %} class="selected"{% endif %}>
                 <a href="/nutrition/">Nutrition</a>
             </li>{% endif %}
             <li{% if page.url == "/fitness/" %} class="selected"{% endif %}>
@@ -56,15 +65,24 @@
             </li>
             <li{% if page.url == "/schedule/" %} class="selected"{% endif %}>
                 <a href="/schedule/">Schedule</a>
+            </li>-->
+            <li>
+                <a href="https://shapeitupfitness.punchpass.com/calendar">Schedule</a>
             </li>
             <li{% if page.url == "/events/" %} class="selected"{% endif %}>
                 <a href="/events/">Events</a>
             </li>
-            <li{% if page.url == "/staff/" %} class="selected"{% endif %}>
+            <!--<li{% if page.url == "/staff/" %} class="selected"{% endif %}>
                 <a href="/staff/">Staff</a>
-            </li>
+            </li>-->
             <li{% if page.url == "/contact/" %} class="selected"{% endif %}>
                 <a href="/contact/">Contact</a>
+            </li>
+            <li>
+				<a href="https://app.punchpass.com/org/17227/auth/session/new">Sign In</a>
+            </li>
+            <li>
+				<a href="https://app.punchpass.com/org/17227/auth/account/new">Create Account</a>
             </li>
         </ul>
     </div>
