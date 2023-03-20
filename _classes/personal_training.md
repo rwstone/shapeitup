@@ -1,6 +1,6 @@
 ---
 title: Personal Training
-date: 2022-07-15 05:55:00 -04:00
+date: 2023-03-20 05:55:00 -04:00
 categories:
 - "#ZUMBA"
 - "#summer"
@@ -49,8 +49,8 @@ button_label: Request an Eval
 
 **Personal Training **
 **One-on-One **
-2x a week for 30mins. $175.00
-3x a week for 30mins. $275.00
+2x a week for 4 weeks at 30mins per session. $175.00
+3x a week for 4 weeks at 30mins per session  $275.00
 
 **Personal Training
 MAKE EVERY WORKOUT COUNT**
