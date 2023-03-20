@@ -1,8 +1,8 @@
 ---
 title: New Sign-Up System
-date: 2023-02-18 15:07:00 -05:00
+date: 2023-03-20 15:07:00 -04:00
 has_time_and_date: false
-event_date: 2023-02-19 00:00:00 -05:00
+event_date: 2023-03-20 00:00:00 -04:00
 button_link: Take a Look
 button_label: https://shapeitupfitness.punchpass.com
 ---
