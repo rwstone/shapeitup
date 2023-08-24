@@ -36,6 +36,9 @@ Zumba in da Club brings Zumba dance moves to a club-style setting for 90mins. Ad
  
 Zumba in da Club events start in September and ends July. 
 
-This event is $15 in advance and $20 at the door. **Prepaid classes, or unlimited monthly do not apply to this event.
+This event is $15 in advance and $20 at the door. 
+
+**Prepaid classes, or unlimited monthly do not apply to this event.
 **
+
 Doors open at 7:00pm.
