@@ -36,7 +36,7 @@ event_end_date: 2021-07-30 20:15:00 -04:00
              ** Shape It Up Fitness New FALL 2023 Schedule **
           ** New Schedule Starts Sunday, September 10, 2023 **
 
-Sundays              10a Zumba Erika.
+Sundays              10a  Zumba Erika.
 Mondays & Wednesdays 6pm  Circuit Training with Mary & Steve
 Mondays & Wednesdays 7pm  Zumba with Felix (he's back!)
 Tuesdays             6mp  Zumba with Michelle & 7p Zumba with Sonia
