@@ -49,8 +49,9 @@ button_label: Request an Eval
 
 **Personal Training **
 **One-on-One **
+
 2x a week for 4 weeks at 30mins per session $195.00 ,
-3x a week for 4 weeks at 30mins per session  $295.00
+3x a week for 4 weeks at 30mins per session $295.00
 
 **Personal Training
 MAKE EVERY WORKOUT COUNT**
