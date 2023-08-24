@@ -14,7 +14,6 @@ tags:
 - rhody
 - rhodeisland
 - rhodylove
-- rhodyetas
 - townies
 - towniepride
 - weddings
@@ -28,6 +27,8 @@ tags:
 - GROUP TRAINING
 - BACK TO SCHOOL 2023
 - FALL 2023
+- RHODY
+- RHODYEATS
 has_time_and_date: true
 event_date: 2023-08-24 15:00:00 -04:00
 event_end_date: 2021-07-30 20:15:00 -04:00
