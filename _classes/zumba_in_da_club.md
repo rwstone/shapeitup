@@ -1,6 +1,6 @@
 ---
 title: Zumba in da Club
-date: 2017-04-14 19:30:00 -04:00
+date: 2023-08-14 14:30:00 -04:00
 categories:
 - dancing
 - ZUMBA
@@ -23,11 +23,15 @@ class_type: dance fitness
 class_image: "/uploads/zumba_in_da_club.jpg"
 additional_info:
 - Class passes are not valid for Zumba in da Club.
-- "$10 in advance or $15 at the door."
+- "$15 in advance or $20 at the door."
 - 
 mindbody_code: "&stype=-7&sVT=18"
 ---
 
-Zumba in da Club brings Zumba dance moves to a club-style setting. Add to the fun with glow sticks and theme nights. This event is with Silvia and Special Guest's on April 14th, at 7:30pm - 9pm. This event is $10 in advance and $15 at the door. Prepaid classes, or unlimited monthly do not apply to this event.
+Zumba in da Club brings Zumba dance moves to a club-style setting for 90mins. Add to the fun with glow sticks and theme nights.
+ 
+Zumba in da Club events start in September and ends July. 
 
+This event is $15 in advance and $20 at the door. **Prepaid classes, or unlimited monthly do not apply to this event.
+**
 Doors open at 7:00pm.
