@@ -18,6 +18,10 @@ tags:
 - night out
 - st. patricks daty
 - friday nights
+- rhode island
+- ZUMBA
+- fitness group fit
+- rhody
 sub_heading: special event
 class_type: dance fitness
 class_image: "/uploads/zumba_in_da_club.jpg"
