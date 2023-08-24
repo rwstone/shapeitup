@@ -1,11 +1,14 @@
 ---
-title: New Classes Coming
-date: 2018-03-09 10:07:00 -05:00
-published: false
+title: FALL 2023 UPDATED CLASSES
+date: 2023-08-24 10:07:00 -04:00
 categories:
 - zumba
 - fitness
 - '2023'
+- personal training
+- GROUP TRAINING
+- YOGA
+- BARRE FUSION
 tags:
 - instagood
 - rhody
@@ -20,17 +23,24 @@ tags:
 - weddings2023
 - fitness
 - personal training
-has_time_and_date: false
-event_date: 2021-07-13 18:00:00 -04:00
+- INSTAREELS
+- PERSONAL TRAINING
+- GROUP TRAINING
+- BACK TO SCHOOL 2023
+- FALL 2023
+has_time_and_date: true
+event_date: 2023-08-24 15:00:00 -04:00
 event_end_date: 2021-07-30 20:15:00 -04:00
 ---
 
-**Shape It Up Fitness is adding a few NEW Instructors and Classes to our schedule..** 
+             ** Shape It Up Fitness New FALL 2023 Schedule **
+          ** New Schedule Starts Sunday, September 10, 2023 **
 
-Mondays & Wednesday 630p Circuit Training with Mary & Steve
+Sundays              10a Zumba Erika.
+Mondays & Wednesdays 6pm  Circuit Training with Mary & Steve
+Mondays & Wednesdays 7pm  Zumba with Felix (he's back!)
+Tuesdays             6mp  Zumba with Michelle & 7p Zumba with Sonia
+Thursdays            6pm  Zumba with Erika & 7p Zumba with Sonia
+Saturdays            8a   Barre Fusion with Deb & Zumba Toning 10a Sophath 
 
-Sunday, January 29 10a Zumba with Michelle P.
-
-
-**Wednesday Feb 8 2023 **
-Wednesday 715p Zumba with Erika
+                    **PLEASE REGISTER FOR CLASSES **
