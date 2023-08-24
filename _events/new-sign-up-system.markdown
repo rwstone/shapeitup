@@ -1,8 +1,22 @@
 ---
 title: New Sign-Up System
-date: 2023-03-20 15:07:00 -04:00
-has_time_and_date: false
-event_date: 2023-03-20 00:00:00 -04:00
+date: 2023-08-24 15:07:00 -04:00
+tags:
+- rhodeisland
+- RHODYEATS
+- rhodylove
+- PROVIDENCE
+- PROVIDENCE EATS
+- zUMBA
+- personal training
+- GROUP TRAINING
+- YOGA
+- barre fusion
+- ZUMBA TONING
+- ZUMBA FITNESS
+- LATIN DANCING
+has_time_and_date: true
+event_date: 2023-08-24 00:00:00 -04:00
 button_link: Take a Look
 button_label: https://shapeitupfitness.punchpass.com
 ---
