@@ -1,5 +1,5 @@
 ---
-title: FALL 2023 UPDATED CLASSES
+title: UPDATED CLASSES
 date: 2023-09-05 10:07:00 -04:00
 categories:
 - zumba
@@ -30,14 +30,14 @@ tags:
 - RHODY
 - RHODYEATS
 has_time_and_date: true
-event_date: 2023-09-05 15:00:00 -04:00
+event_date: 2023-10-29 15:00:00 -04:00
 event_end_date: 2024-07-30 20:15:00 -04:00
 ---
 
              ** Shape It Up Fitness New FALL 2023 Schedule **
-          ** New Schedule Starts Sunday, September 10, 2023 **
+         
 
-Sundays              10a  Zumba Erika.
+
 Mondays & Wednesdays 6pm  Circuit Training with Mary & Steve
 Mondays & Wednesdays 7pm  Zumba with Felix (he's back!)
 Tuesdays             6mp  Zumba with Erika & 7p Zumba with Sonia
