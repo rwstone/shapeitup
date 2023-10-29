@@ -1,13 +1,25 @@
 ---
 title: Group Fitness Schedule
-date: 2023-01-19 08:01:00 -05:00
+date: 2023-10-29 08:01:00 -04:00
 allow_online_signups: true
 sessions:
 - class: Circuit Training
   instructor: Mary
   day: Monday
-  start_time: 6:30p
-  end_time: 7:10p
+  start_time: 6:00p
+  end_time: 6:45p
+  length: 2
+- class: Zumba
+  instructor: Felix
+  day: Monday
+  start_time: 7:00p
+  end_time: 7:55p
+  length: 2
+- class: Zumba
+  instructor: Erika
+  day: Tuesday
+  start_time: 6:00p
+  end_time: 6:55p
   length: 2
 - class: Zumba
   instructor: Sonia
@@ -18,15 +30,21 @@ sessions:
 - class: Circuit Training
   instructor: Mary
   day: Wednesday
-  start_time: 6:30p
-  end_time: 7:10p
+  start_time: 6:00p
+  end_time: 6:45p
   length: 2
 - class: Zumba
-  instructor: Erika
+  instructor: Felix
   day: Wednesday
-  start_time: 7:15p
-  end_time: 8:10p
+  start_time: 7:00p
+  end_time: 7:55p
   length: 3
+- class: Zumba
+  instructor: Michelle P
+  day: Thursday
+  start_time: 6:00p
+  end_time: 6:55p
+  length: 2
 - class: Zumba
   instructor: Sonia
   day: Thursday
@@ -88,6 +106,6 @@ We are closed on all major holidays, except for Thanksgiving Zumba.
 **PRE-PAID & Unlimited monthly CLASSES EXPIRE 30 DAYS FROM PURCHASE.**
 **unlimited monthly membership includes: Zumba, Barre Fusion, **
 **Pop-Up Classes S10 - $15 **
-**Extreme Hip Hop Step fee:$1o **
+
 
 **NO REFUNDS OR EXCHANGES.**
