@@ -27,6 +27,8 @@ class: Zumba
 **Shape It Up Fitness will 2023 Holiday Schedule:
 **
 
+**Halloween Day CLOSED**
+
 Thanksgiving Day Zumba with Felix at 9am. 
 
 **Christmas Day & New Years Day we are CLOSED**
