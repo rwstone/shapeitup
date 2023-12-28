@@ -1,6 +1,7 @@
 ---
 title: UPDATED CLASSES
 date: 2023-09-05 10:07:00 -04:00
+published: false
 categories:
 - zumba
 - fitness
