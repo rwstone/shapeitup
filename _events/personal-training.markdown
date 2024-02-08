@@ -23,8 +23,9 @@ tags:
 - ozempic
 - weight loss
 - lipo
+- feast & fiddle
 has_time_and_date: true
-event_date: 2023-12-28 00:00:00 -05:00
+event_date: 2023-02-08 00:00:00 -05:00
 event_end_date: 2024-01-31 00:00:00 -05:00
 class: Personal Training
 ---
