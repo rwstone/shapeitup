@@ -1,10 +1,10 @@
 ---
 title: Group Fitness Schedule
-date: 2023-12-28 08:01:00 -05:00
+date: 2024-02-08 08:01:00 -05:00
 allow_online_signups: true
 sessions:
 - class: Circuit Training
-  instructor: Mary
+  instructor: Felix
   day: Monday
   start_time: 6:00p
   end_time: 6:45p
@@ -28,7 +28,7 @@ sessions:
   end_time: 7:55p
   length: 3
 - class: Circuit Training
-  instructor: Mary
+  instructor: Felix
   day: Wednesday
   start_time: 6:00p
   end_time: 6:45p
