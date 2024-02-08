@@ -4,6 +4,8 @@ date: 2024-02-08 18:42:00 -05:00
 has_time_and_date: true
 event_date: 2024-03-05 00:00:00 -05:00
 event_end_date: 2024-12-31 00:00:00 -05:00
+button_link: Take A Look
+button_label: https://shapeitupfitness.punchpass.com
 ---
 
 **Starting March 5th, we are adding additional classes to our schedule ** **You must register for classes online to reserve your spot**
