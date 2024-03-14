@@ -21,7 +21,7 @@ button_label: htt
 
 
 
-Monday   930a Circuit with Mary ( 45min Class)
+
 
 Tuesday  930a Zumba with Felix  ( 55min Class)
 
