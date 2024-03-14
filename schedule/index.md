@@ -50,7 +50,7 @@ sessions:
   day: Thursday
   start_time: 9:30a
   end_time: 10:15a
-  length: 
+  length: 2
 - class: Zumba
   instructor: Michelle P
   day: Thursday
@@ -62,7 +62,7 @@ sessions:
   day: Friday
   start_time: 9:30a
   end_time: 10:15a
-  length: 
+  length: 2
 - class: Zumba
   instructor: Sonia
   day: Thursday
