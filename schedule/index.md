@@ -1,6 +1,6 @@
 ---
 title: Group Fitness Schedule
-date: 2024-02-08 08:01:00 -05:00
+date: 2024-02-07 08:01:00 -05:00
 allow_online_signups: true
 sessions:
 - class: Circuit Training
