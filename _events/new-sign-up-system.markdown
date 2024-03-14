@@ -21,7 +21,7 @@ tags:
 - ZUMBA FITNESS
 - LATIN DANCING
 has_time_and_date: true
-event_date: 2024-02-08 11:00:00 -05:00
+event_date: 2024-03-13 11:00:00 -04:00
 button_link: Take a Look
 button_label: https://shapeitupfitness.punchpass.com
 ---
