@@ -1,6 +1,6 @@
 ---
 title: Personal Training
-date: 2024-02-08 18:25:00 -05:00
+date: 2024-03-31 18:25:00 -04:00
 categories:
 - fitness
 - gym
@@ -25,7 +25,7 @@ tags:
 - lipo
 - feast & fiddle
 has_time_and_date: true
-event_date: 2024-03-14 11:00:00 -04:00
+event_date: 2024-03-31 11:00:00 -04:00
 event_end_date: 2025-01-30 11:00:00 -05:00
 class: Personal Training
 ---
