@@ -16,12 +16,6 @@ sessions:
   end_time: 7:55p
   length: 2
 - class: Zumba
-  instructor: Felix
-  day: Tuesday
-  start_time: 9:30a
-  end_time: 10:25a
-  length: 2
-- class: Zumba
   instructor: Erika
   day: Tuesday
   start_time: 6:00p
