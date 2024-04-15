@@ -1,7 +1,6 @@
 ---
-title: UPDATED CLASSES
-date: 2023-09-05 10:07:00 -04:00
-published: false
+title: Spring Break Classes
+date: 2024-04-14 10:07:00 -04:00
 categories:
 - zumba
 - fitness
@@ -31,18 +30,19 @@ tags:
 - RHODY
 - RHODYEATS
 has_time_and_date: true
-event_date: 2023-10-29 15:00:00 -04:00
-event_end_date: 2024-07-30 20:15:00 -04:00
+event_date: 2024-04-14 15:00:00 -04:00
+event_end_date: 2024-04-22 20:15:00 -04:00
 ---
 
-             ** Shape It Up Fitness New FALL 2023 Schedule **
+             ** Shape It Up Fitness Schedule April 15 -22, 2024 **
+Some of our instructors are taking some time to be with their families during Spring Break. We do apologize for the inconvenience 
          
 
 
-Mondays & Wednesdays 6pm  Circuit Training with Mary & Steve
-Mondays & Wednesdays 7pm  Zumba with Felix (he's back!)
-Tuesdays             6mp  Zumba with Erika & 7p Zumba with Sonia
-Thursdays            6pm  Zumba with Michelle & 7p Zumba with Sonia
+Mondays & Wednesdays 6pm  Circuit Training with Steve
+Mondays &  7pm Zumba with Felix 
+Tuesdays             6pm  Zumba with Erika & 7p Zumba with Sonia
+Thursdays            7p Zumba with Sonia
 Saturdays            8a   Barre Fusion with Deb 
 Saturday             10a  Zumba with Michelle 
 
