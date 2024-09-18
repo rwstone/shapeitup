@@ -1,7 +1,6 @@
 ---
-title: New Years Day Zumba
-date: 2022-01-01 10:00:00 -05:00
-published: false
+title: Zumba in Da Club
+date: 2024-09-18 10:00:00 -04:00
 categories:
 - fitness
 - '2022'
@@ -16,11 +15,10 @@ tags:
 - rhodeisland
 - eastprovidence
 has_time_and_date: true
-event_date: 2022-01-01 10:00:00 -05:00
-event_end_date: 2022-01-01 11:00:00 -05:00
+event_date: 2024-09-18 10:00:00 -04:00
+event_end_date: 2024-10-18 11:00:00 -04:00
 ---
 
-Join us for New Years Day Zumba class at 10am with Felix!
-
-Lets start off the New Year off right!! Join Felix for a 60min Dance Party Zumba style Saturday, January 1, 2022. 
-You must register for Class online or call 401.270.2929
+Don't miss Halloween Zumba in Da Club at 7:30 PM with Felix, Sonia, and Michelle.
+Friday, October 18th. Doors open at 7 PM. Admission is $15 cash at the door.
+ All proceeds go to Edgewood Eagles National for Mary & Felix Santana's grandson.
