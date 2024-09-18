@@ -17,6 +17,7 @@ tags:
 has_time_and_date: true
 event_date: 2024-09-18 10:00:00 -04:00
 event_end_date: 2024-10-18 11:00:00 -04:00
+class: Zumba in da Club
 ---
 
 Don't miss Halloween Zumba in Da Club at 7:30 PM with Felix, Sonia, and Michelle.
