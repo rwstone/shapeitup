@@ -1,6 +1,6 @@
 ---
 title: Personal Training
-date: 2024-04-14 18:25:00 -04:00
+date: 2024-09-18 06:25:00 -04:00
 categories:
 - fitness
 - gym
