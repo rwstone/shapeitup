@@ -1,6 +1,6 @@
 ---
 title: Zumba in Da Club
-date: 2024-09-18 10:00:00 -04:00
+date: 2024-09-18 19:00:00 -04:00
 categories:
 - fitness
 - '2022'
