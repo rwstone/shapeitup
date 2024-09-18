@@ -25,7 +25,7 @@ tags:
 - lipo
 - feast & fiddle
 has_time_and_date: true
-event_date: 2024-04-14 11:00:00 -04:00
+event_date: 2024-09-18 11:00:00 -04:00
 event_end_date: 2025-01-30 11:00:00 -05:00
 class: Personal Training
 ---
