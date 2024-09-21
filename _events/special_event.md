@@ -22,6 +22,6 @@ button_link: https://shapeitupfitness.punchpass.com/classes/16137782
 button_label: Reserve Your Spot
 ---
 
-Don't miss Halloween Zumba in Da Club at 7:30 PM with Felix, Sonia, and Michelle.
-Friday, October 18th. Doors open at 7 PM. Admission is $15 cash at the door.
- All proceeds go to Edgewood Eagles National for Mary & Felix Santana's grandson.
+Don't miss Halloween Zumba in Da Club at 7:30 PM with Felix, Sonia, and Michelle. Friday, October 18th. Doors open at 7 PM.
+
+Admission is $15 cash at the door. All proceeds go to Edgewood Eagles National for Mary & Felix Santana's grandson.
